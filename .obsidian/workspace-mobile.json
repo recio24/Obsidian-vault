@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "511758756ca1e163",
+    "type": "split",
+    "children": [
+      {
+        "id": "eef7234a32dbba90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edead26a1479ca0c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbabb288d9b55122",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1fd67b62d692b7be",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "d5436a3966e4d61a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "3938e7eb90f218da",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "3b4b8069638570cd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "74dbe428ab6cf2de",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c8b1600ec09e255",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Procesos de fabricación/Fabricación aditiva.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "5e991aba70185b4a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Hoja procesos.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "c7810a7805a67225",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Hoja procesos.pdf",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false
+    }
+  },
+  "active": "edead26a1479ca0c",
+  "lastOpenFiles": [
+    "Elementos de maquinas/7. Deslizamientos/Fijación rodamientos.md",
+    "Elementos de maquinas/7. Deslizamientos/Deslizamiento lineal.md",
+    "Elementos de maquinas/7. Deslizamientos/Cojinetes.md",
+    "Elementos de maquinas/7. Deslizamientos/Clasificación.Elementos de deslizamiento.md",
+    "Elementos de maquinas/7. Deslizamientos/0.Deslizamiento_2425.pdf",
+    "Procesos de fabricación/Fabricación aditiva.md",
+    "Hoja procesos.pdf",
+    "Elementos de maquinas/8. Estanqueidad/Estanqueidad dinámica. movimiento giratorio.md",
+    "Elementos de maquinas/7. Deslizamientos/Rodamientos.md",
+    "Elementos de maquinas/7. Deslizamientos/Montaje y desmontaje.md",
+    "Elementos de maquinas/6. Elementos de unión/0.Elementos de unión.pdf",
+    "Elementos de maquinas/6. Elementos de unión/Ejercicios estudio .pdf"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "10ce72a799513e22",
+    "type": "split",
+    "children": [
+      {
+        "id": "29bfc3799bd89006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82659ae0b881c5e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc7b2bfcdde0faa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a794062e9075f5d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3646f9a1c35bc65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "4477b5bbaed02b12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b960201852ee790e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0ac83ed8c080f72",
+    "type": "split",
+    "children": [
+      {
+        "id": "faedc442ad7f0880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b9ce1366dcc6792",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elementos de maquinas/6. Elementos de unión/2.2. Tuercas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 2.2. Tuercas"
+            }
+          },
+          {
+            "id": "51f1161a9d7f46c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Elementos de maquinas/6. Elementos de unión/2.2. Tuercas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 2.2. Tuercas"
+            }
+          },
+          {
+            "id": "560c768b8a3e7e55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2f1b4f1629ca8482",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GS_Mecatronica/Ingles/Features an benefits.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Features an benefits"
+            }
+          },
+          {
+            "id": "0241c744a47357d6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "omnisearch:Omnisearch": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "82659ae0b881c5e8",
+  "lastOpenFiles": [
+    "GS_Mecatronica/Elementos de maquinas/9. Elementos de transmisión/Ejercicios. cajas negras.md",
+    "GS_Mecatronica/Elementos de maquinas/9. Elementos de transmisión/Untitled Diagram.svg",
+    "GS_Mecatronica/Elementos de maquinas/8. Estanqueidad/Estanqueidad estatica.md",
+    "GS_Mecatronica/Elementos de maquinas/9. Elementos de transmisión",
+    "GS_Mecatronica/Elementos de maquinas/8. Estanqueidad/Estanqueidad dinámica. movimiento giratorio.md",
+    "GS_Mecatronica/Elementos de maquinas/8. Estanqueidad/Estanqueidad dinámica. movimiento axial.md",
+    "GS_Mecatronica/Elementos de maquinas/8. Estanqueidad/Estanqueidad.md",
+    "GS_Mecatronica/Elementos de maquinas/8. Estanqueidad/Elementos de estanqueidad_2425.pdf",
+    "GS_Mecatronica/Ingles/Features an benefits.md",
+    "GS_Mecatronica/Elementos de maquinas/5. Resistencia de materiales/2.Tracción y compresión.md",
+    "GS_Mecatronica/Elementos de maquinas/1. Materiales/1. Tipos de materiales.md",
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/01 - Python.md",
+    "INFORMATICA/01 2.0 - Programación/0101 - Metodologías/Programación orientada a objetos (OOP).md",
+    "INFORMATICA/01.1 - Linux/Shell.md",
+    "INFORMATICA/01.0 - Programación/0102 - Lenguajes/Markdown/Markdown.md",
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Latex/Comandos simbolos.md",
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Markdown/Markdown.md",
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/Webs con información.md",
+    "INFORMATICA/01 2.0 - Programación/0100 - Fundamentos.md",
+    "0100 - Fundamentos.md",
+    "GS_Mecatronica/Procesos de fabricación/Hoja procesos.pdf",
+    "INFORMATICA/01.1 - Linux/Linux Kali",
+    "INFORMATICA/01.1 - Linux",
+    "INFORMATICA/01.0 - Programación/0102 - Lenguajes/Markdown",
+    "INFORMATICA/01.0 - Programación/0102 - Lenguajes",
+    "INFORMATICA/01.0 - Programación",
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711060640.png",
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711021035.png",
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710230904.png",
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710224548.png",
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS",
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python",
+    "INFORMATICA/01 2.0 - Programación/Visual Code Shortcuts.md",
+    "Sistemas hidráulicos y neumáticos/Electroneumatica/Electroneumatica.md",
+    "GS_Mecatronica/Elementos de maquinas/6. Elementos de unión/2. Uniones atornilladas.md",
+    "GS_Mecatronica/Elementos de maquinas/6. Elementos de unión/1. Clasificación.md",
+    "GS_Mecatronica/Elementos de maquinas/5. Resistencia de materiales/3. Cortadura.md",
+    "GS_Mecatronica/Elementos de maquinas/5. Resistencia de materiales/1. Introducción.md",
+    "GS_Mecatronica/Elementos de maquinas/4. Estática/2.1. Tipos de carga.md",
+    "GS_Mecatronica/Elementos de maquinas/4. Estática/2. Resolución de un modelo.md",
+    "GS_Mecatronica/Elementos de maquinas/8. Estanqueidad/Untitled Diagram.svg",
+    "Pasted image 20250407151817.png",
+    "GS_Mecatronica/Elementos de maquinas/8. Estanqueidad/Anexos/Pasted image 20250407122422.png",
+    "GS_Mecatronica/Elementos de maquinas/7. Deslizamientos/Anexos/Pasted image 20250403153051.png",
+    "GS_Mecatronica/Elementos de maquinas/7. Deslizamientos/Anexos/Pasted image 20250403151357.png"
+  ]
+}
