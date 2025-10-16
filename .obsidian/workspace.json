@@ -11,12 +11,14 @@
             "id": "82659ae0b881c5e8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Reparaciones_de_Motores__1748357417.pdf"
+                "file": "nota_server.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Reparaciones_de_Motores__1748357417"
+              "icon": "lucide-file",
+              "title": "nota_server"
             }
           }
         ]
@@ -185,9 +187,12 @@
   },
   "active": "a3646f9a1c35bc65",
   "lastOpenFiles": [
+    "Reparaciones_de_Motores__1748357417.pdf",
+    "nota_server.md",
+    "test_n8n.txt",
+    "prueba_sync.txt",
     "fiqehdiuqd.md",
     "jsjfsiuhfiuwhf.md",
-    "Reparaciones_de_Motores__1748357417.pdf",
     "GS_Mecatronica/Elementos de maquinas/9. Elementos de transmisión/Ejercicios. cajas negras.md",
     "GS_Mecatronica/Elementos de maquinas/9. Elementos de transmisión/Untitled Diagram.svg",
     "GS_Mecatronica/Elementos de maquinas/8. Estanqueidad/Estanqueidad estatica.md",
@@ -213,19 +218,15 @@
     "INFORMATICA/01.1 - Linux",
     "INFORMATICA/01.0 - Programación/0102 - Lenguajes/Markdown",
     "INFORMATICA/01.0 - Programación/0102 - Lenguajes",
-    "INFORMATICA/01.0 - Programación",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711060640.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711021035.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710230904.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710224548.png",
-    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS",
     "INFORMATICA/01 2.0 - Programación/Visual Code Shortcuts.md",
     "Sistemas hidráulicos y neumáticos/Electroneumatica/Electroneumatica.md",
     "GS_Mecatronica/Elementos de maquinas/6. Elementos de unión/2. Uniones atornilladas.md",
     "GS_Mecatronica/Elementos de maquinas/6. Elementos de unión/1. Clasificación.md",
     "GS_Mecatronica/Elementos de maquinas/5. Resistencia de materiales/3. Cortadura.md",
-    "GS_Mecatronica/Elementos de maquinas/5. Resistencia de materiales/1. Introducción.md",
-    "GS_Mecatronica/Elementos de maquinas/4. Estática/2.1. Tipos de carga.md",
     "GS_Mecatronica/Elementos de maquinas/8. Estanqueidad/Untitled Diagram.svg",
     "Pasted image 20250407151817.png",
     "GS_Mecatronica/Elementos de maquinas/8. Estanqueidad/Anexos/Pasted image 20250407122422.png",

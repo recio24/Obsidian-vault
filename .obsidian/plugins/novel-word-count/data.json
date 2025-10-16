@@ -2470,33 +2470,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/Elementos de maquinas/4. Estática/Ejercicios/_ANEXOS_/Ejercicio 5.svg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732281409000,
-      "modifiedDate": 1732281411000,
-      "sizeInBytes": 25524,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/Elementos de maquinas/4. Estática/Ejercicios/_ANEXOS_/Ejercicio 6.svg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2524,7 +2497,7 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/Elementos de maquinas/4. Estática/Ejercicios/_ANEXOS_/Ejercicio 2.svg": {
+    "GS_Mecatronica/Elementos de maquinas/4. Estática/Ejercicios/_ANEXOS_/Ejercicio 5.svg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2539,9 +2512,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1732100093000,
-      "modifiedDate": 1732100095000,
-      "sizeInBytes": 42137,
+      "createdDate": 1732281409000,
+      "modifiedDate": 1732281411000,
+      "sizeInBytes": 25524,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2605,7 +2578,7 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/Elementos de maquinas/4. Estática/Ejercicios/_ANEXOS_/Ejercicio 11.svg": {
+    "GS_Mecatronica/Elementos de maquinas/4. Estática/Ejercicios/_ANEXOS_/Ejercicio 2.svg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2620,9 +2593,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1732607663000,
-      "modifiedDate": 1732607666000,
-      "sizeInBytes": 27258,
+      "createdDate": 1732100093000,
+      "modifiedDate": 1732100095000,
+      "sizeInBytes": 42137,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2650,6 +2623,33 @@
       "createdDate": 1732608973000,
       "modifiedDate": 1732608973000,
       "sizeInBytes": 21918,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/Elementos de maquinas/4. Estática/Ejercicios/_ANEXOS_/Ejercicio 11.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1732607663000,
+      "modifiedDate": 1732607666000,
+      "sizeInBytes": 27258,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3172,6 +3172,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/Elementos de maquinas/2. Tratamientos/3.3. Pavondo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 317,
+      "nonWhitespaceCharacterCount": 261,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730893589000,
+      "modifiedDate": 1731616947000,
+      "sizeInBytes": 323,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13,
+        "wordCount": 39,
+        "characterCount": 317,
+        "nonWhitespaceCharacterCount": 261,
+        "newlineCount": 15
+      }
+    },
     "GS_Mecatronica/Elementos de maquinas/2. Tratamientos/_Tratamientos termicos_2425.pdf": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -3224,33 +3251,6 @@
         "characterCount": 260,
         "nonWhitespaceCharacterCount": 225,
         "newlineCount": 9
-      }
-    },
-    "GS_Mecatronica/Elementos de maquinas/2. Tratamientos/3.3. Pavondo.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 39,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 317,
-      "nonWhitespaceCharacterCount": 261,
-      "newlineCount": 15,
-      "readingTimeInMinutes": 0.1471698113207547,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730893589000,
-      "modifiedDate": 1731616947000,
-      "sizeInBytes": 323,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13,
-        "wordCount": 39,
-        "characterCount": 317,
-        "nonWhitespaceCharacterCount": 261,
-        "newlineCount": 15
       }
     },
     "GS_Mecatronica/Elementos de maquinas/2. Tratamientos/3.2. Nitruración.md": {
@@ -4171,51 +4171,24 @@
         "newlineCount": 0
       }
     },
-    "prueba_sync.txt": {
+    "nota_server.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 6,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 93,
-      "nonWhitespaceCharacterCount": 87,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1760641969440,
-      "modifiedDate": 1760641969441,
-      "sizeInBytes": 93,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "test_n8n.txt": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 31,
-      "nonWhitespaceCharacterCount": 29,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 40,
       "newlineCount": 2,
-      "readingTimeInMinutes": 0.007547169811320755,
+      "readingTimeInMinutes": 0.01509433962264151,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1760641969441,
-      "modifiedDate": 1760641969441,
-      "sizeInBytes": 31,
+      "createdDate": 1760642136770,
+      "modifiedDate": 1760642136770,
+      "sizeInBytes": 44,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
