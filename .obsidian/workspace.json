@@ -178,11 +178,14 @@
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "82659ae0b881c5e8",
   "lastOpenFiles": [
+    "aaaaakhbhb",
     "iycaguyifyugfyuadyugf.md",
     "pene",
     "aaa",
