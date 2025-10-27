@@ -8,4 +8,4 @@ Los elementos de estanqueidad se utilizan en sistemas hidráulicos para evitar f
 	- Juntas toricas
 	- Juntas para superficies planas
 	- Siliconas, teflón, etc.
-![[Untitled Diagram.svg]]
+![[GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Untitled Diagram.svg]]
