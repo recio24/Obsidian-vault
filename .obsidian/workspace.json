@@ -11,14 +11,10 @@
             "id": "48dbdfeb64c2e427",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/Sistemas de control y regulación/Sin título.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -185,7 +181,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "48dbdfeb64c2e427",
+  "active": "a3646f9a1c35bc65",
   "lastOpenFiles": [
     "GS_Mecatronica/2º Año/Integración de sistemas/Sistemas de control y regulación/Sin título.md",
     "0100 - Fundamentos.md",
