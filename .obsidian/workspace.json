@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -181,8 +182,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "48dbdfeb64c2e427",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Integración de sistemas/Sistemas de control y regulación/01_Teoria_Regulación Amazon 25_26.pptx",
     "GS_Mecatronica/2º Año/Integración de sistemas/Sistemas de control y regulación/Sin título.md",
     "0100 - Fundamentos.md",
     "Apuntes hidráulica José.pdf",
@@ -223,7 +225,6 @@
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710224548.png",
     "INFORMATICA/01 2.0 - Programación/Visual Code Shortcuts.md",
     "Sistemas hidráulicos y neumáticos/Electroneumatica/Electroneumatica.md",
-    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/2. Uniones atornilladas.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Untitled Diagram.svg",
     "Pasted image 20250407151817.png",
     "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Anexos/Pasted image 20250407122422.png",
