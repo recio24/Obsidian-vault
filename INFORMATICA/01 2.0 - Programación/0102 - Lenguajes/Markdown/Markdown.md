@@ -32,8 +32,8 @@
 > Así marcaríamos una cita:
 > 	> seguido del texto
 
->[!note]  
->	>[!tipo] titulo
+>[!note] 
+>>[!tipo] titulo
 >Esto se puede hacer con otros tipos como:
 
 >[!abstract]
