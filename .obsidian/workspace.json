@@ -190,9 +190,9 @@
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "obsidian-git:Open Git source control": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "a3646f9a1c35bc65",
