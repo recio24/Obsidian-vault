@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elementos de maquinas/6. Elementos de unión/2.2. Tuercas.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/2.Control de lazo abierto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 2.2. Tuercas"
+              "title": "Enlaces entrantes de 2.Control de lazo abierto"
             }
           },
           {
@@ -172,8 +172,7 @@
               "title": "git-view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
