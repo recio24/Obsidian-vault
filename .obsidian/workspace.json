@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/2.Control de lazo abierto.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/1.Noción del sistema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Control de lazo abierto"
+              "title": "1.Noción del sistema"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/2.Control de lazo abierto.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/1.Noción del sistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 2.Control de lazo abierto"
+              "title": "Enlaces entrantes de 1.Noción del sistema"
             }
           },
           {
@@ -197,8 +196,8 @@
   },
   "active": "a130e5d2d774d0e8",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/1.Noción del sistema.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/2.Control de lazo abierto.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/1.Noción del sistema.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/Sin nombre",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.Resistencia.md",
     "GS_Mecatronica/2º Año/Untitled.md",
