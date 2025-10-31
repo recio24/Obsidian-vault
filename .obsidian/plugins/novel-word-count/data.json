@@ -67,33 +67,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "0100 - Fundamentos.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012074,
-      "modifiedDate": 1761907012074,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Reparaciones_de_Motores__1748357417.pdf": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -202,6 +175,33 @@
         "newlineCount": 0
       }
     },
+    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/01 - Python.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012259,
+      "modifiedDate": 1761907012259,
+      "sizeInBytes": 67507,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711060640.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -301,33 +301,6 @@
       "createdDate": 1761907012260,
       "modifiedDate": 1761907012260,
       "sizeInBytes": 266820,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/01 - Python.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012259,
-      "modifiedDate": 1761907012259,
-      "sizeInBytes": 67507,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3145,6 +3118,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/2.2.2. Brinell.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012089,
+      "modifiedDate": 1761907012089,
+      "sizeInBytes": 189,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/2.3. Ensayo de charpy.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3199,33 +3199,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/2.2.2. Brinell.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012089,
-      "modifiedDate": 1761907012089,
-      "sizeInBytes": 189,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/2.2.1. Rockwell.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3244,6 +3217,33 @@
       "createdDate": 1761907012089,
       "modifiedDate": 1761907012089,
       "sizeInBytes": 455,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/03_Ensayos_2425.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012087,
+      "modifiedDate": 1761907012089,
+      "sizeInBytes": 859636,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3352,33 +3352,6 @@
       "createdDate": 1761907012089,
       "modifiedDate": 1761907012089,
       "sizeInBytes": 590,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/03_Ensayos_2425.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012087,
-      "modifiedDate": 1761907012089,
-      "sizeInBytes": 859636,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4324,6 +4297,33 @@
       "createdDate": 1761907012075,
       "modifiedDate": 1761907012075,
       "sizeInBytes": 1235,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "0100 - Fundamentos.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012074,
+      "modifiedDate": 1761907012074,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
