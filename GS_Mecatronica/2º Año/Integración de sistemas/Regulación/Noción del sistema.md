@@ -5,6 +5,7 @@ Un **sistema** es un conjunto de elementos relacionados entre sí que trabajan e
 >[!example] Sistema de calefacción
 > **Entrada**: la señal del termostato.
 > **Salida**: la temperatura del ambiente.
-
-
-
+### Conceptos
+- **Controlar**: medir el valor se una variable y actuar sobre el sistema para reducir la diferencia entre un valor y el deseado.
+- **Variable controlada**: magnitud que se mide y que queremos mantener estable.
+- **Consigna**: Valor que se desea para la va
