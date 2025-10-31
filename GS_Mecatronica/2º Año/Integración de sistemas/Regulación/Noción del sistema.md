@@ -8,4 +8,6 @@ Un **sistema** es un conjunto de elementos relacionados entre sí que trabajan e
 ### Conceptos
 - **Controlar**: medir el valor se una variable y actuar sobre el sistema para reducir la diferencia entre un valor y el deseado.
 - **Variable controlada**: magnitud que se mide y que queremos mantener estable.
-- **Consigna**: Valor que se desea para la va
+- **Consigna**: valor que se desea para la variable controlada.
+- **Acción de control**: magnitud sobre la que se actúa para modificar la variable controlada. (mariposa de admisión...)
+- **Perturbación**: entrada no deseada que afecta negativamente al sistema.
