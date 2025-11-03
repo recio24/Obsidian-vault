@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/Ejercicios. Sensorica.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios. Sensorica.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -194,12 +195,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "a130e5d2d774d0e8",
   "lastOpenFiles": [
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica",
-    "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/1.Noción del sistema.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/Ejercicios. Sensorica.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/2.Control de lazo abierto.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.Noción del sistema.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios. Sensorica.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/2.Control de lazo abierto.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.Resistencia.md",
     "GS_Mecatronica/2º Año/Untitled.md",
     "Untitled.md",
@@ -216,7 +217,7 @@
     "Sin título 1.base",
     "Sin título.base",
     "Sin título 2.base",
-    "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/01_Teoria_Regulación Amazon 25_26.pptx",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/01_Teoria_Regulación Amazon 25_26.pptx",
     "0100 - Fundamentos.md",
     "iycaguyifyugfyuadyugf.md",
     "nota_serverrr.md",
