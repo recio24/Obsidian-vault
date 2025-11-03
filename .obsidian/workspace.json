@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/1.Noción del sistema.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Noción del sistema"
+              "title": "Sin título"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -196,8 +197,9 @@
   },
   "active": "a130e5d2d774d0e8",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/2.Control de lazo abierto.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/1.Noción del sistema.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/Sin título.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/2.Control de lazo abierto.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/Regulación/Sin nombre",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.Resistencia.md",
     "GS_Mecatronica/2º Año/Untitled.md",
@@ -232,7 +234,6 @@
     "GS_Mecatronica/1º Año/Elementos de maquinas/5. Resistencia de materiales/2.Tracción y compresión.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/1. Tipos de materiales.md",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/01 - Python.md",
-    "INFORMATICA/01 2.0 - Programación/0101 - Metodologías/Programación orientada a objetos (OOP).md",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711060640.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711021035.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710230904.png",
