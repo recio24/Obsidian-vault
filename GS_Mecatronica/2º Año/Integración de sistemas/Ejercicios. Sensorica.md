@@ -6,4 +6,6 @@ $$\huge N=2^{10} = 1024$$
 - Resolución en distancia
 $$\huge resolución = \frac{Campo de medida}{Número de niveles}=\frac{250mm}{1024}= 0.244$$
 - Valor de precisión absoluto de 0,1mm, precisión de la lectura 0,1%
-Error de lectura: $0,1\% \cdot 250 = 0,001 \cdot 250 = 0,25mm$
+	Error de lectura: $0,1\% \cdot 250 = 0,001 \cdot 250 = 0,25mm$
+	Error absoluto: 0,1mm
+La peor precisión será la de 0,1% de lectura.
