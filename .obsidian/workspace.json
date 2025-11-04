@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ee7ee71b5b7f0a3",
+        "id": "07e6926f38dde01d",
         "type": "tabs",
         "children": [
           {
-            "id": "1d5e0c4ab58267a3",
+            "id": "5205adf0df26e4e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios. Sensorica.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ejercicios. Sensorica"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -194,12 +190,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1d5e0c4ab58267a3",
+  "active": "5205adf0df26e4e6",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios. Sensorica.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/8.Control derivativo (D).md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/7.Control integral (I).md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/6.Control proporcional (P).md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios. Sensorica.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/4.Proceso continuo y secuencial.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/3.Control de lazo cerrado.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/5.Control ON-OFF.md",
