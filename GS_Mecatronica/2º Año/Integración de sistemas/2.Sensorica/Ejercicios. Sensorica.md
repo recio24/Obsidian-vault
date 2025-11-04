@@ -17,6 +17,10 @@ Microinterruptor **SPDT** -> Single Pole Double Throw (un polo, doble tiro)
 	NC
 	NO
 - Queremos utilizar el contacto NC, ¿como debemos alimentarlo?
+Conectaríamos el +24V al borne **COM** del micro.
+Conectaríamos el borne **NC** a la **entrada digital** del PLC.
 - Que tipo de actuador tiene?
+Cuenta con una palanca larga articulada
 - ¿Cual es su número de ciclos?
+Segun su tabla unas 
 - ¿Que tornillos se necesita para su montaje?
