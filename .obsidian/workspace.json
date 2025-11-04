@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07e6926f38dde01d",
+        "id": "13ed2fac6362bfbd",
         "type": "tabs",
         "children": [
           {
-            "id": "5205adf0df26e4e6",
+            "id": "d74af657af5192df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2.Ejercicios"
             }
-          },
-          {
-            "id": "8c8d405ab0d6df08",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Untitled Diagram.svg"
-              },
-              "icon": "lucide-file",
-              "title": "Untitled Diagram.svg"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -208,10 +194,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8c8d405ab0d6df08",
+  "active": "a3646f9a1c35bc65",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/2.Ejercicios.md",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Untitled Diagram.svg",
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/Untitled Diagram.svg",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/1.Tensión y corriente.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.Resistencia.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/3.Ley de ohm.md",
