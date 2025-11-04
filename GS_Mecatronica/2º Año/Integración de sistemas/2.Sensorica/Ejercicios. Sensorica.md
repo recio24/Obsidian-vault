@@ -12,7 +12,11 @@ La peor precisión será la de 0,1% de lectura.
 ---
 En una aplicación industrial, se utiliza este detector D3V-163-1C5
 - ¿Cuantos puntos tiene este detector? ¿Que significa SPDT?
+Microinterruptor **SPDT** -> Single Pole Double Throw (un polo, doble tiro)
+	COM
+	NC
+	NO
 - Queremos utilizar el contacto NC, ¿como debemos alimentarlo?
 - Que tipo de actuador tiene?
 - ¿Cual es su número de ciclos?
-- ¿Que tor
+- ¿Que tornillos se necesita para su montaje?
