@@ -11,10 +11,14 @@
             "id": "8f1efdc2de7b5ec9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/2.Control de lazo abierto.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "2.Control de lazo abierto"
             }
           }
         ]
