@@ -9,3 +9,7 @@ $$\huge resolución = \frac{Campo de medida}{Número de niveles}=\frac{250mm}{10
 	Error de lectura: $0,1\% \cdot 250 = 0,001 \cdot 250 = 0,25mm$
 	Error absoluto: 0,1mm
 La peor precisión será la de 0,1% de lectura.
+---
+En una aplicación industrial, se utiliza este detector D3V-163-1C5
+- ¿Cuantos puntos tiene este detector? ¿Que significa SPDT?
+- Queremos utilizar el contacto NC
