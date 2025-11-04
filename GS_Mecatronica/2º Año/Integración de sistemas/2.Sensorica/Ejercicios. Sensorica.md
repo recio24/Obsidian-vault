@@ -39,4 +39,6 @@ Estamos trabajando en la empresa en el área de mantenimiento. Se ha roto un det
 - ¿Podríamos alimentarlo si tenemos una fuente de alimentación de 35 Vdc?
 	No, su tensión de servicio es de 10..30Vdc. 
 - Si de la cinta pasaran 5000 piezas cada minuto, ¿puede servir para realizar el contaje/detección de las piezas?
-	$\huge \frac{5000}{60}= 83,33$ piezas por segundo =n
+	$\huge \frac{5000}{60}= 83,33$ piezas por segundo = 83,3Hz
+	La frecuencia de conmutación del sensor es de 100Hz por lo que si admitiria ese ritmo de servicio. 
+---
