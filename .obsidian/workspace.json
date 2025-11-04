@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "96ca0eee99715715",
+        "id": "0ee7ee71b5b7f0a3",
         "type": "tabs",
         "children": [
           {
-            "id": "8f1efdc2de7b5ec9",
+            "id": "1d5e0c4ab58267a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/7.Control integral (I).md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/5.Control ON-OFF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.Control integral (I)"
+              "title": "5.Control ON-OFF"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -194,11 +195,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8f1efdc2de7b5ec9",
+  "active": "1d5e0c4ab58267a3",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/6.Control proporcional (P).md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/7.Control integral (I).md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/4.Proceso continuo y secuencial.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/9.Control PID.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/8.Control derivativo (D).md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/7.Control integral (I).md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/6.Control proporcional (P).md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/5.Control ON-OFF.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/3.Control de lazo cerrado.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS",
@@ -231,8 +234,6 @@
     "nota_serverrr.md",
     "nota_server.md",
     "fiqehdiuqd.md",
-    "jsjfsiuhfiuwhf.md",
-    "GS_Mecatronica/1º Año/Elementos de maquinas/9. Elementos de transmisión/Ejercicios. cajas negras.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/9. Elementos de transmisión/Untitled Diagram.svg",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711060640.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711021035.png",
