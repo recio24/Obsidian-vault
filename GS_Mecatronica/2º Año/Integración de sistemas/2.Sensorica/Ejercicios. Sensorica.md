@@ -29,13 +29,13 @@ El micro cuenta con agujeros de 3,1mm, por lo que para su montaje necesitariamos
 ---
 Estamos trabajando en la empresa en el área de mantenimiento. Se ha roto un detector de una cinta transportadora. Su responsable de realizar el cambio le ha ofrecido la siguiente referencia de detector: M30BBE1-PSC25H-EP02
 - ¿Qué tipo de detector es?
-
+	Sensor de proximidad capacitivo.
 - ¿Es cilindrica o Rectangular?
-
+	Es cilindrico.
 - ¿A qué métrica pertenece su cuerpo?
-
+	Es una rosca de M30 x 1,5 (M30 estandar)
 - ¿La salida es de NPN?
+	Es un sensor PNP
+- ¿Podríamos alimentarlo si tenemos una fuente de alimentación de 35 Vdc?
 
-¿Podríamos alimentarlo si tenemos una fuente de alimentación de 35 Vdc?
-
-Si de la cinta pasaran 5000 piezas cada minuto, ¿puede servir para realizar el contaje/detección de las piezas?
+- Si de la cinta pasaran 5000 piezas cada minuto, ¿puede servir para realizar el contaje/detección de las piezas?
