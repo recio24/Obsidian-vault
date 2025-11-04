@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/3.Control de lazo cerrado.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/4.Proceso continuo y secuencial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Control de lazo cerrado"
+              "title": "4.Proceso continuo y secuencial"
             }
           }
         ]
@@ -194,10 +194,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "e0ccf18f7959edcd",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/2.Control de lazo abierto.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/3.Control de lazo cerrado.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/2.Control de lazo abierto.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.Noción del sistema.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/1.Tensión y corriente.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/3.Ley de ohm.md",
