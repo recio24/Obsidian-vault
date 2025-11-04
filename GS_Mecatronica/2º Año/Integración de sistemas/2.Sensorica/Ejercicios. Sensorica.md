@@ -22,5 +22,9 @@ Conectaríamos el borne **NC** a la **entrada digital** del PLC.
 - Que tipo de actuador tiene?
 Cuenta con una palanca larga articulada
 - ¿Cual es su número de ciclos?
-Segun su tabla unas 
+Vida mecánica: 10.000.000 maniobras.
+Vida eléctrica: 100.000 maniobras.
 - ¿Que tornillos se necesita para su montaje?
+El micro cuenta con agujeros de 3,1mm, por lo que para su montaje necesitariamos un par de tornillos y tuercas de M3.
+---
+
