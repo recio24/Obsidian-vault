@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -209,8 +208,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8f1efdc2de7b5ec9",
+  "active": "a3646f9a1c35bc65",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/Sin nombre",
+    "Pasted image 20251104084407.png",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/2.Control de lazo abierto.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/3.Control de lazo cerrado.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/1.Tensión y corriente.md",
@@ -247,7 +248,6 @@
     "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Estanqueidad estatica.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Estanqueidad dinámica. movimiento giratorio.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Estanqueidad dinámica. movimiento axial.md",
-    "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Estanqueidad.md",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711060640.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711021035.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710230904.png",
@@ -255,7 +255,6 @@
     "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Untitled Diagram.svg",
     "Pasted image 20250407151817.png",
     "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Anexos/Pasted image 20250407122422.png",
-    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Anexos/Pasted image 20250403153051.png",
-    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Anexos/Pasted image 20250403151357.png"
+    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Anexos/Pasted image 20250403153051.png"
   ]
 }
