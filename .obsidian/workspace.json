@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -208,10 +209,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "8f1efdc2de7b5ec9",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/Sin nombre",
-    "Pasted image 20251104084407.png",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/Pasted image 20251104084407.png",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/2.Control de lazo abierto.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/3.Control de lazo cerrado.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/1.Tensión y corriente.md",
