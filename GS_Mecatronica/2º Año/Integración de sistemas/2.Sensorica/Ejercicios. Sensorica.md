@@ -33,9 +33,10 @@ Estamos trabajando en la empresa en el área de mantenimiento. Se ha roto un det
 - ¿Es cilindrica o Rectangular?
 	Es cilindrico.
 - ¿A qué métrica pertenece su cuerpo?
-	Es una rosca de M30 x 1,5 (M30 estandar)
+	Es una rosca de M30 x 1,5 (M30 estándar)
 - ¿La salida es de NPN?
-	Es un sensor PNP
+	Es un sensor PNP, normalmente abierto.
 - ¿Podríamos alimentarlo si tenemos una fuente de alimentación de 35 Vdc?
-
+	No, su tensión de servicio es de 10..30Vdc. 
 - Si de la cinta pasaran 5000 piezas cada minuto, ¿puede servir para realizar el contaje/detección de las piezas?
+	$\huge \frac{5000}{60}= 83,33$ piezas por segundo =n
