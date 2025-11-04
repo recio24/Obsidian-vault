@@ -27,4 +27,15 @@ Vida eléctrica: 100.000 maniobras.
 - ¿Que tornillos se necesita para su montaje?
 El micro cuenta con agujeros de 3,1mm, por lo que para su montaje necesitariamos un par de tornillos y tuercas de M3.
 ---
+Estamos trabajando en la empresa en el área de mantenimiento. Se ha roto un detector de una cinta transportadora. Su responsable de realizar el cambio le ha ofrecido la siguiente referencia de detector: M30BBE1-PSC25H-EP02
+- ¿Qué tipo de detector es?
 
+- ¿Es cilindrica o Rectangular?
+
+- ¿A qué métrica pertenece su cuerpo?
+
+- ¿La salida es de NPN?
+
+¿Podríamos alimentarlo si tenemos una fuente de alimentación de 35 Vdc?
+
+Si de la cinta pasaran 5000 piezas cada minuto, ¿puede servir para realizar el contaje/detección de las piezas?
