@@ -12,4 +12,7 @@ La peor precisión será la de 0,1% de lectura.
 ---
 En una aplicación industrial, se utiliza este detector D3V-163-1C5
 - ¿Cuantos puntos tiene este detector? ¿Que significa SPDT?
-- Queremos utilizar el contacto NC
+- Queremos utilizar el contacto NC, ¿como debemos alimentarlo?
+- Que tipo de actuador tiene?
+- ¿Cual es su número de ciclos?
+- ¿Que tor
