@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2.Ejercicios"
             }
+          },
+          {
+            "id": "b933ec1208b8198e",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Untitled Diagram.svg"
+              },
+              "icon": "lucide-file",
+              "title": "Untitled Diagram.svg"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,12 +207,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "879e3e451a430162",
+  "active": "b933ec1208b8198e",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/2.Ejercicios.md",
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Untitled Diagram.svg",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/3.Ley de ohm.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.Resistencia.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/1.Tensión y corriente.md",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/2.Ejercicios.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/4. Estática/1. Introducción.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/4. Estática/2. Resolución de un modelo.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/4. Estática/2.1. Tipos de carga.md",
@@ -233,14 +247,12 @@
     "Sin título 3.base",
     "Reparaciones_de_Motores__1748357417.pdf",
     "Sin título 1.base",
-    "0100 - Fundamentos.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/9. Elementos de transmisión/Untitled Diagram.svg",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711060640.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711021035.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710230904.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710224548.png",
     "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Untitled Diagram.svg",
-    "Pasted image 20250407151817.png",
-    "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Anexos/Pasted image 20250407122422.png"
+    "Pasted image 20250407151817.png"
   ]
 }
