@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c5c220529f88446",
+        "id": "a83159c1765ba636",
         "type": "tabs",
         "children": [
           {
-            "id": "e542f74abad340d3",
+            "id": "cb121fe66a4ce48b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2.Ejercicios"
             }
-          },
-          {
-            "id": "f602384d7254dcc3",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Untitled Diagram 1.svg"
-              },
-              "icon": "lucide-file",
-              "title": "Untitled Diagram 1.svg"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,11 +194,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f602384d7254dcc3",
+  "active": "a3646f9a1c35bc65",
   "lastOpenFiles": [
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/2.Ejercicios.md",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Untitled Diagram 1.svg",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Untitled Diagram.svg",
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/Untitled Diagram 1 1.svg",
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/Untitled Diagram 1.svg",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/3.Ley de ohm.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.Resistencia.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/1.Tensión y corriente.md",
