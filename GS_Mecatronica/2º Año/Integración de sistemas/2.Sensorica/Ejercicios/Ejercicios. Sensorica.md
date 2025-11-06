@@ -61,4 +61,5 @@ Un encoder incremental de 500 pulsos por vuelta (tipo x1) se utiliza en una rued
 
 ---
 Supongamos que el punto caliente de un termopar esta a 100ºC y el frio a 20ºC. ¿Cual seria el voltaje que deberíamos leer a la salida del termopar? 
-Si miramos en la tabla 
+- Si miramos en la tabla seria 6,359mV
+¿Que temperatura estará midiendo si a la salida leemos 11,7205mV y la compensación interna correspondiente a la temperatura de referencia de 1,2775?
