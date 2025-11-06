@@ -63,4 +63,6 @@ $$\huge R.L. = \frac{35}{2^{10}}= 0,034mm$$
 ##### 6.Supongamos que el punto caliente de un termopar esta a 100ºC y el frio a 20ºC. ¿Cual seria el voltaje que deberíamos leer a la salida del termopar? 
 - Si miramos en la tabla seria 6,359mV
 ¿Que temperatura estará midiendo si a la salida leemos 11,7205mV y la compensación interna correspondiente a la temperatura de referencia de 1,2775?
-Como la tabla ya cuenta con las correcciones, habria que sumar la tensión que nos sirve lños cables más 
+Como la tabla ya cuenta con las correcciones, habría que sumar la tensión que nos sirve los cables más la tensión de compensación:
+- $11,7205 + 1,2775 = 12,998$ Si miramos en la tabla seria para 40ºC ambiente +200ºC dando 240ºC.
+---
