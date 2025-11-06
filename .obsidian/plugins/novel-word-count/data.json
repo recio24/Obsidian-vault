@@ -634,33 +634,6 @@
         "newlineCount": 50
       }
     },
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios. Sensorica.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 325,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0833333333333333,
-      "characterCount": 2184,
-      "nonWhitespaceCharacterCount": 1821,
-      "newlineCount": 45,
-      "readingTimeInMinutes": 1.2264150943396226,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1762164134097,
-      "modifiedDate": 1762248205029,
-      "sizeInBytes": 2221,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.0833333333333333,
-        "wordCount": 325,
-        "characterCount": 2184,
-        "nonWhitespaceCharacterCount": 1821,
-        "newlineCount": 45
-      }
-    },
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/2.Control de lazo abierto.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4277,6 +4250,60 @@
         "characterCount": 1203,
         "nonWhitespaceCharacterCount": 1020,
         "newlineCount": 38
+      }
+    },
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 325,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0833333333333333,
+      "characterCount": 2184,
+      "nonWhitespaceCharacterCount": 1821,
+      "newlineCount": 45,
+      "readingTimeInMinutes": 1.2264150943396226,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1762164134097,
+      "modifiedDate": 1762248205029,
+      "sizeInBytes": 2221,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/0.Sensores industriales.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1762414417104,
+      "modifiedDate": 1762414417104,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
