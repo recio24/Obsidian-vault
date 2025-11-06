@@ -58,4 +58,7 @@ $$\huge R.L. = \frac{35}{2^{10}}= 0,034mm$$
 Un encoder incremental de 500 pulsos por vuelta (tipo x1) se utiliza en una rueda de tracción. Esta rueda tiene un diámetro de 8cm y se utiliza para controlar/medir desplazamientos lineales, calcula la resolución de posición de cada pulso ¿Y. que distancia lineal estaría después de leer 2000 pulsos, y en angular?
 
 
-Ten
+
+---
+Supongamos que el punto caliente de un termopar esta a 100ºC y el frio a 20ºC. ¿Cual seria el voltaje que deberíamos leer a la salida del termopar? 
+Si miramos en la tabla 
