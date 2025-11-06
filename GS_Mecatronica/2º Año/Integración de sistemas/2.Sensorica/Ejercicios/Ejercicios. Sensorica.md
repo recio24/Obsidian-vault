@@ -10,7 +10,7 @@ $$\huge resolución = \frac{Campo de medida}{Número de niveles}=\frac{250mm}{10
 	Error absoluto: 0,1mm
 La peor precisión será la de 0,1% de lectura.
 ---
-##### En una aplicación industrial, se utiliza este detector D3V-163-1C5
+##### 2.En una aplicación industrial, se utiliza este detector D3V-163-1C5
 - ¿Cuantos puntos tiene este detector? ¿Que significa SPDT?
 Microinterruptor **SPDT** -> Single Pole Double Throw (un polo, doble tiro)
 	COM
@@ -27,7 +27,7 @@ Vida eléctrica: 100.000 maniobras.
 - ¿Que tornillos se necesita para su montaje?
 El micro cuenta con agujeros de 3,1mm, por lo que para su montaje necesitariamos un par de tornillos y tuercas de M3.
 ---
-Estamos trabajando en la empresa en el área de mantenimiento. Se ha roto un detector de una cinta transportadora. Su responsable de realizar el cambio le ha ofrecido la siguiente referencia de detector: M30BBE1-PSC25H-EP02
+##### 3.Estamos trabajando en la empresa en el área de mantenimiento. Se ha roto un detector de una cinta transportadora. Su responsable de realizar el cambio le ha ofrecido la siguiente referencia de detector: M30BBE1-PSC25H-EP02
 - ¿Qué tipo de detector es?
 	Sensor de proximidad capacitivo.
 - ¿Es cilindrica o Rectangular?
@@ -42,7 +42,7 @@ Estamos trabajando en la empresa en el área de mantenimiento. Se ha roto un det
 	$\huge \frac{5000}{60}= 83,33$ piezas por segundo = 83,3Hz
 	La frecuencia de conmutación del sensor es de 100Hz por lo que si admitiria ese ritmo de servicio. 
 ---
-Sea un Encoder incremental de referencia de **E6C2-CWZ5B 500 2M OMRON**. Si el contador tiene una opción de lectura de resolución x1 ¿Que resolución de ángulo tiene el encoder en cada vuelta? ¿Si tuviera una resolución de x4?
+##### 4.Sea un Encoder incremental de referencia de **E6C2-CWZ5B 500 2M OMRON**. Si el contador tiene una opción de lectura de resolución x1 ¿Que resolución de ángulo tiene el encoder en cada vuelta? ¿Si tuviera una resolución de x4?
 - Resolución x1:
 $$\huge resolución_{x1} = \frac{360^\circ}{500}= 0,72^\circ por \ pulsos$$
 - Resolución x4:
@@ -55,11 +55,12 @@ $$\huge R.A. = \frac{360}{2^{10}}=0,3516^\circ$$
 - También podemos calcular la resolución en relación al movimiento lineas de 35mm por vuelta de rodillo. 
 $$\huge R.L. = \frac{35}{2^{10}}= 0,034mm$$
 ---
-Un encoder incremental de 500 pulsos por vuelta (tipo x1) se utiliza en una rueda de tracción. Esta rueda tiene un diámetro de 8cm y se utiliza para controlar/medir desplazamientos lineales, calcula la resolución de posición de cada pulso ¿Y. que distancia lineal estaría después de leer 2000 pulsos, y en angular?
+##### 5.Un encoder incremental de 500 pulsos por vuelta (tipo x1) se utiliza en una rueda de tracción. Esta rueda tiene un diámetro de 8cm y se utiliza para controlar/medir desplazamientos lineales, calcula la resolución de posición de cada pulso ¿Y. que distancia lineal estaría después de leer 2000 pulsos, y en angular?
 
 
 
 ---
-Supongamos que el punto caliente de un termopar esta a 100ºC y el frio a 20ºC. ¿Cual seria el voltaje que deberíamos leer a la salida del termopar? 
+##### 6.Supongamos que el punto caliente de un termopar esta a 100ºC y el frio a 20ºC. ¿Cual seria el voltaje que deberíamos leer a la salida del termopar? 
 - Si miramos en la tabla seria 6,359mV
 ¿Que temperatura estará midiendo si a la salida leemos 11,7205mV y la compensación interna correspondiente a la temperatura de referencia de 1,2775?
+Como la tabla ya cuenta con las correcciones, habria que sumar la tensión que nos sirve lños cables más 
