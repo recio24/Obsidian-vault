@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2bdd702ba267c02",
+        "id": "59aa26ced08e6882",
         "type": "tabs",
         "children": [
           {
-            "id": "9b3d80724dfabfef",
+            "id": "b470a62fc8bb6a6e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Sin título.base",
-                "viewName": "Tabla"
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Sin título"
+              "icon": "lucide-file",
+              "title": "Ejercicios. Sensorica"
             }
           }
         ]
@@ -194,12 +195,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "9b3d80724dfabfef",
+  "active": "b470a62fc8bb6a6e",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
-    "Sin título.base",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/1.Características.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/0.Sensores industriales.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
+    "Sin título.base",
+    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/0.Elementos de unión.pdf",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/4.Sensores de posición.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/3.Salidas PNP_NPN.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.Detectores de proximidad.md",
@@ -234,7 +236,6 @@
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos",
-    "Sin título 3.base",
     "GS_Mecatronica/1º Año/Elementos de maquinas/9. Elementos de transmisión/Untitled Diagram.svg",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711060640.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711021035.png",
