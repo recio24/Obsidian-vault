@@ -4333,7 +4333,7 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/2.Detectores de proximidad.md": {
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.Detectores de proximidad.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -4350,6 +4350,60 @@
       "aliases": null,
       "createdDate": 1762415196856,
       "modifiedDate": 1762415196856,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/3.Salidas PNP_NPN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1762415204949,
+      "modifiedDate": 1762415204949,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/4.Sensores de posición.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1762415209527,
+      "modifiedDate": 1762415209527,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,

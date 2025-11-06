@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/2.Detectores de proximidad.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/0.Sensores industriales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Detectores de proximidad"
+              "title": "0.Sensores industriales"
             }
           }
         ]
@@ -194,10 +194,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "9b3d80724dfabfef",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/4.Sensores de posición.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/0.Sensores industriales.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/2.Detectores de proximidad.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/3.Salidas PNP_NPN.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.Detectores de proximidad.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/1.Características.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/5.Control ON-OFF.md",
@@ -229,8 +231,6 @@
     "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/2 Metales. Hierro.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/1. Tipos de materiales.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica",
-    "GS_Mecatronica/2º Año/Untitled.md",
-    "Untitled.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos",
