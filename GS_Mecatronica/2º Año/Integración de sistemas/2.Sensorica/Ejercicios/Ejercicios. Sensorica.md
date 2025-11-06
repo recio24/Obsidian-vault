@@ -49,3 +49,4 @@ $$\huge resolución_{x1} = \frac{360^\circ}{500}= 0,72^\circ por \ pulsos$$
 En x4 se aprovechan los 4 flancos de la señal en cuadratura, así que:
 $500 \cdot 4 = 2000 cuentas\ por\ vuelta$
 $$\huge resolución_{x_{4}} = \frac{360^\circ}{2000}= 0,18^\circ por \ pulsos$$
+---
