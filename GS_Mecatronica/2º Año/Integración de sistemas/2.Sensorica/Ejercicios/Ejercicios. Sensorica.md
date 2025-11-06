@@ -47,4 +47,5 @@ Sea un Encoder incremental de referencia de **E6C2-CWZ5B 500 2M OMRON**. Si el c
 $$\huge resolución_{x1} = \frac{360^\circ}{500}= 0,72^\circ por \ pulsos$$
 - Resolución x4:
 En x4 se aprovechan los 4 flancos de la señal en cuadratura, así que:
-$500 \cdot 4 = 2000 cuentas por vuelta$
+$500 \cdot 4 = 2000 cuentas\ por\ vuelta$
+$$\huge resolución_{x_{4}} = \frac{360^\circ}{2000}= 0,18^\circ por \ pulsos$$
