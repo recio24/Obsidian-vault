@@ -11,14 +11,13 @@
             "id": "9b3d80724dfabfef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
-                "mode": "source",
-                "source": false
+                "file": "Sin título.base",
+                "viewName": "Tabla"
               },
-              "icon": "lucide-file",
-              "title": "Ejercicios. Sensorica"
+              "icon": "lucide-table",
+              "title": "Sin título"
             }
           }
         ]
@@ -197,9 +196,10 @@
   },
   "active": "9b3d80724dfabfef",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
+    "Sin título.base",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/1.Características.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/0.Sensores industriales.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/4.Sensores de posición.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/3.Salidas PNP_NPN.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.Detectores de proximidad.md",
@@ -230,13 +230,11 @@
     "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/2.1. Acero.md",
     "GS_Mecatronica/1º Año/Ingles.zip",
     "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/2 Metales. Hierro.md",
-    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/1. Tipos de materiales.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos",
     "Sin título 3.base",
-    "Reparaciones_de_Motores__1748357417.pdf",
     "GS_Mecatronica/1º Año/Elementos de maquinas/9. Elementos de transmisión/Untitled Diagram.svg",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711060640.png",
     "INFORMATICA/01 2.0 - Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711021035.png",
