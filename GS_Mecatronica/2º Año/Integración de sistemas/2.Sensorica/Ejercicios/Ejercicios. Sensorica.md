@@ -42,4 +42,6 @@ Estamos trabajando en la empresa en el área de mantenimiento. Se ha roto un det
 	$\huge \frac{5000}{60}= 83,33$ piezas por segundo = 83,3Hz
 	La frecuencia de conmutación del sensor es de 100Hz por lo que si admitiria ese ritmo de servicio. 
 ---
-Sea un Encoder incremental de referencia de **E6C2-CWZ5B 500 2M OMRON**. 
+Sea un Encoder incremental de referencia de **E6C2-CWZ5B 500 2M OMRON**. Si el contador tiene una opción de lectura de resolución x1 ¿Que resolución de ángulo tiene el encoder en cada vuelta? ¿Si tuviera una resolución de x4?
+- Resolución x1:
+$$\huge resolución
