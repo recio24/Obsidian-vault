@@ -1,4 +1,4 @@
-Tenemos un sensor de posición. La señal eléctrica es de 0 a +10V. Campo de medida de: 0-250mm.
+##### 1. Tenemos un sensor de posición. La señal eléctrica es de 0 a +10V. Campo de medida de: 0-250mm.
 - Cual es la sensibilidad
 $$\huge \frac{10V-0V}{250mm-0mm}=\frac{10}{250}=0.04V/mm$$
 - Numero de lecturas posibles para 10 bits:
@@ -10,7 +10,7 @@ $$\huge resolución = \frac{Campo de medida}{Número de niveles}=\frac{250mm}{10
 	Error absoluto: 0,1mm
 La peor precisión será la de 0,1% de lectura.
 ---
-En una aplicación industrial, se utiliza este detector D3V-163-1C5
+##### En una aplicación industrial, se utiliza este detector D3V-163-1C5
 - ¿Cuantos puntos tiene este detector? ¿Que significa SPDT?
 Microinterruptor **SPDT** -> Single Pole Double Throw (un polo, doble tiro)
 	COM

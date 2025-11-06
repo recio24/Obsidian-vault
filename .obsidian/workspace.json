@@ -35,8 +35,7 @@
               "title": "Ejercicios. Sensorica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +209,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e8b97d903a8aea37",
+  "active": "b470a62fc8bb6a6e",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/1.Características.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/1.Características.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/0.Sensores industriales.md",
     "Sin título.base",
     "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/0.Elementos de unión.pdf",
