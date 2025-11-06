@@ -55,4 +55,4 @@ $$\huge R.A. = \frac{360}{2^{10}}=0,3516^\circ$$
 - También podemos calcular la resolución en relación al movimiento lineas de 35mm por vuelta de rodillo. 
 $$\huge R.L. = \frac{35}{2^{10}}= 0,034mm$$
 ---
-Un encoder incremental de 500 pulsos por vuelta (tipo x1) se utiliza en una rueda de tracción. Esta rueda tiene un diámetro de 8cm y se utiliza para controlar/medir desplazamientos lineales, calcula
+Un encoder incremental de 500 pulsos por vuelta (tipo x1) se utiliza en una rueda de tracción. Esta rueda tiene un diámetro de 8cm y se utiliza para controlar/medir desplazamientos lineales, calcula la resolución de posición de cada pulso ¿Y. que distancia lineal estaria despues de leer 2000 pulsos, y en angular?
