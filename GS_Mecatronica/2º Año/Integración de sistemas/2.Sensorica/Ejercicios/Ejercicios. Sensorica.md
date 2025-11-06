@@ -49,4 +49,5 @@ $$\huge resolución_{x1} = \frac{360^\circ}{500}= 0,72^\circ por \ pulsos$$
 En x4 se aprovechan los 4 flancos de la señal en cuadratura, así que:
 $500 \cdot 4 = 2000 cuentas\ por\ vuelta$
 $$\huge resolución_{x_{4}} = \frac{360^\circ}{2000}= 0,18^\circ por \ pulsos$$
----
+Con el sistema anterior, que en lugar del incremental contamos con un encoder absoluto de 10 bits. Calcula la resolución con respecto al desplazamiento lineal. Por cada giro, la cinta se desplaza 35mm
+$$\huge R.A. = \frac{360}{2^{10}}=0,3516^\circle$$
