@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/8.Resolución de ciruitos.md",
+                "file": "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.2..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.Resolución de ciruitos"
+              "title": "2.2."
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "db8d8cd18f4cbe55",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/7.Ley de Kirchhoff.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/8.Resolución de ciruitos.md",
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.2..md",
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/7.Ley de Kirchhoff.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.Resistencia.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/3.Ley de ohm.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Guia.md",
@@ -226,7 +227,6 @@
     "GS_Mecatronica/1º Año/Elementos de maquinas/4. Estática/2. Resolución de un modelo.md",
     "GS_Mecatronica/1º Año/Elementos de maquinas/4. Estática/2.1. Tipos de carga.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/3.Control de lazo cerrado.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/2.Control de lazo abierto.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/Untitled Diagram.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS",
