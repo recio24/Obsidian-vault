@@ -214,7 +214,7 @@ Un circuito mixto es aquel que contiene combinaciones de resistencias tanto en s
 2. **Calcular** la resistencia equivalente parcial de cada uno de esos grupos.
 3. **Redibujar** el circuito simplificado con la nueva resistencia equivalente y repetir el proceso hasta que quede una única resistencia total.
 
-Por ejemplo, el proceso para simplificar un circuito mixto comenzaría combinando las resistencias en serie, como $R_4 = 50\ \Omega y R_5 = 22\ \Omega$ para obtener una resistencia parcial de $72\ \Omega$. A continuación, esta resistencia parcial se resolvería en paralelo con $R_2 = 220\ \Omega$, resultando en $52.1\ \Omega$. Finalmente, se sumarían en serie las resistencias restantes (R_1 y R_3) a este resultado para obtener la resistencia total del circuito.
+Por ejemplo, el proceso para simplificar un circuito mixto comenzaría combinando las resistencias en serie, como $R_4 = 50\ \Omega y R_5 = 22\ \Omega$ para obtener una resistencia parcial de $72\ \Omega$. A continuación, esta resistencia parcial se resolvería en paralelo con $R_2 = 220\ \Omega$, resultando en $52.1\ \Omega$. Finalmente, se sumarían en serie las resistencias restantes $(R_1 y R_3)$ a este resultado para obtener la resistencia total del circuito.
 
 Cuando los circuitos son demasiado complejos para ser simplificados de esta manera, se requieren herramientas más potentes como las Leyes de Kirchhoff.
 
@@ -226,17 +226,17 @@ La Ley de Ohm y las reglas de asociación de resistencias son insuficientes para
 
 Esta ley establece que **la suma de las corrientes que entran en un nodo es igual a la suma de las corrientes que salen de él.** Un **nodo** es un punto en el circuito donde se unen tres o más caminos.
 
-Este principio se basa en la **conservación de la carga eléctrica**: la carga no se crea ni se destruye en un nodo. \sum I_{entrantes} = \sum I_{salientes} o, de forma algebraica, \sum I = 0
+Este principio se basa en la **conservación de la carga eléctrica**: la carga no se crea ni se destruye en un nodo. $\sum I_{entrantes} = \sum I_{salientes}$ o, de forma algebraica, $\sum I = 0$.
 
-Por ejemplo, si a un nodo llegan dos corrientes, I_1 = 2 A y I_2 = 3 A, la corriente que sale, I_3, debe ser la suma de ambas: I_3 = 2 + 3 = 5 A.
+Por ejemplo, si a un nodo llegan dos corrientes,$I_1 = 2 A y I_2 = 3 A$, la corriente que sale, $I_3$, debe ser la suma de ambas: $I_3 = 2 + 3 = 5 A$.
 
 ### 6.2 Segunda Ley de Kirchhoff: Ley de Tensiones (LKT)
 
 Esta ley establece que **en cualquier bucle cerrado o malla dentro de un circuito, la suma algebraica de todas las subidas y caídas de tensión es igual a cero.** Una **malla** es cualquier camino cerrado en un circuito.
 
-Este principio se basa en la **conservación de la energía**: la energía ganada por una carga al pasar por una fuente debe ser igual a la energía que pierde al pasar por los componentes del bucle. \sum V = 0 o, de forma más explícita, \sum E = \sum V_{caídas}
+Este principio se basa en la **conservación de la energía**: la energía ganada por una carga al pasar por una fuente debe ser igual a la energía que pierde al pasar por los componentes del bucle. $\sum V = 0$ o, de forma más explícita, $\sum E = \sum V_{caídas}$.
 
-Por convención, las subidas de tensión (fuentes) se consideran positivas y las caídas de tensión (resistencias) se consideran negativas. Por ejemplo, en un bucle con una batería de 12V y dos resistencias de 2 Ω y 4 Ω, la ecuación sería 12 V - I \cdot (2 \Omega) - I \cdot (4 \Omega) = 0. Resolviendo, se obtiene que la corriente I = 2 A.
+Por convención, las subidas de tensión (fuentes) se consideran positivas y las caídas de tensión (resistencias) se consideran negativas. Por ejemplo, en un bucle con una batería de 12V y dos resistencias de 2 Ω y 4 Ω, la ecuación sería $12 V - I \cdot (2 \Omega) - I \cdot (4 \Omega) = 0$. Resolviendo, se obtiene que la corriente I = 2 A.
 
 ### 6.3 Resumen y Aplicación
 
