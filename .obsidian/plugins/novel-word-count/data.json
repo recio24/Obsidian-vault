@@ -4495,24 +4495,24 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Sin título.md": {
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/7.Ley de Kirchhoff.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 398,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 1.3266666666666667,
+      "characterCount": 2784,
+      "nonWhitespaceCharacterCount": 2242,
+      "newlineCount": 99,
+      "readingTimeInMinutes": 1.5018867924528303,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1762501543562,
-      "modifiedDate": 1762501543562,
-      "sizeInBytes": 0,
+      "modifiedDate": 1762501585848,
+      "sizeInBytes": 2830,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
