@@ -237,7 +237,7 @@ Esta ley establece que **en cualquier bucle cerrado o malla dentro de un circui
 Este principio se basa en la **conservación de la energía**: la energía ganada por una carga al pasar por una fuente debe ser igual a la energía que pierde al pasar por los componentes del bucle. $\sum V = 0$ o, de forma más explícita, $\sum E = \sum V_{caídas}$.
 
 Por convención, las subidas de tensión (fuentes) se consideran positivas y las caídas de tensión (resistencias) se consideran negativas. Por ejemplo, en un bucle con una batería de 12V y dos resistencias de 2 Ω y 4 Ω, la ecuación sería $12 V - I \cdot (2 \Omega) - I \cdot (4 \Omega) = 0$. Resolviendo, se obtiene que la corriente I = 2 A.
-
+$$I$$
 ### 6.3 Resumen y Aplicación
 
 La siguiente tabla resume ambas leyes:
