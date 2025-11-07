@@ -187,9 +187,9 @@ Sus características clave son:
 - La **corriente es la misma** a través de todas las resistencias (I = I_1 = I_2 = ...).
 - La **tensión total es la suma** de las caídas de tensión en cada resistencia (V_T = V_1 + V_2 + ...).
 
-La resistencia equivalente se calcula sumando las resistencias individuales: R_{eq} = R_1 + R_2 + R_3 + \dots
+La resistencia equivalente se calcula sumando las resistencias individuales: $R_{eq} = R_1 + R_2 + R_3 + \dots$
 
-Por ejemplo, si R_1 = 100\ \Omega, R_2 = 220\ \Omega y R_3 = 330\ \Omega, la resistencia equivalente es R_{eq} = 100 + 220 + 330 = 650\ \Omega.
+Por ejemplo, si $R_1 = 100\ \Omega, R_2 = 220\ \Omega$ y $R_3 = 330\ \Omega$, la resistencia equivalente es $R_{eq} = 100 + 220 + 330 = 650\ \Omega$.
 
 ### 5.2 Resistencias en Paralelo
 
@@ -200,11 +200,11 @@ Sus características clave son:
 - La **tensión es la misma** en todas las resistencias.
 - La **corriente total es la suma** de las corrientes que circulan por cada rama.
 
-La resistencia equivalente se calcula con la fórmula: \frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots
+La resistencia equivalente se calcula con la fórmula: $\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots$
 
-Para el caso especial de **dos resistencias** en paralelo, la fórmula se simplifica a: R_{eq} = \frac{R_1 \cdot R_2}{R_1 + R_2}
+Para el caso especial de **dos resistencias** en paralelo, la fórmula se simplifica a: $R_{eq} = \frac{R_1 \cdot R_2}{R_1 + R_2}$
 
-Por ejemplo, con R_1 = 100\ \Omega y R_2 = 200\ \Omega, la resistencia equivalente es R_{eq} = \frac{100 \cdot 200}{100 + 200} = 66.7\ \Omega. Es importante destacar que la resistencia equivalente en una configuración en paralelo es **siempre menor** que la más pequeña de las resistencias individuales.
+Por ejemplo, con $R_1 = 100\ \Omega y R_2 = 200\ \Omega, la resistencia equivalente es R_{eq} = \frac{100 \cdot 200}{100 + 200} = 66.7\ \Omega. Es importante destacar que la resistencia equivalente en una configuración en paralelo es **siempre menor** que la más pequeña de las resistencias individuales.
 
 ### 5.3 Circuitos Mixtos
 
