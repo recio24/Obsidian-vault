@@ -237,16 +237,16 @@ Esta ley establece que **en cualquier bucle cerrado o malla dentro de un circui
 Este principio se basa en la **conservación de la energía**: la energía ganada por una carga al pasar por una fuente debe ser igual a la energía que pierde al pasar por los componentes del bucle. $\sum V = 0$ o, de forma más explícita, $\sum E = \sum V_{caídas}$.
 
 Por convención, las subidas de tensión (fuentes) se consideran positivas y las caídas de tensión (resistencias) se consideran negativas. Por ejemplo, en un bucle con una batería de 12V y dos resistencias de 2 Ω y 4 Ω, la ecuación sería $12 V - I \cdot (2 \Omega) - I \cdot (4 \Omega) = 0$. Resolviendo, se obtiene que la corriente I = 2 A.
-$$I = $$
+$$I = \frac{12}{6}=2A$$
 ### 6.3 Resumen y Aplicación
 
 La siguiente tabla resume ambas leyes:
 
-|   |   |   |   |
-|---|---|---|---|
-|Ley|Nombre|Expresión|Principio|
-|**LKC**|Ley de Corrientes (Nodos)|\sum I = 0|Conservación de la Carga|
-|**LKT**|Ley de Tensiones (Mallas)|\sum V = 0|Conservación de la Energía|
+|         |                           |              |                            |
+| ------- | ------------------------- | ------------ | -------------------------- |
+| Ley     | Nombre                    | Expresión    | Principio                  |
+| **LKC** | Ley de Corrientes (Nodos) | $\sum I = 0$ | Conservación de la Carga   |
+| **LKT** | Ley de Tensiones (Mallas) | $\sum V = 0$ | Conservación de la Energía |
 
 Estas leyes proporcionan un método sistemático para analizar cualquier circuito. Al aplicarlas, se genera un sistema de ecuaciones lineales que permite resolver las corrientes y tensiones desconocidas en cualquier parte del circuito.
 
@@ -261,15 +261,15 @@ Esta sección final consolida la teoría en una guía práctica para la resoluci
 3. **Asignar Corrientes**: Dibuja una dirección de corriente arbitraria para cada rama del circuito. No te preocupes por acertar; si el resultado de una corriente es negativo, significa que su dirección real es la opuesta a la que supusiste.
 4. **Aplicar LKC**: Escribe una ecuación de corrientes para cada nodo esencial, basándote en que la suma de corrientes que entran es igual a la suma de las que salen.
 5. **Aplicar LKT**: Escribe una ecuación de tensiones para cada malla independiente, asegurándote de que la suma algebraica de las subidas y caídas de tensión sea cero.
-6. **Resolver el Sistema**: Resuelve el sistema de ecuaciones lineales resultante para encontrar los valores de las corrientes desconocidas. Una vez conocidas las corrientes, puedes usar la Ley de Ohm (V = I \cdot R) para calcular cualquier caída de tensión que necesites.
+6. **Resolver el Sistema**: Resuelve el sistema de ecuaciones lineales resultante para encontrar los valores de las corrientes desconocidas. Una vez conocidas las corrientes, puedes usar la Ley de Ohm ($V = I \cdot R)$ para calcular cualquier caída de tensión que necesites.
 
 ### 7.2 Ejercicios para Practicar
 
 **Ejercicio 1 (Ley de Ohm y Potencia):** Un calefactor eléctrico tiene una resistencia de 25 Ω y se conecta a una toma de corriente de 220 V. Calcula: a) La corriente que circula por él. b) La potencia que consume en vatios (W).
 
-**Ejercicio 2 (Resistencia y Temperatura):** Un conductor de aluminio tiene una resistencia de 5 Ω a 20 °C. Calcula su resistencia si la temperatura aumenta a 100 °C. (Utiliza el coeficiente de temperatura para el aluminio del texto: \alpha = 0.00403\ 1/°C).
+**Ejercicio 2 (Resistencia y Temperatura):** Un conductor de aluminio tiene una resistencia de 5 Ω a 20 °C. Calcula su resistencia si la temperatura aumenta a 100 °C. (Utiliza el coeficiente de temperatura para el aluminio del texto: $\alpha = 0.00403\ 1/°C)$.
 
-**Ejercicio 3 (Asociación de Resistencias):** Calcula la resistencia equivalente de un circuito donde una resistencia R_1 = 50\ \Omega está en serie con un conjunto en paralelo formado por R_2 = 100\ \Omega y R_3 = 100\ \Omega.
+**Ejercicio 3 (Asociación de Resistencias):** Calcula la resistencia equivalente de un circuito donde una resistencia R_1 = 50\ \Omega está en serie con un conjunto en paralelo formado por $R_2 = 100\ \Omega y R_3 = 100\ \Omega$.
 
 --------------------------------------------------------------------------------
 
