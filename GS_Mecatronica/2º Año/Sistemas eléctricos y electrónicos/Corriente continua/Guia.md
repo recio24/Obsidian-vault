@@ -204,7 +204,7 @@ La resistencia equivalente se calcula con la fórmula: $\frac{1}{R_{eq}} = \frac
 
 Para el caso especial de **dos resistencias** en paralelo, la fórmula se simplifica a: $R_{eq} = \frac{R_1 \cdot R_2}{R_1 + R_2}$
 
-Por ejemplo, con $R_1 = 100\ \Omega y R_2 = 200\ \Omega, la resistencia equivalente es R_{eq} = \frac{100 \cdot 200}{100 + 200} = 66.7\ \Omega. Es importante destacar que la resistencia equivalente en una configuración en paralelo es **siempre menor** que la más pequeña de las resistencias individuales.
+Por ejemplo, con $R_1 = 100\ \Omega y R_2 = 200\ \Omega$, la resistencia equivalente es $R_{eq} = \frac{100 \cdot 200}{100 + 200} = 66.7\ \Omega$. Es importante destacar que la resistencia equivalente en una configuración en paralelo es **siempre menor** que la más pequeña de las resistencias individuales.
 
 ### 5.3 Circuitos Mixtos
 
@@ -214,7 +214,7 @@ Un circuito mixto es aquel que contiene combinaciones de resistencias tanto en s
 2. **Calcular** la resistencia equivalente parcial de cada uno de esos grupos.
 3. **Redibujar** el circuito simplificado con la nueva resistencia equivalente y repetir el proceso hasta que quede una única resistencia total.
 
-Por ejemplo, el proceso para simplificar un circuito mixto comenzaría combinando las resistencias en serie, como R_4 = 50\ \Omega y R_5 = 22\ \Omega para obtener una resistencia parcial de 72\ \Omega. A continuación, esta resistencia parcial se resolvería en paralelo con R_2 = 220\ \Omega, resultando en 52.1\ \Omega. Finalmente, se sumarían en serie las resistencias restantes (R_1 y R_3) a este resultado para obtener la resistencia total del circuito.
+Por ejemplo, el proceso para simplificar un circuito mixto comenzaría combinando las resistencias en serie, como $R_4 = 50\ \Omega y R_5 = 22\ \Omega$ para obtener una resistencia parcial de $72\ \Omega$. A continuación, esta resistencia parcial se resolvería en paralelo con $R_2 = 220\ \Omega$, resultando en $52.1\ \Omega$. Finalmente, se sumarían en serie las resistencias restantes (R_1 y R_3) a este resultado para obtener la resistencia total del circuito.
 
 Cuando los circuitos son demasiado complejos para ser simplificados de esta manera, se requieren herramientas más potentes como las Leyes de Kirchhoff.
 
