@@ -100,15 +100,15 @@ La **resistividad (ρ)** es una propiedad característica de cada material que
 
 Un material con menor resistividad es un mejor conductor. A continuación se comparan algunos valores a 20 °C:
 
-- **Cobre**: ρ = 1.72 \times 10^{-8}\ \Omega·m
-- **Aluminio**: ρ = 2.82 \times 10^{-8}\ \Omega·m
-- **Hierro**: ρ = 9.71 \times 10^{-8}\ \Omega·m
+- **Cobre**: $ρ = 1.72 \times 10^{-8}\ \Omega·m$
+- **Aluminio**: $ρ = 2.82 \times 10^{-8}\ \Omega·m$
+- **Hierro**: $ρ = 9.71 \times 10^{-8}\ \Omega·m$
 
 ### 3.2 Efecto de la Temperatura en la Resistencia
 
-Para la mayoría de los metales, la resistencia aumenta a medida que aumenta la temperatura. Este cambio se debe fundamentalmente a que la resistividad intrínseca del material varía con la temperatura, según la fórmula: \rho_{T}=\rho_{0}[1+\alpha(T -T_{0})]
+Para la mayoría de los metales, la resistencia aumenta a medida que aumenta la temperatura. Este cambio se debe fundamentalmente a que la resistividad intrínseca del material varía con la temperatura, según la fórmula: $\rho_{T}=\rho_{0}[1+\alpha(T -T_{0})]$
 
-A partir de esta relación, se deriva la fórmula práctica para calcular la resistencia de un conductor a una temperatura específica: R_T = R_0 \cdot [1 + \alpha \cdot (T - T_0)]
+A partir de esta relación, se deriva la fórmula práctica para calcular la resistencia de un conductor a una temperatura específica: $R_T = R_0 \cdot [1 + \alpha \cdot (T - T_0)]$
 
 - **R_T**: Resistencia a la temperatura final T.
 - **R_0**: Resistencia a la temperatura de referencia T_0 (generalmente 20 °C).
@@ -120,13 +120,13 @@ A partir de esta relación, se deriva la fórmula práctica para calcular la res
 
 Se desea calcular la resistencia de un conductor de cobre a 150 °C, sabiendo que su resistencia a 20 °C es de 10 Ω. El coeficiente de temperatura del cobre es \alpha = 0.00393\ (1/°C).
 
-1. Se aplica la fórmula: R_T = 10 \cdot [1 + 0.00393 \cdot (150 - 20)]
-2. Se calcula la diferencia de temperatura: R_T = 10 \cdot [1 + 0.00393 \cdot 130]
-3. Se resuelve la operación: R_T = 10 \cdot 1.5109
+1. Se aplica la fórmula: $R_T = 10 \cdot [1 + 0.00393 \cdot (150 - 20)]$
+2. Se calcula la diferencia de temperatura: $R_T = 10 \cdot [1 + 0.00393 \cdot 130]$
+3. Se resuelve la operación: $R_T = 10 \cdot 1.5109$
 
-El resultado final es: R_T = 15.1\ \Omega.
+El resultado final es: $R_T = 15.1\ \Omega$.
 
-- En los **metales**, la resistencia aumenta con la temperatura (\alpha es positivo).
+- En los **metales**, la resistencia aumenta con la temperatura ($\alpha$ es positivo).
 - En los **semiconductores**, la resistencia disminuye al aumentar la temperatura (\alpha es negativo).
 - En los **superconductores**, la resistencia se vuelve prácticamente cero por debajo de una temperatura crítica.
 
@@ -140,15 +140,15 @@ Es crucial distinguir entre potencia y energía. La **potencia** es la _rapid
 
 La **potencia eléctrica (P)** es la velocidad a la que la energía eléctrica se transforma en otra forma de energía (calor, luz, movimiento, etc.).
 
-Su fórmula fundamental es: P = \frac{E}{t} donde P es la Potencia (W), E es la Energía (J) y t es el Tiempo (s).
+Su fórmula fundamental es: $P = \frac{E}{t}$ donde P es la Potencia (W), E es la Energía (J) y t es el Tiempo (s).
 
-Combinando esta definición con la Ley de Ohm, obtenemos tres fórmulas prácticas de gran utilidad: P = V \cdot I P = I^2 \cdot R P = \frac{V^2}{R}
+Combinando esta definición con la Ley de Ohm, obtenemos tres fórmulas prácticas de gran utilidad: $P = V \cdot I P = I^2 \cdot R P = \frac{V^2}{R}$
 
 #### Ejemplo de Cálculo de Potencia
 
 Un resistor de 100 Ω se conecta a una fuente de tensión de 20 V. ¿Cuál es la potencia que disipa?
 
-P = \frac{V^2}{R} = \frac{20^2}{100} = 4\ W
+$P = \frac{V^2}{R} = \frac{20^2}{100} = 4\ W$
 
 Esto significa que el resistor está convirtiendo energía eléctrica en calor a un ritmo de 4 vatios (o 4 julios por segundo).
 
@@ -156,9 +156,9 @@ Esto significa que el resistor está convirtiendo energía eléctrica en calor a
 
 La **energía eléctrica (E)** es el trabajo total realizado por la corriente eléctrica durante un período de tiempo específico. Representa el consumo acumulado.
 
-Su fórmula principal es: E = P \cdot t
+Su fórmula principal es: $E = P \cdot t$
 
-Sustituyendo las expresiones de la potencia, obtenemos: E = V \cdot I \cdot t E = I^2 \cdot R \cdot t E = \frac{V^2}{R} \cdot t
+Sustituyendo las expresiones de la potencia, obtenemos: $E = V \cdot I \cdot t E = I^2 \cdot R \cdot t E = \frac{V^2}{R} \cdot t$
 
 Para fines prácticos, como la facturación del consumo eléctrico, se utiliza el **kilovatio-hora (kWh)**. La conversión es: 1\ kWh = 3.6 \times 10^6\ J
 
