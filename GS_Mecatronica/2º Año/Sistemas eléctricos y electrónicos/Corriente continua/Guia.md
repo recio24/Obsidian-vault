@@ -158,16 +158,19 @@ La **energía eléctrica (E)** es el trabajo total realizado por la corriente 
 
 Su fórmula principal es: $E = P \cdot t$
 
-Sustituyendo las expresiones de la potencia, obtenemos: $E = V \cdot I \cdot t E = I^2 \cdot R \cdot t E = \frac{V^2}{R} \cdot t$
+Sustituyendo las expresiones de la potencia, obtenemos:
+$P = V \cdot I$ 
+$E = I^2 \cdot R \cdot t$
+$E = \frac{V^2}{R} \cdot t$
 
-Para fines prácticos, como la facturación del consumo eléctrico, se utiliza el **kilovatio-hora (kWh)**. La conversión es: 1\ kWh = 3.6 \times 10^6\ J
+Para fines prácticos, como la facturación del consumo eléctrico, se utiliza el **kilovatio-hora (kWh)**. La conversión es: $1\ kWh = 3.6 \times 10^6\ J$
 
 #### Ejemplo de Consumo de Energía
 
 Una lámpara de 60 W permanece encendida durante 5 horas. Calcula la energía total consumida en julios y en kWh.
 
-- **En Julios**: El tiempo debe estar en segundos (5 h = 5 × 3600 s = 18000 s). E = P \cdot t = 60\ W \cdot 18000\ s = 1,080,000\ J
-- **En kWh**: La potencia debe estar en kW (60 W = 0.06 kW). E = P \cdot t = 0.06\ kW \cdot 5\ h = 0.3\ kWh
+- **En Julios**: El tiempo debe estar en segundos (5 h = 5 × 3600 s = 18000 s). $E = P \cdot t = 60\ W \cdot 18000\ s = 1,080,000\ J$
+- **En kWh**: La potencia debe estar en kW (60 W = 0.06 kW). $E = P \cdot t = 0.06\ kW \cdot 5\ h = 0.3\ kWh$
 
 Para poder calcular la potencia o energía total en un circuito con múltiples componentes, primero debemos determinar la resistencia total o equivalente del circuito.
 
