@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/5.Sensores de temperatura.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/6.Sensores de presión.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.Sensores de temperatura"
+              "title": "6.Sensores de presión"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "db8d8cd18f4cbe55",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/6.Sensores de presión.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/5.Sensores de temperatura.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/6.Sensores de presión.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/4.Sensores de posición.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/3.Control de lazo cerrado.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/2.Control de lazo abierto.md",
