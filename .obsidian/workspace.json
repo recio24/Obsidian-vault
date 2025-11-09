@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad59557ba4e833ce",
+        "id": "df4d01d5c0f6194c",
         "type": "tabs",
         "children": [
           {
-            "id": "db8d8cd18f4cbe55",
+            "id": "39ffc03ce15ecc89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/6.Sensores de presión.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/7.Control integral (I).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.Sensores de presión"
+              "title": "7.Control integral (I)"
             }
           }
         ]
@@ -194,22 +194,22 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "db8d8cd18f4cbe55",
+  "active": "39ffc03ce15ecc89",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/5.Sensores de temperatura.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/8.Control derivativo (D).md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.6.Control proporcional (P).md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.5.Control ON-OFF.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.4.Proceso continuo y secuencial.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.3.Control de lazo cerrado.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.2.Control de lazo abierto.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/6.Sensores de presión.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/5.Sensores de temperatura.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/4.Sensores de posición.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/3.Control de lazo cerrado.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/2.Control de lazo abierto.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.Noción del sistema.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.1.Noción del sistema.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/3.Salidas PNP_NPN.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.Detectores de proximidad.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/9.Control PID.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/8.Control derivativo (D).md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/7.Control integral (I).md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/6.Control proporcional (P).md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/5.Control ON-OFF.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/4.Proceso continuo y secuencial.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/1.Características.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Guia.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/4.Potencia eléctrica.md",
