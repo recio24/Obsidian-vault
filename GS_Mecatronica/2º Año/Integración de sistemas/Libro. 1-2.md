@@ -72,7 +72,7 @@ El controlador Proporcional-Integral-Derivativo (PID) es el estándar de facto e
 
 Esta acción genera una salida de control que es directamente proporcional al error actual. Es la respuesta inmediata del controlador.
 
-\huge u = K_{p} \cdot error
+$$\huge u = K_{p} \cdot error$$
 
 Su comportamiento depende del valor de la ganancia proporcional (`Kp`):
 
@@ -88,7 +88,7 @@ Su comportamiento depende del valor de la ganancia proporcional (`Kp`):
 
 La acción integral tiene como objetivo principal eliminar el error estacionario que la acción proporcional no puede corregir. Lo logra acumulando (sumando) el error a lo largo del tiempo.
 
-u(t) = K_i \int e(t) \, dt
+$$u(t) = K_i \int e(t) \, dt$$
 
 Mientras exista un error, la acción integral irá aumentando la salida de control hasta que el error se anule por completo.
 
@@ -103,7 +103,7 @@ La combinación **PI (Proporcional-Integral)** es una de las más utilizadas e
 
 La acción derivativa actúa de forma predictiva. No se basa en el error actual, sino en su **velocidad de cambio**. Su función es anticipar el comportamiento futuro del error para mejorar la estabilidad del sistema.
 
-\huge u(t) = K_d \frac{d(error)}{dt}
+$$\huge u(t) = K_d \frac{d(error)}{dt}$$
 
 Esta acción frena la respuesta del sistema cuando el error cambia bruscamente, reduciendo las sobreoscilaciones y aumentando la estabilidad.
 
@@ -116,7 +116,7 @@ Esta acción frena la respuesta del sistema cuando el error cambia bruscamente, 
 
 El controlador PID combina las tres acciones para obtener lo mejor de cada una: una respuesta rápida (P), precisa (I) y estable (D). La fórmula completa que gobierna su salida es:
 
-\huge u(t) = K_p \, error(t) + K_i \int error(t)\,dt + K_d \frac{d(error)}{dt}
+$$\huge u(t) = K_p \, error(t) + K_i \int error(t)\,dt + K_d \frac{d(error)}{dt}$$
 
 |   |   |
 |---|---|
@@ -154,7 +154,7 @@ Los sensores se pueden clasificar según diferentes criterios para facilitar su 
 
 Para seleccionar el sensor más adecuado para una aplicación, es fundamental entender sus parámetros de calidad, que definen su comportamiento, precisión y fiabilidad.
 
-**Rango de medición (y Span)** Define el intervalo de valores donde el sensor puede medir correctamente. El _Span_ es la diferencia entre el valor máximo y mínimo del rango. Por ejemplo, para un sensor de temperatura que mide de -30 °C a 80 °C: `$Span = 80 - (-30) = 110^\circ C$`
+**Rango de medición (y Span)** Define el intervalo de valores donde el sensor puede medir correctamente. El _Span_ es la diferencia entre el valor máximo y mínimo del rango. Por ejemplo, para un sensor de temperatura que mide de -30 °C a 80 °C: $Span = 80 - (-30) = 110^\circ C$ 
 
 **Sensibilidad** Indica cuánto cambia la señal de salida por cada cambio unitario en la magnitud de entrada. Una alta sensibilidad permite detectar variaciones pequeñas. `$S = \frac{\Delta\text{salida}}{\Delta\text{entrada}}$`
 
