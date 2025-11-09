@@ -156,9 +156,9 @@ Para seleccionar el sensor más adecuado para una aplicación, es fundamental en
 
 **Rango de medición (y Span)** Define el intervalo de valores donde el sensor puede medir correctamente. El _Span_ es la diferencia entre el valor máximo y mínimo del rango. Por ejemplo, para un sensor de temperatura que mide de -30 °C a 80 °C: $Span = 80 - (-30) = 110^\circ C$ 
 
-**Sensibilidad** Indica cuánto cambia la señal de salida por cada cambio unitario en la magnitud de entrada. Una alta sensibilidad permite detectar variaciones pequeñas. `$S = \frac{\Delta\text{salida}}{\Delta\text{entrada}}$`
+**Sensibilidad** Indica cuánto cambia la señal de salida por cada cambio unitario en la magnitud de entrada. Una alta sensibilidad permite detectar variaciones pequeñas. $S = \frac{\Delta\text{salida}}{\Delta\text{entrada}}$
 
-**Resolución** Es el cambio más pequeño en la magnitud de entrada que el sensor es capaz de detectar. Por ejemplo, un sensor de fuerza con un rango de 20 N a 150 N y una resolución del 0,1% puede detectar cambios de: `$0,1\% \times (150-20) = 0,13N$`
+**Resolución** Es el cambio más pequeño en la magnitud de entrada que el sensor es capaz de detectar. Por ejemplo, un sensor de fuerza con un rango de 20 N a 150 N y una resolución del 0,1% puede detectar cambios de: $0,1\% \times (150-20) = 0,13N$
 
 **Precisión o exactitud** Describe qué tan cerca está el valor medido por el sensor del valor real de la magnitud.
 
@@ -244,7 +244,7 @@ Para implementar estrategias de control avanzadas como el PID, es indispensable 
 
 Miden el desplazamiento o la ubicación de un objeto respecto a un punto de referencia.
 
-**Potenciómetros** Convierten un desplazamiento mecánico (lineal o angular) en una variación de voltaje. Un cursor móvil se desplaza sobre una pista resistiva, cambiando la resistencia y, por lo tanto, la tensión de salida de forma proporcional a la posición. \huge V_{salida}= V_{alimentacion} \cdot \frac{R_{cursor}}{R_{total}} Son simples y económicos, pero su principal desventaja es el desgaste mecánico debido al contacto físico, lo que limita su vida útil.
+**Potenciómetros** Convierten un desplazamiento mecánico (lineal o angular) en una variación de voltaje. Un cursor móvil se desplaza sobre una pista resistiva, cambiando la resistencia y, por lo tanto, la tensión de salida de forma proporcional a la posición. $$\huge V_{salida}= V_{alimentacion} \cdot \frac{R_{cursor}}{R_{total}}$$ Son simples y económicos, pero su principal desventaja es el desgaste mecánico debido al contacto físico, lo que limita su vida útil.
 
 **Encoders** Generan una serie de impulsos eléctricos a medida que un eje gira. Se clasifican en:
 
@@ -266,7 +266,7 @@ La resolución se puede multiplicar contando los flancos de los canales A y B:
 |x2|Flanco de subida y bajada de A|x2|2000 pulsos/vuelta|
 |x4|Flanco de subida y bajada de A y B|x4|4000 pulsos/vuelta|
 
-Cálculo de resolución lineal: si un encoder de 1000 PPR en modo x4 (4000 pulsos/vuelta) mueve una cinta 35 mm por vuelta: \huge \text{resolucion} = \frac{35}{4000} = 0,00875mm\text{/} pulso
+Cálculo de resolución lineal: si un encoder de 1000 PPR en modo x4 (4000 pulsos/vuelta) mueve una cinta 35 mm por vuelta: $$\huge \text{resolucion} = \frac{35}{4000} = 0,00875mm\text{/} pulso$$
 
 **Ultrasonidos y Ópticos**
 
@@ -292,7 +292,7 @@ Comparan diferentes tecnologías para medir la temperatura, cada una con sus pro
     - Amplio rango de temperatura, económicos y de respuesta rápida.
 - **Desventajas:**
     - Baja sensibilidad y menor precisión que los RTD.
-- **Ejemplo de cálculo:** Un termopar tipo K (sensibilidad ≈ 41 µV/°C) con una temperatura de medida de 330 °C y terminales a 20 °C generará: `$$V = 41 \times (330 - 20) = 12,79 \text{ mV}$$`
+- **Ejemplo de cálculo:** Un termopar tipo K (sensibilidad ≈ 41 µV/°C) con una temperatura de medida de 330 °C y terminales a 20 °C generará: $$\huge V = 41 \times (330 - 20) = 12,79 \text{ mV}$$
 
 ### RTD (Detectores de Temperatura por Resistencia)
 
