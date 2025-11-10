@@ -18,16 +18,17 @@ Un **sistema** se define como un conjunto de elementos relacionados entre sí 
 
 Los sistemas se clasifican principalmente en dos categorías según si utilizan o no la retroalimentación para corregir su comportamiento: lazo abierto y lazo cerrado.
 
-|   |   |   |
-|---|---|---|
-|Característica|Lazo Abierto|Lazo Cerrado|
-|**Principio de funcionamiento**|La salida no influye sobre la entrada. El controlador genera la orden sin tener en cuenta el resultado real.|La salida influye en la entrada mediante retroalimentación. El controlador compara la salida real con la consigna y corrige la diferencia.|
-|**Características clave**|- A cada entrada le corresponde una salida fija.<br>- No se compara la salida con el valor deseado.<br>- No existe retroalimentación.|- Existe retroalimentación.<br>- La salida se compara continuamente con la consigna.<br>- El sistema se corrige automáticamente.|
-|**Ventajas**|- Simplicidad <br> - Bajo coste y fácil implementación.|- Alta inmunidad a perturbaciones externas<br>- Mayor precisión|
-|**Desventajas**|- No se corrige ante errores <br> - Requiere calibración exacta.|- Mayor complejidad <br> - Puede volverse inestable <br> - Coste y mantenimiento mayores.|
-|**Ejemplo representativo**|El acelerador manual de un coche: si se mantiene en una posición fija, no se ajusta automáticamente si el coche encuentra una cuesta.|Un regulador de temperatura que ajusta automáticamente la potencia de una resistencia según la lectura de un termómetro.|
-
+|                                 |                                                                                                                                       |                                                                                                                                            |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Característica                  | Lazo Abierto                                                                                                                          | Lazo Cerrado                                                                                                                               |
+| **Principio de funcionamiento** | La salida no influye sobre la entrada. El controlador genera la orden sin tener en cuenta el resultado real.                          | La salida influye en la entrada mediante retroalimentación. El controlador compara la salida real con la consigna y corrige la diferencia. |
+| **Características clave**       | - A cada entrada le corresponde una salida fija.<br>- No se compara la salida con el valor deseado.<br>- No existe retroalimentación. | - Existe retroalimentación.<br>- La salida se compara continuamente con la consigna.<br>- El sistema se corrige automáticamente.           |
+| **Ventajas**                    | - Simplicidad <br> - Bajo coste y fácil implementación.                                                                               | - Alta inmunidad a perturbaciones externas<br>- Mayor precisión                                                                            |
+| **Desventajas**                 | - No se corrige ante errores <br> - Requiere calibración exacta.                                                                      | - Mayor complejidad <br> - Puede volverse inestable <br> - Coste y mantenimiento mayores.                                                  |
+| **Ejemplo representativo**      | El acelerador manual de un coche: si se mantiene en una posición fija, no se ajusta automáticamente si el coche encuentra una cuesta. | Un regulador de temperatura que ajusta automáticamente la potencia de una resistencia según la lectura de un termómetro.                   |
 La elección entre estas dos topologías de control depende directamente de la naturaleza del proceso a automatizar, lo cual se explorará a continuación.
+**Ejemplo lazo cerrado**
+![[Pasted image 20251104084407.png]]
 
 ### **Capítulo 2: Tipos de Procesos y Estrategias de Control Básicas**
 
