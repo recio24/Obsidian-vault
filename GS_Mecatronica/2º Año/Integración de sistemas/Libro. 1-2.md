@@ -292,9 +292,8 @@ Comparan diferentes tecnologías para medir la temperatura, cada una con sus pro
     - Amplio rango de temperatura, económicos y de respuesta rápida.
 - **Desventajas:**
     - Baja sensibilidad y menor precisión que los RTD.
-- **Ejemplo de cálculo:** Un termopar tipo K (sensibilidad ≈ 41 µV/°C) con una temperatura de medida de 330 °C y terminales a 20 °C generará: $$\huge V_{sensor}=V_{Tcaliente} \cdot 
+- **Ejemplo de cálculo:** Un termopar tipo K (sensibilidad ≈ 41 µV/°C) con una temperatura de medida de 330 °C y terminales a 20 °C generará: $$\huge V_{sensor}=V_{Tcaliente} - V_{Tambiente} = \alpha \cdot (T_{caliente}-T_{ambiente})$$
 $$\huge V = 41 \times (330 - 20) = 12,79 \text{ mV}$$
-
 ### RTD (Detectores de Temperatura por Resistencia)
 
 - **Principio:** La resistencia eléctrica de un metal (generalmente platino, Pt100/Pt1000) varía de forma muy precisa y lineal con la temperatura. El conexionado puede ser de 2, 3 o 4 hilos para compensar el error introducido por la resistencia de los cables.
