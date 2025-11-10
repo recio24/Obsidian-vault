@@ -29,7 +29,9 @@ Los sistemas se clasifican principalmente en dos categorías según si utilizan 
 La elección entre estas dos topologías de control depende directamente de la naturaleza del proceso a automatizar, lo cual se explorará a continuación.
 **Ejemplo lazo cerrado**
 ![[Pasted image 20251104084407.png]]
-- **Referencia**
+- **Referencia**: Es el valor deseado que queremos alcanzar.
+- **Comparador**: Compara la señal de la consigna con la señal de realimentación y genera una señal con el error.
+- **C**
 ### **Capítulo 2: Tipos de Procesos y Estrategias de Control Básicas**
 
 La clasificación de los procesos industriales es un paso estratégico crucial, ya que esta distinción determina fundamentalmente la estrategia de control y el hardware más adecuado para la tarea. Principalmente, se dividen en procesos continuos, donde las variables se gestionan de forma constante, y procesos secuenciales, que operan por etapas discretas.
