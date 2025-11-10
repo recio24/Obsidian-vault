@@ -300,7 +300,6 @@ Comparan diferentes tecnologías para medir la temperatura, cada una con sus pro
     - Baja sensibilidad y menor precisión que los RTD.
 - **Ejemplo de cálculo:** Un termopar tipo K (sensibilidad ≈ 41 µV/°C) con una temperatura de medida de 330 °C y terminales a 20 °C generará: $$\huge V_{sensor}=V_{Tcaliente} - V_{Tambiente} = \alpha \cdot (T_{caliente}-T_{ambiente})$$
 $$\huge V = 41 \times (330 - 20) = 12,79 \text{ mV}$$
-**Ejemplo**: Tenemos un 
 ### RTD (Detectores de Temperatura por Resistencia)
 
 - **Principio:** La resistencia eléctrica de un metal (generalmente platino, Pt100/Pt1000) varía de forma muy precisa y lineal con la temperatura. El conexionado puede ser de 2, 3 o 4 hilos para compensar el error introducido por la resistencia de los cables.
@@ -311,7 +310,8 @@ $\alpha$ coeficiente de Tº del material
     - Muy precisos, estables y con excelente linealidad.
 - **Desventajas:**
     - Más caros y con una respuesta más lenta que los termopares.
-
+**Ejemplo**: Tenemos un pt100 RTD cuyo $\alpha$ tiene un valor de 0,0385. ¿Cual sera el valor de la resistencia a 552ºC, 87ºC y 22ºC?
+- $R_{T}=100[1+0,00385 \cdot (552º-0)]=$
 ### Termistores
 
 - **Principio:** Son semiconductores cuya resistencia varía de forma muy pronunciada, pero no lineal, con la temperatura.
