@@ -303,6 +303,8 @@ $$\huge V = 41 \times (330 - 20) = 12,79 \text{ mV}$$
 ### RTD (Detectores de Temperatura por Resistencia)
 
 - **Principio:** La resistencia eléctrica de un metal (generalmente platino, Pt100/Pt1000) varía de forma muy precisa y lineal con la temperatura. El conexionado puede ser de 2, 3 o 4 hilos para compensar el error introducido por la resistencia de los cables.
+$$\huge R_{T}=R_{o} \cdot [1+\alpha \cdot (T-T_{o})]$$
+En el caso de una Pt100 la $R_{o}=100$ 
 - **Ventajas:**
     - Muy precisos, estables y con excelente linealidad.
 - **Desventajas:**
