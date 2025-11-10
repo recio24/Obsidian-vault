@@ -265,15 +265,27 @@ Los encoders incrementales suelen tener tres canales:
 
 La resolución se puede multiplicar contando los flancos de los canales A y B:
 
-|   |   |   |   |
-|---|---|---|---|
-|Modo|Flancos que cuenta|Multiplicador|Ejemplo (PPR = 1000)|
-|x1|Flanco de subida de A|x1|1000 pulsos/vuelta|
-|x2|Flanco de subida y bajada de A|x2|2000 pulsos/vuelta|
-|x4|Flanco de subida y bajada de A y B|x4|4000 pulsos/vuelta|
+|      |                                    |               |                      |
+| ---- | ---------------------------------- | ------------- | -------------------- |
+| Modo | Flancos que cuenta                 | Multiplicador | Ejemplo (PPR = 1000) |
+| x1   | Flanco de subida de A              | x1            | 1000 pulsos/vuelta   |
+| x2   | Flanco de subida y bajada de A     | x2            | 2000 pulsos/vuelta   |
+| x4   | Flanco de subida y bajada de A y B | x4            | 4000 pulsos/vuelta   |
+|      |                                    |               |                      |
 
 Cálculo de resolución lineal: si un encoder de 1000 PPR en modo x4 (4000 pulsos/vuelta) mueve una cinta 35 mm por vuelta: $$\huge \text{resolucion} = \frac{35}{4000} = 0,00875mm\text{/} pulso$$
-
+**Ejemplo**. Sea un Encoder incremental de referencia de **E6C2-CWZ5B 500 2M OMRON**. Si el contador tiene una opción de lectura de resolución x1 ¿Que resolución de ángulo tiene el encoder en cada vuelta? ¿Si tuviera una resolución de x4?
+- Resolución x1:
+$$\huge resolución_{x1} = \frac{360^\circ}{500}= 0,72^\circ por \ pulsos$$
+- Resolución x4:
+En x4 se aprovechan los 4 flancos de la señal en cuadratura, así que:
+$500 \cdot 4 = 2000 cuentas\ por\ vuelta$
+$$\huge resolución_{x_{4}} = \frac{360^\circ}{2000}= 0,18^\circ por \ pulsos$$
+Con el sistema anterior, que en lugar del incremental contamos con un encoder absoluto de 10 bits. Calcula la resolución con respecto al desplazamiento lineal. Por cada giro, la cinta se desplaza 35mm
+- Primero calculamos la resolución absolta
+$$\huge R.A. = \frac{360}{2^{10}}=0,3516^\circ$$
+- También podemos calcular la resolución en relación al movimiento lineas de 35mm por vuelta de rodillo. 
+$$\huge R.L. = \frac{35}{2^{10}}= 0,034mm$$
 **Ultrasonidos y Ópticos**
 
 - **Ultrasonidos:** Miden la distancia emitiendo una señal de ultrasonido y midiendo el tiempo que tarda en regresar el eco. Son útiles para detectar objetos transparentes o líquidos.
@@ -313,7 +325,7 @@ Comparan diferentes tecnologías para medir la temperatura, cada una con sus pro
 $$\huge V = 41 \times (330 - 20) = 12,79 \text{ mV}$$
 ### RTD (Detectores de Temperatura por Resistencia)
 
-- **Principio:** La resistencia eléctrica de un metal (generalmente platino, Pt100/Pt1000) varía de forma muy precisa y lineal con la temperatura. El conexionado puede ser de 2, 3 o 4 hilos para compensar el error introducido por la resistencia de los cables.
+- **Principio:** <span style="background:#fff88f">La resistencia eléctrica de un metal (generalmente platino, Pt100/Pt1000) varía de forma muy precisa y lineal con la temperatura. El conexionado puede ser de 2, 3 o 4 hilos para compensar el error introducido por la resistencia de los cables.</span>
 $$\huge R_{T}=R_{o} \cdot [1+\alpha \cdot (T-T_{o})]$$
 En el caso de una Pt100 la $R_{o}=100\ohm$ 
 $\alpha$ coeficiente de Tº del material
