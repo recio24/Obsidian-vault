@@ -381,3 +381,5 @@ Estos sensores transforman la presión de un fluido en una señal eléctrica. Pr
 |**Contacto**|Mecánico (N.O./N.C.)|Electrónico||
 |**Precisión**|Media (≈1 %)|Alta (<0,5 %)||
 |**Uso típico**|Control ON–OFF (compresores, bombas)|Medición continua para control de procesos|Robusto y simple|
+
+---
