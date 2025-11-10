@@ -141,7 +141,8 @@ La implementación efectiva de cualquier sistema de control, especialmente los d
 
 En cualquier sistema de automatización, los sensores actúan como los "sentidos" del proceso. Son dispositivos críticos que transforman una magnitud física del mundo real (como temperatura, presión o posición) en una señal eléctrica que un controlador, como un PLC, puede interpretar para supervisar el estado del sistema y tomar decisiones de control.
 
-La secuencia típica de una señal desde el proceso hasta el controlador es la siguiente: **Sistema físico → Sensor → Transductor → Acondicionamiento → Conversor A/D → PLC**
+La secuencia típica de una señal desde el proceso hasta el controlador es la siguiente: 
+**Sistema físico → Sensor → Transductor → Acondicionamiento → Conversor A/D → PLC**
 
 Los sensores se pueden clasificar según diferentes criterios para facilitar su selección y aplicación:
 
