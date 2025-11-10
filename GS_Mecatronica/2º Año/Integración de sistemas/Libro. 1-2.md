@@ -33,7 +33,8 @@ La elección entre estas dos topologías de control depende directamente de la n
 - **Comparador**: Compara la señal de la consigna con la señal de realimentación y genera una señal con el error.
 - **Organo de control**: Recibe una señal de control que actuará sobre la planta.
 - **Actuador(amplificador)**: Transforma la señal en una acción sobre la planta.
-- **Planta o proc**
+- **Planta o proceso**: Es el sistema que queremos controlar, donde se produce la variable controlada.
+- **Sensor(organo de medida)**: 
 ### **Capítulo 2: Tipos de Procesos y Estrategias de Control Básicas**
 
 La clasificación de los procesos industriales es un paso estratégico crucial, ya que esta distinción determina fundamentalmente la estrategia de control y el hardware más adecuado para la tarea. Principalmente, se dividen en procesos continuos, donde las variables se gestionan de forma constante, y procesos secuenciales, que operan por etapas discretas.
