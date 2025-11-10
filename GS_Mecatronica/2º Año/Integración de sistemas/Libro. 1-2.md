@@ -279,6 +279,17 @@ Cálculo de resolución lineal: si un encoder de 1000 PPR en modo x4 (4000 pulso
 - **Ultrasonidos:** Miden la distancia emitiendo una señal de ultrasonido y midiendo el tiempo que tarda en regresar el eco. Son útiles para detectar objetos transparentes o líquidos.
 - **Ópticos:** Utilizan haces de luz para la detección. Son rápidos y precisos, pero pueden ser sensibles a la suciedad o a superficies brillantes.
 
+**Ejemplo**Tenemos un sensor de posición. La señal eléctrica es de 0 a +10V. Campo de medida de: 0-250mm.
+- Cual es la sensibilidad
+$$\huge \frac{10V-0V}{250mm-0mm}=\frac{10}{250}=0.04V/mm$$
+- Numero de lecturas posibles para 10 bits:
+$$\huge N=2^{10} = 1024$$
+- Resolución en distancia
+$$\huge resolución = \frac{Campo de medida}{Número de niveles}=\frac{250mm}{1024}= 0.244$$
+- Valor de precisión absoluto de 0,1mm, precisión de la lectura 0,1%
+	Error de lectura: $0,1\% \cdot 250 = 0,001 \cdot 250 = 0,25mm$
+	Error absoluto: 0,1mm
+La peor precisión será la de 0,1% de lectura.
 #### **Sensores de Temperatura**
 
 Comparan diferentes tecnologías para medir la temperatura, cada una con sus propias características.
@@ -311,9 +322,9 @@ $\alpha$ coeficiente de Tº del material
 - **Desventajas:**
     - Más caros y con una respuesta más lenta que los termopares.
 **Ejemplo**: Tenemos un pt100 RTD cuyo $\alpha$ tiene un valor de 0,0385. ¿Cual sera el valor de la resistencia a 552ºC, 87ºC y 22ºC?
-- $R_{T}=100[1+0,00385 \cdot (552º-0)]=312\ohm$
-- $R_{T}=100[1+0,00385 \cdot (87º-0)]=133,495\ohm$
-- $R_{T}=100[1+0,00385 \cdot (22º-0)]=108,47\ohm$
+- $R_{T}=100+[1+0,00385 \cdot (552º-0)]=312\ohm$
+- $R_{T}=100+[1+0,00385 \cdot (87º-0)]=133,495\ohm$
+- $R_{T}=100+[1+0,00385 \cdot (22º-0)]=108,47\ohm$
 ### Termistores
 
 - **Principio:** Son semiconductores cuya resistencia varía de forma muy pronunciada, pero no lineal, con la temperatura.
