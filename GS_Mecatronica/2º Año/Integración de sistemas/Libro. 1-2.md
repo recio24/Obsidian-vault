@@ -148,8 +148,8 @@ Los sensores se pueden clasificar según diferentes criterios para facilitar su 
 
 - **Según la magnitud de medida:** Sensores de posición, velocidad, presión, temperatura, etc.
 - **Según la alimentación:**
-    - **Activos:** Generan su propia señal sin necesidad de alimentación externa (ej. termopares).
-    - **Pasivos:** Requieren una fuente de alimentación externa para funcionar (ej. detectores inductivos).
+    - **Activos:** Requieren una fuente de alimentación externa para funcionar (ej. detectores inductivos).
+    - **Pasivos:** Generan su propia señal sin necesidad de alimentación externa (ej. termopares).
 - **Según la señal de salida:**
     - **Analógico:** Proporcionan una salida continua y proporcional a la magnitud medida, típicamente en formatos estándar como 0-10 V o 4-20 mA.
     - **Digital:** Ofrecen una salida binaria de dos estados (0/1 o ON/OFF).
