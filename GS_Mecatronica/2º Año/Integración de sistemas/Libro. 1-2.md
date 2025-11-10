@@ -85,23 +85,23 @@ Su comportamiento depende del valor de la ganancia proporcional (`Kp`):
 - Un `Kp` **bajo** produce una respuesta lenta y puede dejar un error grande.
 - Un `Kp` **alto** acelera la respuesta, pero puede causar sobreoscilaciones e inestabilidad en el sistema.
 
-|   |   |
-|---|---|
-|Ventajas|Desventajas|
-|- Rápido ante perturbaciones <br> - Fácil de ajustar|- Siempre existe un **error estacionario**, es decir, una pequeña diferencia persistente entre la consigna y el valor real.|
+|                                                                                                                                      |                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| Ventajas                                                                                                                             | Desventajas                                                                                                                 |
+| - <span style="background:#fff88f">Rápido ante perturbaciones </span><br> - <span style="background:#fff88f">Fácil de ajustar</span> | - Siempre existe un **error estacionario**, es decir, una pequeña diferencia persistente entre la consigna y el valor real. |
 
 #### **Acción Integral (I)**
 
-La acción integral tiene como objetivo principal eliminar el error estacionario que la acción proporcional no puede corregir. Lo logra acumulando (sumando) el error a lo largo del tiempo.
+<span style="background:#fff88f">La acción integral tiene como objetivo principal eliminar el error estacionario que la acción proporcional no puede corregir</span>. Lo logra acumulando (sumando) el error a lo largo del tiempo.
 
 $$u(t) = K_i \int e(t) \, dt$$
 
 Mientras exista un error, la acción integral irá aumentando la salida de control hasta que el error se anule por completo.
 
-|   |   |
-|---|---|
-|Ventajas|Desventajas|
-|- Elimina el error estacionario <br> - Mejora la exactitud final|- Hace la respuesta más lenta <br> - Puede introducir sobreoscilaciones|
+|                                                                 |                                                                         |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Ventajas                                                        | Desventajas                                                             |
+| - Elimina el error estacionario<br> - Mejora la exactitud final | - Hace la respuesta más lenta <br> - Puede introducir sobreoscilaciones |
 
 La combinación **PI (Proporcional-Integral)** es una de las más utilizadas en la industria, ya que ofrece un excelente equilibrio entre la velocidad de respuesta de la acción P y la precisión final de la acción I.
 
@@ -113,10 +113,10 @@ $$\huge u(t) = K_d \frac{d(error)}{dt}$$
 
 Esta acción frena la respuesta del sistema cuando el error cambia bruscamente, reduciendo las sobreoscilaciones y aumentando la estabilidad.
 
-|   |   |
-|---|---|
-|Ventajas|Desventajas|
-|- Aumenta la estabilidad del sistema <br> - Reduce las sobreoscilaciones <br> - Mejora la respuesta dinámica|- Es muy sensible al **ruido** en la señal de medición <br> - No elimina el error estacionario <br> - Puede amplificar vibraciones|
+|                                                                                                                                                      |                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Ventajas                                                                                                                                             | Desventajas                                                                                                                        |
+| - Aumenta la estabilidad del sistema <br> - <span style="background:#fff88f">Reduce las sobreoscilaciones </span><br> - Mejora la respuesta dinámica | - Es muy sensible al **ruido** en la señal de medición <br> - No elimina el error estacionario <br> - Puede amplificar vibraciones |
 
 #### **El Controlador PID Completo**
 
