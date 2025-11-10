@@ -98,12 +98,12 @@ $$u(t) = K_i \int e(t) \, dt$$
 
 Mientras exista un error, la acción integral irá aumentando la salida de control hasta que el error se anule por completo.
 
-|                                                                 |                                                                         |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Ventajas                                                        | Desventajas                                                             |
-| - Elimina el error estacionario<br> - Mejora la exactitud final | - Hace la respuesta más lenta <br> - Puede introducir sobreoscilaciones |
+|                                                                |                                                                        |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Ventajas                                                       | Desventajas                                                            |
+| - Elimina el error estacionario<br>- Mejora la exactitud final | - Hace la respuesta más lenta <br>- Puede introducir sobreoscilaciones |
 
-La combinación **PI (Proporcional-Integral)** es una de las más utilizadas en la industria, ya que ofrece un excelente equilibrio entre la velocidad de respuesta de la acción P y la precisión final de la acción I.
+<span style="background:#fff88f">La combinación PI (Proporcional-Integral) es una de las más utilizadas en la industria, ya que ofrece un excelente equilibrio entre la velocidad de respuesta de la acción P y la precisión final de la acción I.</span>
 
 #### **Acción Derivativa (D)**
 
@@ -111,7 +111,7 @@ La acción derivativa actúa de forma predictiva. No se basa en el error actual,
 
 $$\huge u(t) = K_d \frac{d(error)}{dt}$$
 
-Esta acción frena la respuesta del sistema cuando el error cambia bruscamente, reduciendo las sobreoscilaciones y aumentando la estabilidad.
+<span style="background:#fff88f">Esta acción frena la respuesta del sistema cuando el error cambia bruscamente, reduciendo las sobreoscilaciones y aumentando la estabilidad.</span>
 
 |                                                                                                                                                      |                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
