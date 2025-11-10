@@ -337,7 +337,8 @@ $\alpha$ coeficiente de Tº del material
 - $R_{T}=100[1+0,00385 \cdot (552º-0)]=312,52\ohm$
 - $R_{T}=100[1+0,00385 \cdot (87º-0)]=133,495\ohm$
 - $R_{T}=100[1+0,00385 \cdot (22º-0)]=108,47\ohm$
-![[IMG_5461.jpeg]]
+**Ejemplo**. Calcula la temperatura que mide el RDT si medidmos un voltaje de 59,7mV entre los puntos C y D ![[IMG_5461.jpeg]]
+$\huge V = R \cdot I = 0,059V
 ### Termistores
 
 - **Principio:** Son semiconductores cuya resistencia varía de forma muy pronunciada, pero no lineal, con la temperatura.
