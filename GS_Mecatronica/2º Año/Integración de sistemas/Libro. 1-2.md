@@ -279,7 +279,7 @@ Comparan diferentes tecnologías para medir la temperatura, cada una con sus pro
 
 ### Termostatos
 
-- **Principio:** Se basan en la dilatación de un bimetal que, al deformarse por la temperatura, abre o cierra un contacto eléctrico.
+- **Principio:** <span style="background:#fff88f">Se basan en la dilatación de un bimetal que, al deformarse por la temperatura, abre o cierra un contacto eléctrico.</span>
 - **Ventajas:**
     - Muy robustos, económicos y no necesitan alimentación.
 - **Desventajas:**
@@ -287,12 +287,13 @@ Comparan diferentes tecnologías para medir la temperatura, cada una con sus pro
 
 ### Termopares
 
-- **Principio:** Basados en el efecto Seebeck. La unión de dos metales distintos genera un pequeño voltaje (mV) proporcional a la diferencia de temperatura entre la unión de medida y los terminales de conexión.
+- **Principio:** Basados en el efecto Seebeck. <span style="background:#fff88f">La unión de dos metales distintos genera un pequeño voltaje (mV) proporcional a la diferencia de temperatura entre la unión de medida y los terminales de conexión.</span>
 - **Ventajas:**
     - Amplio rango de temperatura, económicos y de respuesta rápida.
 - **Desventajas:**
     - Baja sensibilidad y menor precisión que los RTD.
-- **Ejemplo de cálculo:** Un termopar tipo K (sensibilidad ≈ 41 µV/°C) con una temperatura de medida de 330 °C y terminales a 20 °C generará: $$\huge V = 41 \times (330 - 20) = 12,79 \text{ mV}$$
+- **Ejemplo de cálculo:** Un termopar tipo K (sensibilidad ≈ 41 µV/°C) con una temperatura de medida de 330 °C y terminales a 20 °C generará: $$\huge V_{sensor}=V_{Tcaliente} \cdot 
+$$\huge V = 41 \times (330 - 20) = 12,79 \text{ mV}$$
 
 ### RTD (Detectores de Temperatura por Resistencia)
 
