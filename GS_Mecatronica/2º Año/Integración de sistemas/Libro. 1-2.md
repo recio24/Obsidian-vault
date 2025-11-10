@@ -311,7 +311,9 @@ $\alpha$ coeficiente de Tº del material
 - **Desventajas:**
     - Más caros y con una respuesta más lenta que los termopares.
 **Ejemplo**: Tenemos un pt100 RTD cuyo $\alpha$ tiene un valor de 0,0385. ¿Cual sera el valor de la resistencia a 552ºC, 87ºC y 22ºC?
-- $R_{T}=100[1+0,00385 \cdot (552º-0)]=$
+- $R_{T}=100[1+0,00385 \cdot (552º-0)]=312\ohm$
+- $R_{T}=100[1+0,00385 \cdot (87º-0)]=133,495\ohm$
+- $R_{T}=100[1+0,00385 \cdot (22º-0)]=108,47\ohm$
 ### Termistores
 
 - **Principio:** Son semiconductores cuya resistencia varía de forma muy pronunciada, pero no lineal, con la temperatura.

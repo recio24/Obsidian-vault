@@ -35,8 +35,7 @@
               "title": "Libro. 1-2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5,
-    "collapsed": true
+    "width": 434.5
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -210,7 +208,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "49fe77b3ac7d60f9",
+  "active": "39ffc03ce15ecc89",
   "lastOpenFiles": [
     "Pasted image 20251110103728.png",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.3.Control de lazo cerrado.md",
