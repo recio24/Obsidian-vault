@@ -161,9 +161,9 @@ Los sensores se pueden clasificar según diferentes criterios para facilitar su 
 
 Para seleccionar el sensor más adecuado para una aplicación, es fundamental entender sus parámetros de calidad, que definen su comportamiento, precisión y fiabilidad.
 
-**Rango de medición (y Span)** Define el intervalo de valores donde el sensor puede medir correctamente. El _Span_ es la diferencia entre el valor máximo y mínimo del rango. Por ejemplo, para un sensor de temperatura que mide de -30 °C a 80 °C: $Span = 80 - (-30) = 110^\circ C$ 
+<span style="background:#fff88f">**Rango de medición (y Span)** Define el intervalo de valores donde el sensor puede medir</span> correctamente. <span style="background:#fff88f">El _Span_ es la diferencia entre el valor máximo y mínimo del rango</span>. Por ejemplo, para un sensor de temperatura que mide de -30 °C a 80 °C: $Span = 80 - (-30) = 110^\circ C$ 
 
-**Sensibilidad** Indica cuánto cambia la señal de salida por cada cambio unitario en la magnitud de entrada. Una alta sensibilidad permite detectar variaciones pequeñas. $S = \frac{\Delta\text{salida}}{\Delta\text{entrada}}$
+*<span style="background:#fff88f">*Sensibilidad** Indica cuánto cambia la señal de salida por cada cambio unitario en la magnitud de entrada.</span> Una alta sensibilidad permite detectar variaciones pequeñas. $S = \frac{\Delta\text{salida}}{\Delta\text{entrada}}$
 
 **Resolución** Es el cambio más pequeño en la magnitud de entrada que el sensor es capaz de detectar. Por ejemplo, un sensor de fuerza con un rango de 20 N a 150 N y una resolución del 0,1% puede detectar cambios de: $0,1\% \times (150-20) = 0,13N$
 
