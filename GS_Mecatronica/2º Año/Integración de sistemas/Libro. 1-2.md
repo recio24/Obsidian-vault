@@ -283,7 +283,7 @@ En x4 se aprovechan los 4 flancos de la señal en cuadratura, así que:
 $500 \cdot 4 = 2000 cuentas\ por\ vuelta$
 $$\huge resolución_{x_{4}} = \frac{360^\circ}{2000}= 0,18^\circ por \ pulsos$$
 Con el sistema anterior, que en lugar del incremental contamos con un encoder absoluto de 10 bits. Calcula la resolución con respecto al desplazamiento lineal. Por cada giro, la cinta se desplaza 35mm
-- Primero calculamos la resolución absolta
+- Primero calculamos la resolución absoluta
 $$\huge R.A. = \frac{360}{2^{10}}=0,3516^\circ$$
 - También podemos calcular la resolución en relación al movimiento lineas de 35mm por vuelta de rodillo. 
 $$\huge R.L. = \frac{35}{2^{10}}= 0,034mm$$
@@ -298,7 +298,6 @@ $0,5 x 2000 = 1000mm=1m$
 $0,72 \cdot 2000 = 1440º$
 
 **Ultrasonidos y Ópticos**
-
 - **Ultrasonidos:** Miden la distancia emitiendo una señal de ultrasonido y midiendo el tiempo que tarda en regresar el eco. Son útiles para detectar objetos transparentes o líquidos.
 - **Ópticos:** Utilizan haces de luz para la detección. Son rápidos y precisos, pero pueden ser sensibles a la suciedad o a superficies brillantes.
 
