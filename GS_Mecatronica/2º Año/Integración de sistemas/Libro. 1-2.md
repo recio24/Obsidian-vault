@@ -344,7 +344,9 @@ $\huge V = R \cdot I = 0,0597V = 0,00054A \cdot x \rightarrow x = 110,55$
 
 $\huge 110 - 1,7 - 1,6 = 107,25 \ohm$
 $\huge 107,25 = 100 \cdot [1+ 0,00392 \cdot (T)]\rightarrow T = \frac{(\frac{R_{RTD}}{R_{\varnothing}}+1)}{\alpha}=18,5ºC$
-**Ejercicio repaso**. Supongase que se debe medir la temperatura de un horno en curso empleando una PT1000 ($\alpha$ = 0,00385 ), una resistencia de precisión de 1,756 $k\ohm$- 
+
+**Ejercicio repaso**. Supongase que se debe medir la temperatura de un horno en curso empleando una PT1000 ($\alpha$ = 0,00385 ), una resistencia de precisión de 1,756 $k\ohm$. La tensión en la resistencia es de $1,32 V$ y en la RTD de $1,22V$.
+
 ### Termistores
 
 - **Principio:** Son semiconductores cuya resistencia varía de forma muy pronunciada, pero no lineal, con la temperatura.
