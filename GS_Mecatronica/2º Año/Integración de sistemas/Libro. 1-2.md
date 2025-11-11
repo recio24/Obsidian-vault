@@ -161,19 +161,19 @@ Los sensores se pueden clasificar según diferentes criterios para facilitar su 
 
 Para seleccionar el sensor más adecuado para una aplicación, es fundamental entender sus parámetros de calidad, que definen su comportamiento, precisión y fiabilidad.
 
-<span style="background:#fff88f">Rango de medición (y Span) Define el intervalo de valores donde el sensor puede medir</span> correctamente. <span style="background:#fff88f">El _Span_ es la diferencia entre el valor máximo y mínimo del rango</span>. Por ejemplo, para un sensor de temperatura que mide de -30 °C a 80 °C: $Span = 80 - (-30) = 110^\circ C$ 
+- <span style="background:#fff88f">Rango de medición (y Span) Define el intervalo de valores donde el sensor puede medir</span> correctamente. <span style="background:#fff88f">El _Span_ es la diferencia entre el valor máximo y mínimo del rango</span>. Por ejemplo, para un sensor de temperatura que mide de -30 °C a 80 °C: $Span = 80 - (-30) = 110^\circ C$ 
 
-*<span style="background:#fff88f">Sensibilidad Indica cuánto cambia la señal de salida por cada cambio unitario en la magnitud de entrada.</span> Una alta sensibilidad permite detectar variaciones pequeñas. $S = \frac{\Delta\text{salida}}{\Delta\text{entrada}}$
+- <span style="background:#fff88f">Sensibilidad Indica cuánto cambia la señal de salida por cada cambio unitario en la magnitud de entrada.</span> Una alta sensibilidad permite detectar variaciones pequeñas. $S = \frac{\Delta\text{salida}}{\Delta\text{entrada}}$
 
-<span style="background:#fff88f">Resolución Es el cambio más pequeño en la magnitud de entrada que el sensor es capaz de detectar.</span> Por ejemplo, un sensor de fuerza con un rango de 20 N a 150 N y una resolución del 0,1% puede detectar cambios de: $0,1\% \times (150-20) = 0,13N$
+- <span style="background:#fff88f">Resolución Es el cambio más pequeño en la magnitud de entrada que el sensor es capaz de detectar.</span> Por ejemplo, un sensor de fuerza con un rango de 20 N a 150 N y una resolución del 0,1% puede detectar cambios de: $0,1\% \times (150-20) = 0,13N$
 
-<span style="background:#fff88f">Precisión o exactitud Describe qué tan cerca está el valor medido por el sensor del valor real de la magnitud.</span>
+- <span style="background:#fff88f">Precisión o exactitud Describe qué tan cerca está el valor medido por el sensor del valor real de la magnitud.</span>
 
-<span style="background:#fff88f">Offset o error del punto cero Es el valor que entrega el sensor cuando la magnitud de entrada es cero. Un offset puede ser calibrado para asegurar mediciones correctas.</span>
+- <span style="background:#fff88f">Offset o error del punto cero Es el valor que entrega el sensor cuando la magnitud de entrada es cero. Un offset puede ser calibrado para asegurar mediciones correctas.</span>
 
-<span style="background:#fff88f">Histéresis Es la diferencia entre el punto de activación y el de desactivación del sensor. </span>Es útil para evitar conmutaciones erráticas debidas a pequeñas vibraciones o fluctuaciones de la señal.
+- <span style="background:#fff88f">Histéresis Es la diferencia entre el punto de activación y el de desactivación del sensor. </span>Es útil para evitar conmutaciones erráticas debidas a pequeñas vibraciones o fluctuaciones de la señal.
 
-<span style="background:#fff88f">Repetibilidad Es la capacidad del sensor para proporcionar la misma lectura cuando se mide la misma magnitud en las mismas condiciones repetidamente.</span>
+- <span style="background:#fff88f">Repetibilidad Es la capacidad del sensor para proporcionar la misma lectura cuando se mide la misma magnitud en las mismas condiciones repetidamente.</span>
 
 **Condiciones ambientales** Especifica los límites operativos del sensor en términos de temperatura, humedad, protección IP, etc., dentro de los cuales puede funcionar sin dañarse.
 
