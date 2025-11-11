@@ -175,7 +175,7 @@ Para seleccionar el sensor más adecuado para una aplicación, es fundamental en
 
 - <span style="background:#fff88f">Repetibilidad Es la capacidad del sensor para proporcionar la misma lectura cuando se mide la misma magnitud en las mismas condiciones repetidamente.</span>
 
-**Condiciones ambientales** Especifica los límites operativos del sensor en términos de temperatura, humedad, protección IP, etc., dentro de los cuales puede funcionar sin dañarse.
+- **Condiciones ambientales** Especifica los límites operativos del sensor en términos de temperatura, humedad, protección IP, etc., dentro de los cuales puede funcionar sin dañarse.
 
 **Resumen rápido**
 
