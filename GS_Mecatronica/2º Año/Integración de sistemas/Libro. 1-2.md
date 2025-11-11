@@ -171,8 +171,7 @@ Para seleccionar el sensor más adecuado para una aplicación, es fundamental en
 
 - <span style="background:#fff88f">Offset o error del punto cero Es el valor que entrega el sensor cuando la magnitud de entrada es cero. Un offset puede ser calibrado para asegurar mediciones correctas.</span>
 
-- <span style="background:#fff88f">Histéresis Es la diferencia entre el punto de activación y el de desactivación del sensor. </span>Es útil para evitar conmutaciones erráticas debidas a pequeñas vibraciones o fluctuaciones de la señal.
-
+- <span style="background:#fff88f">Histéresis Es la diferencia entre el punto de activación y el de desactivación del sensor. </span>Es útil para evitar conmutaciones erráticas debidas a pequeñas vibraciones o fluctuaciones de la señal. 
 - <span style="background:#fff88f">Repetibilidad Es la capacidad del sensor para proporcionar la misma lectura cuando se mide la misma magnitud en las mismas condiciones repetidamente.</span>
 
 - **Condiciones ambientales** Especifica los límites operativos del sensor en términos de temperatura, humedad, protección IP, etc., dentro de los cuales puede funcionar sin dañarse.
