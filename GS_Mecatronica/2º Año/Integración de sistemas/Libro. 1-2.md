@@ -349,7 +349,7 @@ $\huge 107,25 = 100 \cdot [1+ 0,00392 \cdot (T)]\rightarrow T = \frac{(\frac{R_{
 $\huge V_T = 1,75k\ohm + 1k\ohm = 2,75 | 1,32V + 1,22V = 2,54V$
 $\huge I = \frac{V}{R}=\frac{1,32V}{1,75k\ohm}=0,7543mA$
 $\huge R_{RTD} = \frac{1,22}{0,0007543}=1617,42\ohm$
-$\huge 1617,42 = 1000 \cdot [1 + 0,00385 \cdot ()]
+$\huge 1617,42 = 1000 \cdot [1 + 0,00385 \cdot (T)]= T = \frac{\frac{1617,42}{1000}+1}{0,00385}=$
 ### Termistores
 
 - **Principio:** Son semiconductores cuya resistencia varía de forma muy pronunciada, pero no lineal, con la temperatura.
