@@ -289,9 +289,13 @@ $$\huge R.A. = \frac{360}{2^{10}}=0,3516^\circ$$
 $$\huge R.L. = \frac{35}{2^{10}}= 0,034mm$$
 
 **Ejemplo**. Un encoder incremental de 500 pulsos por vuelta (tipo x1) se utiliza en una rueda de tracción. Esta rueda tiene un diámetro de 8cm y se utiliza para controlar/medir desplazamientos lineales, calcula la resolución de posición de cada pulso ¿Y a que distancia lineal estaría después de leer 2000 pulsos, y en angular?
+- Primero calculamos la resolución, tanto la angular como la resolución lineal
 $\text{Resolución ang.} = \frac{360}{500}=0,72º/pulso$
 $Perimetro = 2\cdot \pi \cdot r = 2 \cdot \pi \cdot 4 = 251mm$
-$Resolución \frac{251}{}
+$Resolución \frac{251}{500}=0,5mm/pulso$
+- Con la resolución calculada multiplicamos por el numero de pulsos y sacamos cuanto avanzara
+$0,5 x 2000 = 1000mm=1m$
+$0,72 \cdot 2000 = 1440º$
 
 **Ultrasonidos y Ópticos**
 
