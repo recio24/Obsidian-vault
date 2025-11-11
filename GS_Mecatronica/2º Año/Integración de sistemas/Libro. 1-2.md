@@ -334,22 +334,25 @@ $\alpha$ coeficiente de Tº del material
     - Muy precisos, estables y con excelente linealidad.
 - **Desventajas:**
     - Más caros y con una respuesta más lenta que los termopares.
+
 **Ejemplo**: Tenemos un pt100 RTD cuyo $\alpha$ tiene un valor de 0,0385. ¿Cual sera el valor de la resistencia a 552ºC, 87ºC y 22ºC?
 - $R_{T}=100[1+0,00385 \cdot (552º-0)]=312,52\ohm$
 - $R_{T}=100[1+0,00385 \cdot (87º-0)]=133,495\ohm$
 - $R_{T}=100[1+0,00385 \cdot (22º-0)]=108,47\ohm$
+
 **Ejemplo**. Calcula la temperatura que mide el RDT si medidmos un voltaje de 59,7mV entre los puntos C y D ![[IMG_5461.jpeg]]
 
 $\huge V = R \cdot I = 0,0597V = 0,00054A \cdot x \rightarrow x = 110,55$
 
 $\huge 110 - 1,7 - 1,6 = 107,25 \ohm$
-$\huge 107,25 = 100 \cdot [1+ 0,00392 \cdot (T)]\rightarrow T = \frac{(\frac{R_{RTD}}{R_{\varnothing}}+1)}{\alpha}=18,5ºC$
+$\huge 107,25 = 100 \cdot [1+ 0,00392 \cdot (T)]\rightarrow T = \frac{(\frac{R_{RTD}}{R_{\varnothing}}-1)}{\alpha}=18,5ºC$
 
 **Ejercicio repaso**. Supongase que se debe medir la temperatura de un horno en curso empleando una PT1000 ($\alpha$ = 0,00385 ), una resistencia de precisión de 1,756 $k\ohm$. La tensión en la resistencia es de $1,32 V$ y en la RTD de $1,22V$.
 $\huge V_T = 1,75k\ohm + 1k\ohm = 2,75 | 1,32V + 1,22V = 2,54V$
 $\huge I = \frac{V}{R}=\frac{1,32V}{1,75k\ohm}=0,7543mA$
 $\huge R_{RTD} = \frac{1,22}{0,0007543}=1617,42\ohm$
-$\huge 1617,42 = 1000 \cdot [1 + 0,00385 \cdot (T)]= T = \frac{\frac{1617,42}{1000}+1}{0,00385}=$
+$\huge 1617,42 = 1000 \cdot [1 + 0,00385 \cdot (T)]= T = \frac{\frac{1617,42}{1000}-1}{0,00385}=160,368ºC$ 
+
 ### Termistores
 
 - **Principio:** Son semiconductores cuya resistencia varía de forma muy pronunciada, pero no lineal, con la temperatura.
