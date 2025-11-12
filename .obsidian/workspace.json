@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39ffc03ce15ecc89",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/IMG_5461.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "IMG_5461"
-            }
-          },
-          {
             "id": "49fe77b3ac7d60f9",
             "type": "leaf",
             "state": {
@@ -45,7 +33,8 @@
               "title": "Untitled Diagram.svg"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,15 +207,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "12ded7be0c776730",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/IMG_5461.jpeg",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/Pasted image 20251112112726.png",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/Pasted image 20251110103728.png",
     "GS_Mecatronica/2º Año/Integración de sistemas/Libro. 1-2.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/0.Practicas.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Untitled Diagram.svg",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/IMG_5461.jpeg",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.3.Control de lazo cerrado.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.2.Control de lazo abierto.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.1.Noción del sistema.md",
