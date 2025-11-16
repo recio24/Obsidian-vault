@@ -22,6 +22,7 @@ $\huge\frac{5}{2048}=0,002º por bit$
 
 5. Ejercicio de catálogo Sea el detector **E2K-C25MF2 2M**
 
-	1. ¿De qué familia es el detector?
+	1.¿De qué familia es el detector?
 Es un detector de presencia capacitivo
-
+	2.¿Es un detector binario?
+Salida digi
