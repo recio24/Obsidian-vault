@@ -23,11 +23,15 @@ $\huge\frac{5}{2048}=0,002º por bit$
 5. Ejercicio de catálogo Sea el detector **E2K-C25MF2 2M**
 
 	1.¿De qué familia es el detector?
-Es un detector de presencia capacitivo
+Es un detector de presencia capacitivo.
 	2.¿Es un detector binario?
-Salida digital ON/OFF (binario)
+Salida digital ON/OFF (binario).
 	3.¿Qué señal de detección tiene?
-Salida por transistor PNP un NO y un NC
+Salida por transistor PNP .
 	4.¿Es un detector PNP o NPN?
-Es **E2K-C25MF2** es **PNP**. Es decir envía +24V al detectar
+Es **PNP**. Es decir envía +24V al detectar.
 	5.¿Controla un contacto NO o NC? ¿Cuántos?
+Tiene un contacto NC.
+	6.¿Hay que unir la señal de salida con un cable de Métrica o cable de hilos?
+Viene cableado directamente para conexionar.
+	7.
