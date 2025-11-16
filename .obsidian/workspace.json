@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4b1b48036bc3caa3",
+        "id": "9d7ac11feef026ff",
         "type": "tabs",
         "children": [
           {
-            "id": "e35f75b922e8b2d7",
+            "id": "c4ac082bc9ed1106",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/Libro. 1-2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Libro. 1-2"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5,
-    "collapsed": true
+    "width": 434.5
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -168,11 +163,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,10 +191,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e35f75b922e8b2d7",
+  "active": "c4ac082bc9ed1106",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
+    "Untitled Diagram.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/Libro. 1-2.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/0.Practicas.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Untitled Diagram.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/IMG_5461.jpeg",
