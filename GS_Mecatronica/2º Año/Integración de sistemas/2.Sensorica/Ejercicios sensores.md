@@ -28,4 +28,6 @@ Es un detector de presencia capacitivo
 Salida digital ON/OFF (binario)
 	3.¿Qué señal de detección tiene?
 Salida por transistor PNP un NO y un NC
-	4.#¿Es un detector PNP o NPN?**
+	4.¿Es un detector PNP o NPN?
+Es **E2K-C25MF2** es **PNP**. Es decir envía +24V al detectar
+	5.¿Controla un contacto NO o NC? ¿Cuántos?
