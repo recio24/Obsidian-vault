@@ -25,4 +25,7 @@ $\huge\frac{5}{2048}=0,002º por bit$
 	1.¿De qué familia es el detector?
 Es un detector de presencia capacitivo
 	2.¿Es un detector binario?
-Salida digi
+Salida digital ON/OFF (binario)
+	3.¿Qué señal de detección tiene?
+Salida por transistor PNP un NO y un NC
+	4.#¿Es un detector PNP o NPN?**
