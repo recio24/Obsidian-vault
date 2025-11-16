@@ -34,4 +34,10 @@ Es **PNP**. Es decir envía +24V al detectar.
 Tiene un contacto NC.
 	6.¿Hay que unir la señal de salida con un cable de Métrica o cable de hilos?
 Viene cableado directamente para conexionar.
-	7.
+	7.¿Con qué tensión hay que alimentarlo?
+Se alimenta a 10-30 VDC
+	8.¿Cuál es la frecuencia de conmutación del detector?
+Trabaja a 60Hz
+	9.¿Cuántos agujeros hay que hacer para montarlo con tuercas?
+La montura cuenta con dos agujeros para M4
+	10.
