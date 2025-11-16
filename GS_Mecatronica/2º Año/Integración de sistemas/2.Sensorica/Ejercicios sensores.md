@@ -11,5 +11,8 @@ a) Tenemos un encoder absoluto de 11 bits acoplado al eje de un motor. ¿Cuál e
 **Resolución**
 $\huge 2^{11}=2048bits$
 **Resolución**
-$\frac{360}{2048}=0,175
+$\huge\frac{360}{2048}=0,175º por pulso$
 b) En el sistema de apertura de la puerta, imagen superior, se dispone de un encoder para controlar la posición de la apertura mediante un sistema de piñón cremallera. ¿Cuál será la resolución de posición de este sistema si la rueda/piñón tiene 20 dientes y la cremallera tiene 4 dientes por cm de longitud?
+$\huge\frac{5}{2048}=0,002º por bit$
+
+4. 
