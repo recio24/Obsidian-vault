@@ -22,26 +22,6 @@ $\huge\frac{5}{2048}=0,002º por bit$
 
 5. Ejercicio de catálogo Sea el detector **E2K-C25MF2 2M**
 
-6. ¿De qué familia es el detector?
+	1. ¿De qué familia es el detector?
+Es un detector de presencia capacitivo
 
-7. ¿Es un detector binario?
-
-8. ¿Qué señal de detección tiene?
-
-9. ¿Es un detector del PNP o NPN?
-
-10. ¿Controla un contacto NO o NC? ¿Cuántos?
-
-11. ¿Hay que unir la señal de salida con un cable de conector de una Métrica o cable de hilos de
-
-salida?
-
-7. 8. 9. ¿Con qué tensión tenemos que alimentarlo para que funcione?
-
-¿Cuál es la frecuencia de conmutación del detector?
-
-¿Cuántos agujeros tendría que hacer para introducir el detector y atarlo con las tuercas?
-
-10. Si el material de la pieza a detectar fuera de cristal (Glass), ¿cuál sería la distancia de
-
-detección?
