@@ -3,4 +3,4 @@
 He seleccionado dos sensores, un capacitivo para contar la totalidad de los producters que pasen, y un segundo sensor inductivo que detectaria los productos metalicos. Esto nos permitiría que con una simple cuenta sabríamos cuantos productos de cada han cruzado. 
 ![[GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Untitled Diagram.svg]]
 2. Se trata de controlar el sistema de la puerta de la imagen. Si aparece algún objeto mientras se cierra la puerta, se debería parar el proceso de cierre. Selecciona la mejor familia de detectores que utilizarías en el sistema de detección, de forma razonada. ¿Cuáles son las razones para no seleccionar las demás familias?
-Utilizaremos un sensor fotoeléctrico con emisor'recep 
+Utilizaremos un sensor fotoeléctrico con emisor-receptor, que ambos componentes cuenten con cableado en ambos lados para asegurarnos que el sistema detecte ante el paso de cualquier coche o peaton.
