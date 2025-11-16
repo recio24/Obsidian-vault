@@ -44,9 +44,9 @@ La montura cuenta con dos agujeros para M4
 Para el cristal seria sobre unos 5mm.
 
 6.Supongamos que tenemos un termopar de tipo J, y que esta es la tabla que tiene. Calcula los siguientes valores:
-
 a) Con el punto frío a 0ºC y el punto caliente a 47ºC,¿ cuál es el voltaje generado en la salida del termopar?
-
+$47º=2,427mV$
 b)¿Y con el punto frío a 0ºC y el punto caliente a 136ºC?
-
-¿Y con el punto frío a 10ºC y el punto caliente a 100ºC?
+$136º = 7,329mV$
+c)¿Y con el punto frío a 10ºC y el punto caliente a 100ºC?
+$10º = 0,
