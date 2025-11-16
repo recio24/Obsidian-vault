@@ -16,3 +16,5 @@ b) En el sistema de apertura de la puerta, imagen superior, se dispone de un enc
 $\huge\frac{5}{2048}=0,002º por bit$
 
 4. Un caudalímetro tiene un rango de medida de fondo de 570 l/min. Su área de trabajo es: valor mínimo de medición de 30 l/min y valor máximo de 600 l/min. Se ha realizado la medición de caudal en un tubo y su valor ha correspondido a 350 l/min. En el catálogo se menciona la precisión absoluta: ± 5 l/min. ¿En qué intervalo se encuentra el caudal real? ¿Y si la precisión fuese de ± 5% respecto al rango? ¿Y si fuera un 1% respecto a la lectura?
+- El caudal real se encuentra a 350L $\pm$ 5L (345-355)
+- $350\cdot 0,01 = \pm 3,5$ 356,5
