@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Ejercicios sensores"
             }
+          },
+          {
+            "id": "7d08c75548cfe563",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Untitled Diagram.svg"
+              },
+              "icon": "lucide-file",
+              "title": "Untitled Diagram.svg"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,9 +209,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c4ac082bc9ed1106",
+  "active": "7d08c75548cfe563",
   "lastOpenFiles": [
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios sensores.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Untitled Diagram.svg",
     "Untitled Diagram.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/Libro. 1-2.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
@@ -228,7 +242,6 @@
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/8.Resolución de ciruitos.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/2.Ejercicios.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.2..md",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/7.Ley de Kirchhoff.md",
     "Sin título.base",
     "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/0.Elementos de unión.pdf",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios",
@@ -242,7 +255,6 @@
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos",
-    "GS_Mecatronica/1º Año/Elementos de maquinas/9. Elementos de transmisión/Untitled Diagram.svg"
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos"
   ]
 }
