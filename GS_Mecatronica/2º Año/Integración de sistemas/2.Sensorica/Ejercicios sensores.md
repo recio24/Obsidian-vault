@@ -27,7 +27,7 @@ Es un detector de presencia capacitivo.
 	2.¿Es un detector binario?
 Salida digital ON/OFF (binario).
 	3.¿Qué señal de detección tiene?
-Salida por transistor PNP .
+Salida por transistor PNP. Distancia nominal de detección 25mm.
 	4.¿Es un detector PNP o NPN?
 Es **PNP**. Es decir envía +24V al detectar.
 	5.¿Controla un contacto NO o NC? ¿Cuántos?
@@ -40,4 +40,13 @@ Se alimenta a 10-30 VDC
 Trabaja a 60Hz
 	9.¿Cuántos agujeros hay que hacer para montarlo con tuercas?
 La montura cuenta con dos agujeros para M4
-	10.
+	10.Si el material fuese cristal (Glass), ¿cuál sería la distancia de detección?
+Para el cristal seria sobre unos 5mm.
+
+6.Supongamos que tenemos un termopar de tipo J, y que esta es la tabla que tiene. Calcula los siguientes valores:
+
+a) Con el punto frío a 0ºC y el punto caliente a 47ºC,¿ cuál es el voltaje generado en la salida del termopar?
+
+b)¿Y con el punto frío a 0ºC y el punto caliente a 136ºC?
+
+¿Y con el punto frío a 10ºC y el punto caliente a 100ºC?
