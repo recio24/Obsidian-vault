@@ -15,4 +15,4 @@ $\huge\frac{360}{2048}=0,175º por pulso$
 b) En el sistema de apertura de la puerta, imagen superior, se dispone de un encoder para controlar la posición de la apertura mediante un sistema de piñón cremallera. ¿Cuál será la resolución de posición de este sistema si la rueda/piñón tiene 20 dientes y la cremallera tiene 4 dientes por cm de longitud?
 $\huge\frac{5}{2048}=0,002º por bit$
 
-4. 
+4. Un caudalímetro tiene un rango de medida de fondo de 570 l/min. Su área de trabajo es: valor mínimo de medición de 30 l/min y valor máximo de 600 l/min. Se ha realizado la medición de caudal en un tubo y su valor ha correspondido a 350 l/min. En el catálogo se menciona la precisión absoluta: ± 5 l/min. ¿En qué intervalo se encuentra el caudal real? ¿Y si la precisión fuese de ± 5% respecto al rango? ¿Y si fuera un 1% respecto a la lectura?
