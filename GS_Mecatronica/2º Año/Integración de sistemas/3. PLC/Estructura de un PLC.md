@@ -59,9 +59,6 @@ Largest Column: standard
 **Módulos de salida**
 Convertir señal lógica → potencia para actuadores.
 Tipos de salidas:
-
 - **Relé** (AC): para cargas grandes  
-
 - **Transistor** (DC): rápida conmutación  
-
 - **Analógicas**: tensión o corriente
