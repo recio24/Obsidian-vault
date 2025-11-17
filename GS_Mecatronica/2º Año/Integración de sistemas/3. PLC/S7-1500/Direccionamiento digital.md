@@ -1,2 +1,2 @@
-## Direccionamiénto digital
+## Direccionamiento digital
 ---
