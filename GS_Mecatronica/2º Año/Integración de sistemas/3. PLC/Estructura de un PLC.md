@@ -37,3 +37,17 @@ Largest Column: standard
 - Lee entradas → ejecuta lógica → actualiza salidas  
 - Realiza operaciones internas: contadores, temporizadores, matemáticas… 
 - Puede tener procesador doble según la gama
+**Memoria del PLC**
+
+  
+
+| Memoria | Borrado   | Mantiene sin tensión | Uso |
+| ------- | --------- | -------------------- | --- |
+| RAM     | Eléctrico | NO                   |     |
+| ROM     | NO        |                      |     |
+
+| RAM | Eléctrico | ❌ No | Variables, programa temporal |
+
+| ROM | No | ✔ Sí | Sistema interno |
+
+| EEPROM/FLASH | Eléctrico | ✔ Sí | Programa permanente |
