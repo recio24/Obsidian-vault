@@ -44,4 +44,14 @@ Largest Column: standard
 | RAM     | Eléctrico | NO                   | Variables, programa temporsl |
 | ROM     | NO        | ibSi                 | Sistema interno              |
 | FLASH   | Rlrctrico | Si                   | Programa permanente          |
-
+**Modulos de entrada**
+- Reciben señales del proceso.
+- Adaptan señales para que la CPU pueda leerlas.
+- Aislamiento eléctrico.
+- Tipos:
+	  - **Digitales (0/24V)** 
+	  - **Analógicas (0–10V, 4–20mA)**  
+- Parametros importantes:
+	- Tensión de trabajo.
+	- Tipo de sensor (PNP/NPN).
+	- Frecuencia máxima.
