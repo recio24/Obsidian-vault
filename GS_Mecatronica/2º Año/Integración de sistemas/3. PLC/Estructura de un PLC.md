@@ -44,11 +44,6 @@ Largest Column: standard
 | Memoria | Borrado   | Mantiene sin tensión | Uso                          |
 | ------- | --------- | -------------------- | ---------------------------- |
 | RAM     | Eléctrico | NO                   | Variables, programa temporsl |
-| ROM     | NO        | Si                   | Sistema interno              |
-| FLASH   |           |                      |                              |
+| ROM     | NO        | ibSi                 | Sistema interno              |
+| FLASH   | Rlrctrico | Si                   | Programa permanente          |
 
-| RAM | Eléctrico | ❌ No | Variables, programa temporal |
-
-| ROM | No | ✔ Sí | Sistema interno |
-
-| EEPROM/FLASH | Eléctrico | ✔ Sí | Programa permanente |
