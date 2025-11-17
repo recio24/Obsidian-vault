@@ -26,4 +26,14 @@ Largest Column: standard
 - Mayor capacidad y flexibilidad
 
 --- end-multi-column
-### Componenetest princuoskd
+### Componentes principales
+**Fuente de alimentación**
+- Adapta 230/110 V AC → 24 V DC / 5 V DC  
+- Alimenta CPU y módulos  
+- Puede incluir batería para mantener memoria  
+- Se identifica por potencia y tipo de tensión
+**CPU**
+- Interpreta el programa del usuario  
+- Lee entradas → ejecuta lógica → actualiza salidas  
+- Realiza operaciones internas: contadores, temporizadores, matemáticas… 
+- Puede tener procesador doble según la gama
