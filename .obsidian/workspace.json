@@ -11,10 +11,14 @@
             "id": "64f54c5020014a6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Direccionamiento digital"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 434.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -191,9 +196,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "64f54c5020014a6d",
   "lastOpenFiles": [
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Sin título.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios sensores.md",
@@ -226,7 +233,6 @@
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/4.Potencia eléctrica.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/8.Resolución de ciruitos.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/2.Ejercicios.md",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/2.2..md",
     "Sin título.base",
     "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/0.Elementos de unión.pdf",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios",
@@ -237,7 +243,6 @@
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/Pasted image 20251104084407.png",
     "GS_Mecatronica/1º Año/Ingles.zip",
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios"
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica"
   ]
 }
