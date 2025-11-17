@@ -4,28 +4,25 @@
 La estructura de un PLC se compone de una fuente de alimentación, una CPU con memoria, módulos de entradas y salidas (digitales y analógicas), unidades de programación y módulos especiales. Puede ser compacto o modular según la aplicación.
 
 ### Estructura física
-
 --- start-multi-column: ID_ldjz
 ```column-settings
 Number of Columns: 2
 Largest Column: standard
 ```
 
-### **Estructura compacta**
-
+**Estructura compacta**
 - Todo integrado: CPU + alimentación + E/S
-    
 - No ampliable
-    
 - Económica
-    
 - Para máquinas simples
-    
 - Pocas entradas y salidas
 
 --- column-break ---
 
-
+**Estructura modular**
+- Cada módulo es independiente
+- Muy ampliable (CPU, E/S, comunicaciones…)
+- Ideal para procesos complejos
+- Mayor capacidad y flexibilidad
 
 --- end-multi-column
-
