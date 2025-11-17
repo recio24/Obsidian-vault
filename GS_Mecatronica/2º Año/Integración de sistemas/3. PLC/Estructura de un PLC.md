@@ -41,10 +41,11 @@ Largest Column: standard
 
   
 
-| Memoria | Borrado   | Mantiene sin tensión | Uso |
-| ------- | --------- | -------------------- | --- |
-| RAM     | Eléctrico | NO                   |     |
-| ROM     | NO        |                      |     |
+| Memoria | Borrado   | Mantiene sin tensión | Uso                          |
+| ------- | --------- | -------------------- | ---------------------------- |
+| RAM     | Eléctrico | NO                   | Variables, programa temporsl |
+| ROM     | NO        | Si                   | Sistema interno              |
+| FLASH   |           |                      |                              |
 
 | RAM | Eléctrico | ❌ No | Variables, programa temporal |
 
