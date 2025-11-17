@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Direccionamiento digital"
+              "title": "Estructura de un PLC"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 434.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -197,8 +198,8 @@
   },
   "active": "64f54c5020014a6d",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Sin título.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC",
