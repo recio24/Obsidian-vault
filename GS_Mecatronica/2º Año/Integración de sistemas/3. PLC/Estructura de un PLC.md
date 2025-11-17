@@ -35,11 +35,9 @@ Largest Column: standard
 **CPU**
 - Interpreta el programa del usuario  
 - Lee entradas → ejecuta lógica → actualiza salidas  
-- Realiza operaciones internas: contadores, temporizadores, matemáticas… 
+- Realiza operacionexxwws internas: contadores, temporizadores, matemáticas… 
 - Puede tener procesador doble según la gama
 **Memoria del PLC**
-
-  
 
 | Memoria | Borrado   | Mantiene sin tensión | Uso                          |
 | ------- | --------- | -------------------- | ---------------------------- |
