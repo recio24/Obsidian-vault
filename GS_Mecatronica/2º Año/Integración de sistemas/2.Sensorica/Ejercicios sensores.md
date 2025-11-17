@@ -49,4 +49,6 @@ $47º=2,427mV$
 b)¿Y con el punto frío a 0ºC y el punto caliente a 136ºC?
 $136º = 7,329mV$
 c)¿Y con el punto frío a 10ºC y el punto caliente a 100ºC?
-$10º = 0,
+$10º = 0,507mV$
+$100º = 5,269mV$
+$5,264mV - 0,507mV=4,762mV$
