@@ -18,3 +18,5 @@
 ![[GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 2.svg]]
 
 ---
+
+### Ejercicio 3. 
