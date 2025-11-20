@@ -7,4 +7,4 @@
 - Marcha
 - a (Arriba)
 - b (Abajo)
-Cuando pulse march 
+Cuando pulse marcha y la prensa este arriba, prensamos la pieza y cuando llegue abajo la prensa sube hasta llegar arriba.
