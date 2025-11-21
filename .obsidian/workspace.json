@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5,
-    "collapsed": true
+    "width": 434.5
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -198,16 +197,16 @@
   },
   "active": "64f54c5020014a6d",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 3.svg",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 2.svg",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 3.svg",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 2.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 1.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/carpeta sin título",
     "GS_Mecatronica/2º Año/Integración de sistemas/carpeta sin título",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Sin nombre",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC",
@@ -242,7 +241,6 @@
     "Sin título.base",
     "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/0.Elementos de unión.pdf",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/Untitled Diagram 1 1.svg",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/Untitled Diagram 1.svg"
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/Untitled Diagram 1 1.svg"
   ]
 }
