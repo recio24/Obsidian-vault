@@ -19,4 +19,4 @@
 
 ---
 
-### Ejercicio 3. 
+### Ejercicio 3. Debemos controlar la siguiente máquina de estampación: Al accionar sobre la Marcha y estando los tres cilindros retrasados, inicialmente el cilindro A alimenta la pieza. Tras la sujeción el cilindro B realiza la estampación descendiendo. Con B abajo, para que el proceso de estampación se lleve a cabo correctamente, será necesario estar 5 segundos prensando la pieza. Al finalizar el tiempo, B sube y empujamos la pieza al cestón mediante el cilindro C. Finalmente los cilindros C y A retrocederán a la vez. Realizar el Grafcet de 1er nivel, Direccionamiento de Variables, Grafcet de 2º Nivel y Programa de PLC.
