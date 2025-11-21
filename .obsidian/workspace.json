@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 434.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -197,9 +198,9 @@
   },
   "active": "64f54c5020014a6d",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 3.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 2.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 1.svg",
