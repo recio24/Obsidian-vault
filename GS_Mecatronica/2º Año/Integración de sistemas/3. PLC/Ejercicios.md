@@ -23,3 +23,4 @@
 ![[GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 3.svg]]
 
 ---
+### Ejercicio 4. El carro de la imagen se desplaza de un lado a otro trasportando material. El sistema lo componen un pulsador de marcha y 2 sensores de proximidad. El funcionamiento es el siguiente: Para que el carro empiece a moverse se debe pulsar el botón de marcha y se debe encontrar en la posición A. Cuando llegue a la posición B esperará 10 segundos y pasado este tiempo deberá mover hacia la izquierda hasta que llegue al sensor A otra vez. El proceso se repetirá 5 veces y el carro se parará en la posición A una vez completado el ciclo.
