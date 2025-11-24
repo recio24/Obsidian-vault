@@ -30,3 +30,6 @@
 ![[Pasted image 20251124111910.png]]![[Ejercicio5.svg]]
 
 ---
+### Ejercicio 6. Queremos realizar un programa que realice el siguiente ciclo (mediante grafcet):
+-  Al accionar Marcha y mientras el cilindro esté atrás, el cilindro avanzará 8 veces, esperando 3 segundos en posición adelantada en cada repetición y retrocederá después.
+- El ciclo se acabará quedando el cilindro atrás.
