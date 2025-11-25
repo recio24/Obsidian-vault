@@ -1,4 +1,4 @@
-## Network vocabulario
+## Network conceptos
 ---
 - LAN: Local Area Network (red local/personal en la que tienen control total)
 - WAN: Wide Area Network.

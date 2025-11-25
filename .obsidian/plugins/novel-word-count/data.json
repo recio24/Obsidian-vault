@@ -5143,33 +5143,6 @@
         "newlineCount": 15
       }
     },
-    "CCNA/Vocabulario.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 95,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.31666666666666665,
-      "characterCount": 632,
-      "nonWhitespaceCharacterCount": 528,
-      "newlineCount": 8,
-      "readingTimeInMinutes": 0.3584905660377358,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1764014569002,
-      "modifiedDate": 1764088917802,
-      "sizeInBytes": 637,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13,
-        "wordCount": 39,
-        "characterCount": 259,
-        "nonWhitespaceCharacterCount": 214,
-        "newlineCount": 6
-      }
-    },
     "CCNA/Introduction.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5217,6 +5190,33 @@
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CCNA/00_Conceptos de redes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 95,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 630,
+      "nonWhitespaceCharacterCount": 526,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.3584905660377358,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764014569002,
+      "modifiedDate": 1764096179913,
+      "sizeInBytes": 635,
+      "sessionStart": {
+        "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,

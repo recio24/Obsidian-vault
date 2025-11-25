@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Vocabulario.md",
+                "file": "CCNA/00_Conceptos de redes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vocabulario"
+              "title": "00_Conceptos de redes"
             }
           }
         ]
@@ -198,7 +198,7 @@
   "active": "8e7242ee447f7dea",
   "lastOpenFiles": [
     "CCNA/Introduction.md",
-    "CCNA/Vocabulario.md",
+    "CCNA/00_Conceptos de redes.md",
     "CCNA",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 6.svg",
