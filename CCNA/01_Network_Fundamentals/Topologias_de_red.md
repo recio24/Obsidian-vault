@@ -43,6 +43,7 @@ Largest Column: standard
 - Funciones como VLANs, PoE...
 
 --- end-multi-column
+![[Pasted image 20251127185227.png]]
 ### Modelo de 2 capas (Collapsed core)
 El core (núcleo) y la distribución se combinan en un único nivel.
 --- start-multi-column: ID_xv4s
@@ -73,6 +74,7 @@ Utilizado en:
 >[!tip] Evolución
 >Incialmente el modelo en 3 capas era muy utilizado, pero a medida que los equipos se volvieron más potentes, las capas se "fusionaron" dando lugar a redes mas planas, redes mas planas, menos necesidad de un core dedicado.
 
+![[Pasted image 20251127185419.png]]
 ## Arquitectura Spine-Leaf
 
 > [!info]
