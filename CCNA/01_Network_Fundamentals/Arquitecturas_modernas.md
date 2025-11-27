@@ -35,11 +35,12 @@ Largest Column: standard
 --- end-multi-column
 
 ## On-Premise vs Cloud
-### On-Premise
+## On-Premise
 
 > [!info]
 Todos los dispositivos están **físicamente dentro** del edificio o campus.
-####  Características
+
+**Características**
 - Control total sobre la red
 - Servidores y switches locales
 - Mayor responsabilidad de mantenimiento
@@ -47,32 +48,17 @@ Todos los dispositivos están **físicamente dentro** del edificio o campus.
 - Ideal para empresas con requisitos de privacidad
 
 ## Cloud Networking
+
 > [!info]
 Parte o toda la red se gestiona desde la nube utilizando paneles centralizados.
-
-  
-
-### **Características**
-
+#### Características
 - Controladores como **Cisco DNA Center**, **Meraki Dashboard**, etc.
-    
 - Configuración y monitorización desde Internet
-    
 - Equipamiento local más simple
-    
 - Escalabilidad rápida
-    
 - Reducción de costes de mantenimiento
-    
-
-  
-
-### **Ventajas**
-
+#### Ventajas
 - Menos hardware local
-    
 - Automatización
-    
 - Gestión centralizada
-    
 - Ideal para empresas con varias sedes
