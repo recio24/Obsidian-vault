@@ -35,3 +35,15 @@ Largest Column: standard
 --- end-multi-column
 
 ## On-Premise vs Cloud
+### On-Premise
+
+> [!info]
+Todos los dispositivos están **físicamente dentro** del edificio o campus.
+####  Características
+- Control total sobre la red
+- Servidores y switches locales
+- Mayor responsabilidad de mantenimiento
+    
+- Mayor coste inicial
+    
+- Ideal para empresas con requisitos de privacidad
