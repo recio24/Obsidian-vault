@@ -14,3 +14,4 @@ Un modelo de diseño LAN es una forma estructurada de organizar la red interna d
 - Fácil solución de problemas
 - Aislamiento de fallos
 - Estandarización
+### Modelo de 3 capas (Jerarquico)
