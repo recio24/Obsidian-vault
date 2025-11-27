@@ -73,4 +73,4 @@ Utilizado en:
 >[!tip] Evolución
 >Incialmente el modelo en 3 capas era muy utilizado, pero a medida que los equipos se volvieron más potentes, las capas se "fusionaron" dando lugar a redes mas planas, redes mas planas, menos necesidad de un core dedicado.
 
-
+## Arquitectura Spine
