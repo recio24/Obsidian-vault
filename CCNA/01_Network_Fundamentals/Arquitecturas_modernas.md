@@ -34,7 +34,7 @@ Largest Column: standard
 
 --- end-multi-column
 
-## On-Premise vs Cloud
+
 ## On-Premise
 
 > [!info]
@@ -51,14 +51,16 @@ Todos los dispositivos están **físicamente dentro** del edificio o campus.
 
 > [!info]
 Parte o toda la red se gestiona desde la nube utilizando paneles centralizados.
-#### Características
+
+**Características**
 - Controladores como **Cisco DNA Center**, **Meraki Dashboard**, etc.
 - Configuración y monitorización desde Internet
 - Equipamiento local más simple
 - Escalabilidad rápida
 - Reducción de costes de mantenimiento
-#### Ventajas
+**Ventajas**
 - Menos hardware local
 - Automatización
 - Gestión centralizada
 - Ideal para empresas con varias sedes
+## On-Premise vs Cloud
