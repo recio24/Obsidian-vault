@@ -46,3 +46,27 @@ Largest Column: standard
 ### Modelo de 2 capas (Collapsed core)
 El core (núcleo) y la distribución se combinan en un único nivel.
 
+--- start-multi-column: ID_xv4s
+```column-settings
+Number of Columns: 3
+Largest Column: standard
+```
+
+Utilizado en:
+- PYMES
+- Campus pequeños
+- Edificios con poco trafico interno
+
+--- column-break ---
+
+<font color="#00b050">Ventajas</font>
+- Mas simple
+- Más 
+
+--- column-break ---
+
+<font color="#ff0000">Desventajas</font>
+
+--- end-multi-column
+
+
