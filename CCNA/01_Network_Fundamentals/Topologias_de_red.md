@@ -15,7 +15,6 @@ Un modelo de diseño [[Network_conceptos#^a80a01|LAN]] es una forma estructurada
 - Aislamiento de fallos
 - Estandarización
 ### Modelo de 3 capas (Jerarquico)
-
 --- start-multi-column: ID_x03n
 ```column-settings
 Number of Columns: 3
@@ -33,11 +32,17 @@ Largest Column: standard
 **Distribución**
 - Une acceso $\leftrightarrow$ core
 - Aplica politicas (ACLs, QoS)
-- 
+- Maneja inter-VLAN routing
+- Aísla fallos del acceso
 
 --- column-break ---
 
-
+**Acceso**
+- Donde se conectan los dispositivos
+- Switches de acceso y APs
+- Funciones como VLANs, PoE...
 
 --- end-multi-column
+### Modelo de 2 capas (Collapsed core)
+El core (núcleo) y la distribución se combinan en un único nivel.
 
