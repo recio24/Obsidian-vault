@@ -8,6 +8,7 @@
 
 ![[Pasted image 20251127183521.png]]
 
+---
 ## **Arquitectura SOHO (Small Office / Home Office)**
 
 > [!info]
@@ -34,7 +35,7 @@ Largest Column: standard
 
 --- end-multi-column
 
-
+---
 ## On-Premise
 
 > [!info]
@@ -64,3 +65,34 @@ Parte o toda la red se gestiona desde la nube utilizando paneles centralizados.
 - Gestión centralizada
 - Ideal para empresas con varias sedes
 ## On-Premise vs Cloud
+--- start-multi-column: ID_xkc3
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
+**On-Premise**
+- Control total    
+- Mayor seguridad local
+- Mayor coste inicial
+- Requiere personal de red
+
+--- column-break ---
+
+**Cloud**
+- Automatización
+- Gestión desde la nube
+- Reducción de hardware
+- Fácil de escalar
+
+--- end-multi-column
+
+---
+## ¿Dónde usar cada arquitectura?
+
+- **Centros de datos modernos** → Spine–Leaf
+- **PYMES o campus pequeños** → Modelo de 2 capas
+- **Empresas medianas/grandes** → On-Premise tradicional o híbrido
+- **Sedes pequeñas / casas** → SOHO
+- **Empresas distribuidas por muchas sedes** → Cloud Networking + SD-WAN
+---
