@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "00_Conceptos de redes"
             }
+          },
+          {
+            "id": "6fdae389898f2e95",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8e7242ee447f7dea",
+  "active": "6fdae389898f2e95",
   "lastOpenFiles": [
     "CCNA/Introduction.md",
     "CCNA/00_Conceptos de redes.md",
