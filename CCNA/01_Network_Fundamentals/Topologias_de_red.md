@@ -73,4 +73,23 @@ Utilizado en:
 >[!tip] Evolución
 >Incialmente el modelo en 3 capas era muy utilizado, pero a medida que los equipos se volvieron más potentes, las capas se "fusionaron" dando lugar a redes mas planas, redes mas planas, menos necesidad de un core dedicado.
 
-## Arquitectura Spine
+## Arquitectura Spine-Leaf
+
+> [!info]
+> Arquitectura moderna usada principalmente en centros de datos. Ofrece caminos de igual coste, baja latencia y gran escalabilidad.
+
+
+--- start-multi-column: ID_zii6
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
+****
+
+--- column-break ---
+
+
+
+--- end-multi-column
+
