@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 333.5
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -225,6 +225,7 @@
   },
   "active": "fadaec0581b56c80",
   "lastOpenFiles": [
+    "CCNA/01_Network_Fundamentals/Anexos",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "CCNA/01_Network_Fundamentals/Network_conceptos.md",
     "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
@@ -269,7 +270,6 @@
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.8.Control derivativo (D).md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.7.Control integral (I).md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.6.Control proporcional (P).md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.5.Control ON-OFF.md",
     "Sin título.base"
   ]
 }

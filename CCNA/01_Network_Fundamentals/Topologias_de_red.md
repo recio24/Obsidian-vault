@@ -100,4 +100,11 @@ Largest Column: standard
 - Ideal para cargas distribuidas (virtualización, contenedores, VMs)
 
 --- end-multi-column
+[![Arquitectura Leaf Spine vs Arquitectura Tradicional | Blogs La Salle |  Campus Barcelona](https://blogs.salleurl.edu/sites/default/files/content/paragraphs/imatge-gran-peu/image/38096/136226/articulo3foto2.jpg)
+## **Resumen final**
 
+> [!info]
+El modelo jerárquico LAN permite crear redes más rápidas, estables y fáciles de gestionar.
+Según la escala, se aplica 2 capas, 3 capas o topologías modernas como spine–leaf.
+
+---
