@@ -85,7 +85,11 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-****
+**Como funciona**
+- Todos los **Leaf** se conectan a todos los spine
+- Los Lead no se conectan entre sí
+- Los Spine no se conectan entre sí
+- Cada servido
 
 --- column-break ---
 
