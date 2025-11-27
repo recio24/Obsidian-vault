@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
+                "file": "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitecturas_modernas"
+              "title": "Topologias_de_red"
             }
           },
           {
@@ -223,13 +223,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "fadaec0581b56c80",
   "lastOpenFiles": [
     "CCNA/01_Network_Fundamentals/Network_conceptos.md",
+    "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251127185049.png",
     "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "Pasted image 20251127183542.png",
     "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251127183521.png",
-    "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
     "CCNA/01_Network_Fundamentals/Anexos",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "Programación/0102 - Lenguajes/Markdown/Markdown.md",
@@ -254,7 +255,6 @@
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios sensores.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/Libro. 1-2.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Untitled Diagram.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/0.Practicas.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.3.Control de lazo cerrado.md",

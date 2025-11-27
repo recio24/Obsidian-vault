@@ -34,7 +34,7 @@ Largest Column: standard
 - No permite segmentación avanzada
 
 --- end-multi-column
-
+![[Pasted image 20251127185049.png]]
 ---
 ## On-Premise
 
