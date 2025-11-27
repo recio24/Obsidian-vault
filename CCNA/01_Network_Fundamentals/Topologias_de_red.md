@@ -26,7 +26,7 @@ Largest Column: standard
 - Alta velocidad y baja latencia
 - Grandes volúmenes de trabajo
 - Totalmente redundante
-- Sin políticad pesadas
+- Sin políticas pesadas (No ACLs)
 
 --- column-break ---
 
