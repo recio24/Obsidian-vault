@@ -26,7 +26,7 @@ Largest Column: standard
 - Alta velocidad y baja latencia
 - Grandes volúmenes de trabajo
 - Totalmente redundante
-- Sin políticas pesadas (No ACLs)
+- Sin políticas pesadas (No [[Network_conceptos#^4dadad|ACLs]] complejas)
 
 --- column-break ---
 
