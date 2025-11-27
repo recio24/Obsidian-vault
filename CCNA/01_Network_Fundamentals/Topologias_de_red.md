@@ -45,7 +45,6 @@ Largest Column: standard
 --- end-multi-column
 ### Modelo de 2 capas (Collapsed core)
 El core (núcleo) y la distribución se combinan en un único nivel.
-
 --- start-multi-column: ID_xv4s
 ```column-settings
 Number of Columns: 3
@@ -60,13 +59,17 @@ Utilizado en:
 --- column-break ---
 
 <font color="#00b050">Ventajas</font>
-- Mas simple
-- Más 
+- Más simple
+- Más económico
+- Menos equipo
 
 --- column-break ---
 
 <font color="#ff0000">Desventajas</font>
+- Menos escalable
+- Menos redundante que el modelo de 3 capas
 
 --- end-multi-column
-
+>[!tip] Evolución
+>Incialmente el modelo en 3 capas era muy uti
 
