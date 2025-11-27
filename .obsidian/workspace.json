@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b134e09398d85ae",
+        "id": "7cc6122f94d89ed4",
         "type": "tabs",
         "children": [
           {
-            "id": "4d38b5ebdb2afc18",
+            "id": "fadaec0581b56c80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
+                "file": "CCNA/00_Conceptos de redes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicios"
+              "title": "00_Conceptos de redes"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5,
-    "collapsed": true
+    "width": 434.5
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -196,12 +195,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4d38b5ebdb2afc18",
+  "active": "fadaec0581b56c80",
   "lastOpenFiles": [
     "CCNA/Introduction.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "CCNA/00_Conceptos de redes.md",
     "CCNA",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 6.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio5.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Pasted image 20251124111910.png",
