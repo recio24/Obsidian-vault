@@ -7,4 +7,10 @@ La **topología** es la forma en la que se diseñan y conectan las redes. Se div
 - **Topología física**: Como están conectados los dispositivos fisicamente (cables, fibra, switches).
 - **Topología lógica**: Como fluye el tráfico realmente (VLANs, STP, rutas, broascast domains).
 ## Modelos de diseño LAN
-Un modelo de diseño LAN es una forma estructurada de organizar la red interna de una empresa. Cisco propone modelos con capas para separar funciones, mejorar rendimiento y facilitar el crecimiento de la red. Los beneficio
+Un modelo de diseño LAN es una forma estructurada de organizar la red interna de una empresa. Cisco propone modelos con capas para separar funciones, mejorar rendimiento y facilitar el crecimiento de la red. Los beneficios son:
+- Escalabilidad
+- Redundancia 
+- Estabilidad
+- Fácil solución de problemas
+- Aislamiento de fallos
+- Estandarización
