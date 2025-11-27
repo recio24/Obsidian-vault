@@ -78,7 +78,6 @@ Utilizado en:
 > [!info]
 > Arquitectura moderna usada principalmente en centros de datos. Ofrece caminos de igual coste, baja latencia y gran escalabilidad.
 
-
 --- start-multi-column: ID_zii6
 ```column-settings
 Number of Columns: 2
@@ -98,7 +97,7 @@ Largest Column: standard
 - Latencia uniforme
 - Alta escalabilidad
 - Red muy estable
-- Ideal para cargas distribuidas (virtualización, co)
+- Ideal para cargas distribuidas (virtualización, contenedores, VMs)
 
 --- end-multi-column
 
