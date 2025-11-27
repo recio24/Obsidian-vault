@@ -89,11 +89,16 @@ Largest Column: standard
 - Todos los **Leaf** se conectan a todos los spine
 - Los Lead no se conectan entre sí
 - Los Spine no se conectan entre sí
-- Cada servido
+- Cada servidor se conecta a un switch Leaf
+- Permite expansión horizontal añadiendo más Leaf
 
 --- column-break ---
 
-
+<font color="#00b050">Ventajas</font>
+- Latencia uniforme
+- Alta escalabilidad
+- Red muy estable
+- Ideal para cargas distribuidas (virtualización, co)
 
 --- end-multi-column
 
