@@ -15,3 +15,26 @@ Un modelo de diseño LAN es una forma estructurada de organizar la red interna d
 - Aislamiento de fallos
 - Estandarización
 ### Modelo de 3 capas (Jerarquico)
+
+--- start-multi-column: ID_x03n
+```column-settings
+Number of Columns: 3
+Largest Column: standard
+```
+
+**Core**
+- Alta velocidad y baja latencia
+- Grandes volúmenes de trabajo
+- Totalmente redundante
+- Sin políticad pesadas
+
+--- column-break ---
+
+
+
+--- column-break ---
+
+
+
+--- end-multi-column
+
