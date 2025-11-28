@@ -11,4 +11,5 @@ $100 \begin{array}{|l} 0º \\ \hline  \end{array}$
 a)¿Calcula la reactancia capacitiva de este condensador?
 $X_c = \frac {100\begin{array}{|l} 0º \\ \hline  \end{array}}{20\begin{array}{|l} 90º \\ \hline  \end{array}} = 5\begin{array}{|l} -90º \\ \hline  \end{array} \ohm$
 b) ¿ Cual sera el valor se esta reactancia al duplicar la frecuencia?
-$X_c = \frac{1}{jwc}\rightarrow C= \frac{1}{j\cdot \omega \cdot X_c}=\frac{1}{2\pi\cdot 50\cdot 5}= 636,61\micro F$
+$X_c 50Hz= \frac{1}{jwc}\rightarrow C= \frac{1}{j\cdot \omega \cdot X_c}=\frac{1}{2\pi\cdot 50\cdot 5}= 636,61\micro F$
+$Xc= \frac{1}{2}
