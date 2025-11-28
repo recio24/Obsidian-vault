@@ -123,64 +123,67 @@ Utilizado en:
 ![[Pasted image 20251127185419.png]]
 ```mermaid
 flowchart TD
-    %% Hacemos las líneas curvas suaves para que no parezca una telaraña
+    %% === ESTILOS ===
     linkStyle default interpolate basis
+    %% Estilo especial para la "columna vertebral" (invisible)
+    classDef invisible stroke:none,fill:none,color:none;
+    linkStyle 0,1,2,3,4,5 stroke-width:0px; 
 
-    %% Definición de estilos compactos
-    classDef router fill:#d32f2f,stroke:#fff,color:#fff,rx:5,ry:5;
-    classDef multi fill:#388e3c,stroke:#fff,color:#fff,rx:0,ry:0;
-    classDef access fill:#1976d2,stroke:#fff,color:#fff,rx:0,ry:0;
-    classDef pc fill:#f57c00,stroke:#fff,color:#fff,rx:2,ry:2;
+    %% Definición de Nodos con formas específicas
+    classDef router fill:#d32f2f,stroke:#333,stroke-width:2px,color:#fff,rx:5,ry:5;
+    classDef multi fill:#2e7d32,stroke:#333,stroke-width:2px,color:#fff,shape:rect;
+    classDef access fill:#1565c0,stroke:#333,stroke-width:2px,color:#fff,shape:rect;
+    classDef pc fill:#f57c00,stroke:#333,stroke-width:1px,color:#fff,shape:rect;
 
-    %% --- CAPA DISTRIBUCIÓN ---
-    subgraph Dist [Distribución]
-        direction LR %% <--- ESTO ES LA CLAVE: Fuerza horizontalidad
-        R1(R-1):::router
-        R2(R-2):::router
+    %% === CAPA 1: DISTRIBUCIÓN (Core) ===
+    subgraph Dist [Capa de Distribución]
+        direction LR
+        R1(Router 1):::router
+        R2(Router 2):::router
+        MS1[MultiSwitch 1]:::multi
+        MS2[MultiSwitch 2]:::multi
         
-        %% Conexión invisible para mantenerlos alineados
-        R1 ~~~ R2
-        
-        %% Salto de línea forzado para los MultiSwitches
-        MS1[MSW-1]:::multi
-        MS2[MSW-2]:::multi
-        
-        %% Alineación de MultiSwitches
+        %% [TRUCO] Conexiones horizontales para fijar la fila
+        %% Estas líneas serán invisibles gracias al linkStyle de arriba
+        R1 --- R2
         MS1 --- MS2
     end
 
-    %% --- CAPA ACCESO ---
-    subgraph Acc [Acceso]
-        direction LR %% <--- Fuerza horizontalidad
-        SW1[SW-1]:::access
-        SW2[SW-2]:::access
-        SW3[SW-3]:::access
-        
-        %% Alineación
-        SW1 ~~~ SW2 ~~~ SW3
-    end
-
-    %% --- USUARIOS ---
-    subgraph Users [Usuarios]
+    %% === CAPA 2: ACCESO ===
+    subgraph Acc [Capa de Acceso]
         direction LR
-        PC1(PC-A):::pc
-        SRV(Srv):::pc
-        PC2(PC-B):::pc
+        SW1[Switch 1]:::access
+        SW2[Switch 2]:::access
+        SW3[Switch 3]:::access
+
+        %% [TRUCO] Fijar la fila horizontalmente
+        SW1 --- SW2 --- SW3
     end
 
-    %% --- CONEXIONES ---
-    %% Router a Multiswitch (Cruzados)
-    R1 --- MS1 & MS2
-    R2 --- MS1 & MS2
+    %% === CAPA 3: USUARIOS ===
+    subgraph Users [Dispositivos Finales]
+        direction LR
+        PCA(PC A):::pc
+        SRV(Server):::pc
+        PCB(PC B):::pc
 
-    %% Multiswitch a Acceso (Simplificado para claridad)
-    MS1 --- SW1 & SW2 & SW3
-    MS2 --- SW1 & SW2 & SW3
+        %% [TRUCO] Fijar la fila horizontalmente
+        PCA --- SRV --- PCB
+    end
 
-    %% Acceso a PCs
-    SW1 --- PC1
-    SW2 --- SRV
-    SW3 --- PC2
+    %% === CONEXIONES VERTICALES (Cables reales) ===
+    %% Router a MultiSwitch
+    R1 --> MS1 & MS2
+    R2 --> MS1 & MS2
+
+    %% MultiSwitch a Acceso
+    MS1 --> SW1 & SW2 & SW3
+    MS2 --> SW1 & SW2 & SW3
+
+    %% Acceso a Usuarios
+    SW1 --> PCA
+    SW2 --> SRV
+    SW3 --> PCB
 ```
 ## Arquitectura Spine-Leaf
 
