@@ -31,4 +31,7 @@
 
 ---
 ## Funcionamiento
-El switch no envía 
+El switch no envía 48V de golpe (quemaría un dispositivo no-PoE). Sigue un proceso de seguridad:
+
+**1. Detección**
+El PSE envía un voltaje muy bajo para buscar una res
