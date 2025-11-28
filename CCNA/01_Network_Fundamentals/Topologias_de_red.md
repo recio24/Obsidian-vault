@@ -22,18 +22,18 @@ Largest Column: standard
 ```
 
 **Core (Núcleo)** 
-- Alta velocidad y baja latencia
-- Grandes volúmenes de trabajo
-- Totalmente redundante
-- Sin políticas pesadas (No [[Network_conceptos#^4dadad|ACLs]] complejas)
+- Alta velocidad y baja latencia.
+- Grandes volúmenes de trabajo.
+- Totalmente redundante.
+- Sin políticas pesadas (No [[Network_conceptos#^4dadad|ACLs]] complejas).
 
 --- column-break ---
 
 **Distribución**
 - Une acceso $\leftrightarrow$ core
-- Aplica politicas (ACLs, QoS)
-- Maneja inter-VLAN routing
-- Aísla fallos del acceso
+- Aplica politicas (ACLs, QoS).
+- Maneja inter-VLAN routing.
+- Aísla fallos del acceso.
 
 --- column-break ---
 
@@ -41,6 +41,8 @@ Largest Column: standard
 - Donde se conectan los dispositivos
 - Switches de acceso y APs
 - Funciones como VLANs, PoE...
+- Es en esta capa donde se suministra energía a los dispositivos finales (Teléfonos, APs) mediante **[[Power_over_Ethernet_PoE|PoE]]**.
+
 
 --- end-multi-column
 El **Modelo 3 Capas (Tradicional)** esta diseñado para tráfico **North-South** (Norte-Sur). El usuario (Acceso) quiere salir a Internet (Core/Edge). El tráfico sube y baja.
