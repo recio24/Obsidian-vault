@@ -44,6 +44,7 @@ Todos los dispositivos están **físicamente dentro** del edificio o campus.
 **Características**
 - Control total sobre la red
 - Servidores y switches locales
+- Gestión On-Premise con funciones Cloud: **Cisco DNA Center (Appliance físico)**.
 - Mayor responsabilidad de mantenimiento
 - Mayor coste inicial
 - Ideal para empresas con requisitos de privacidad
@@ -54,7 +55,7 @@ Todos los dispositivos están **físicamente dentro** del edificio o campus.
 Parte o toda la red se gestiona desde la nube utilizando paneles centralizados.
 
 **Características**
-- Controladores como **Cisco DNA Center**, **Meraki Dashboard**, etc.
+- Controladores como **Meraki Dashboard**, etc.
 - Configuración y monitorización desde Internet
 - Equipamiento local más simple
 - Escalabilidad rápida
