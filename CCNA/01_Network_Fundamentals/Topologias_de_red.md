@@ -123,7 +123,6 @@ Utilizado en:
 
 ![[2 capas.png]]
 ## Arquitectura Spine-Leaf
-
 > [!info]
 > Arquitectura moderna usada principalmente en centros de datos. Ofrece caminos de igual coste, baja latencia y gran escalabilidad.
 
@@ -152,7 +151,6 @@ Largest Column: standard
 El **Spine-Leaf (Data Center)** esta Diseñado para tráfico **East-West** (Este-Oeste). Los servidores (virtualización/contenedores) hablan mucho entre ellos. El tráfico se mueve lateralmente.
 ![[server spine-leaf.png]]
 ## **Resumen final**
-
 > [!info]
 El modelo jerárquico LAN permite crear redes más rápidas, estables y fáciles de gestionar.
 Según la escala, se aplica 2 capas, 3 capas o topologías modernas como spine–leaf.
