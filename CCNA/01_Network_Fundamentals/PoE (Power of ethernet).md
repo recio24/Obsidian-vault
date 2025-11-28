@@ -37,3 +37,8 @@ El switch no envía 48V de golpe (quemaría un dispositivo no-PoE). Sigue un pro
 El PSE envía un voltaje muy bajo para buscar una resistencia concreta en el dispositivo conectado, según la variación de la carga al paso de esa resistencia.
 - **Si la encuentra:** Sabe que es un PD válido y pasa a la siguiente fase. 
 - **Si NO la encuentra:** Solo envía datos (protege tu PC o consola).
+
+**2. Clasificación**
+El dispositivo (PD) le dice al Switch cuánta energía necesita exactamente (Clase 0 a Clase 8). Esto ayuda al switch a gestionar su presupuesto de energía total (*Power Budget*).
+
+**3. Envio de energía**
