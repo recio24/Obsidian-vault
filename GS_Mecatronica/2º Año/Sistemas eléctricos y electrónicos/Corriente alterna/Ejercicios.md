@@ -1,0 +1,1 @@
+La reactancia inductiva de un devanado de trandformador a 50Hz de corriente alterna
