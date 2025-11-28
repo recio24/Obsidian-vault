@@ -24,7 +24,7 @@ En una Máscara de Subred (Subnet Mask), **SOLO** pueden existir estos números.
 > Memoriza la columna **"Tamaño de Bloque"**.
 > *Ejemplo:* Si la máscara es **.240**, el tamaño de bloque es **16**. Los rangos van de 0, 16, 32, 48...
 
-### 2. La Lógica del Router (Operación AND)
+### La Lógica del Router (Operación AND)
 Así es como un router sabe si una IP pertenece a una red.
 * **1 + 1 = 1** (Se mantiene el bit)
 * **1 + 0 = 0** (Se borra el bit)
@@ -54,7 +54,6 @@ Así es como un router sabe si una IP pertenece a una red.
 ---
 
 ## Tablas de Conversión (Completas)
-
 ### Binario (Posiciones para IPv4)
 El método "8421" extendido.
 
@@ -66,24 +65,24 @@ El método "8421" extendido.
 ### Hexadecimal (Para IPv6, MAC y Hacking)
 Tabla completa de los 4 bits (Nibble).
 
-| Decimal | Hex | Binario (8421) |
-| :---: | :---: | :---: |
-| 0 | **0** | 0000 |
-| 1 | **1** | 0001 |
-| 2 | **2** | 0010 |
-| 3 | **3** | 0011 |
-| 4 | **4** | 0100 |
-| 5 | **5** | 0101 |
-| 6 | **6** | 0110 |
-| 7 | **7** | 0111 |
-| 8 | **8** | 1000 |
-| 9 | **9** | 1001 |
-| 10 | **A** | 1010 |
-| 11 | **B** | 1011 |
-| 12 | **C** | 1100 |
-| 13 | **D** | 1101 |
-| 14 | **E** | 1110 |
-| 15 | **F** | 1111 |
+| Decimal |  Hex  | Binario (8421) |
+| :-----: | :---: | :------------: |
+|    0    | **0** |      0000      |
+|    1    | **1** |      0001      |
+|    2    | **2** |      0010      |
+|    3    | **3** |      0011      |
+|    4    | **4** |      0100      |
+|    5    | **5** |      0101      |
+|    6    | **6** |      0110      |
+|    7    | **7** |      0111      |
+|    8    | **8** |      1000      |
+|    9    | **9** |      1001      |
+|   10    | **A** |      1010      |
+|   11    | **B** |      1011      |
+|   12    | **C** |      1100      |
+|   13    | **D** |      1101      |
+|   14    | **E** |      1110      |
+|   15    | **F** |      1111      |
 
 > [!example] Ejemplo de lectura MAC
 > `00:0C:29...` -> `0` (0000) `C` (1100).
