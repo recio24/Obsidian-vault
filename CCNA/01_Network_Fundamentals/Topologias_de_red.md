@@ -203,6 +203,50 @@ Largest Column: standard
 
 --- end-multi-column
 El **Spine-Leaf (Data Center)** esta Diseñado para tráfico **East-West** (Este-Oeste). Los servidores (virtualización/contenedores) hablan mucho entre ellos. El tráfico se mueve lateralmente.
+```mermaid
+flowchart TD
+    %% === ESTILOS ===
+    classDef spine fill:#283593,stroke:#fff,stroke-width:2px,color:#fff,shape:rect
+    classDef leaf fill:#1e88e5,stroke:#fff,stroke-width:2px,color:#fff,shape:rect
+    classDef server fill:#e3f2fd,stroke:#1565c0,stroke-width:1px,color:#0d47a1,shape:cyl
+
+    %% === CAPA SPINE ===
+    %% CORRECCIÓN: He añadido comillas ["..."] al título
+    subgraph SpineLayer ["Capa Spine (Backbone)"]
+        direction LR
+        S1[Spine SW 1]:::spine
+        S2[Spine SW 2]:::spine
+    end
+
+    %% === CAPA LEAF ===
+    %% CORRECCIÓN: He añadido comillas aquí también
+    subgraph LeafLayer ["Capa Leaf (Top of Rack)"]
+        direction LR
+        L1[Leaf 1]:::leaf
+        L2[Leaf 2]:::leaf
+        L3[Leaf 3]:::leaf
+        L4[Leaf 4]:::leaf
+    end
+
+    %% === SERVIDORES ===
+    subgraph RackLayer ["Clusters de Servidores"]
+        direction LR
+        R1[Rack Srv 1]:::server
+        R2[Rack Srv 2]:::server
+        R3[Rack Srv 3]:::server
+        R4[Rack Srv 4]:::server
+    end
+
+    %% === CONEXIONES ===
+    %% Malla Completa (Full Mesh)
+    S1 & S2 --> L1 & L2 & L3 & L4
+
+    %% Conexiones a Servidores
+    L1 --- R1
+    L2 --- R2
+    L3 --- R3
+    L4 --- R4
+```
 [![Arquitectura Leaf Spine vs Arquitectura Tradicional | Blogs La Salle |  Campus Barcelona](https://blogs.salleurl.edu/sites/default/files/content/paragraphs/imatge-gran-peu/image/38096/136226/articulo3foto2.jpg)
 ## **Resumen final**
 
