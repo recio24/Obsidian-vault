@@ -120,61 +120,8 @@ Utilizado en:
 >[!tip] Evolución
 >Incialmente el modelo en 3 capas era muy utilizado, pero a medida que los equipos se volvieron más potentes, las capas se "fusionaron" dando lugar a redes mas planas, redes mas planas, menos necesidad de un core dedicado.
 
-```mermaid
-flowchart TD
-    %% === ESTILOS VISUALES (Colores Cisco Modernos) ===
-    classDef router fill:#ef5350,stroke:#b71c1c,stroke-width:2px,color:#fff,rx:5,ry:5
-    classDef multi fill:#66bb6a,stroke:#1b5e20,stroke-width:2px,color:#fff,shape:rect
-    classDef access fill:#42a5f5,stroke:#0d47a1,stroke-width:2px,color:#fff,shape:rect
-    classDef device fill:#ffa726,stroke:#e65100,stroke-width:2px,color:#fff,shape:rect
-    
-    %% Estilo para las cajas de las capas (amarillo suave como tu imagen)
-    classDef layerBox fill:#fffde7,stroke:#fbc02d,stroke-width:2px,stroke-dasharray: 5 5
 
-    %% === CAPA DE DISTRIBUCIÓN ===
-    subgraph Dist [Capa de Distribución]
-        direction TB
-        %% Definimos los nodos primero
-        R1(Router 0):::router
-        R2(Router 1):::router
-        MS1[MultiSwitch 0]:::multi
-        MS2[MultiSwitch 1]:::multi
-        
-        %% Conexiones internas de la capa
-        %% 1. Los Routers bajan cruzados a los MultiSwitches
-        R1 & R2 --> MS1 & MS2
-        
-        %% 2. Los MultiSwitches se conectan entre sí
-        MS1 <--> MS2
-    end
-    class Dist layerBox
-
-    %% === CAPA DE ACCESO ===
-    subgraph Access [Capa de Acceso]
-        direction TB
-        %% Definimos los nodos
-        SW0[Switch 0]:::access
-        SW1[Switch 1]:::access
-        SW2[Switch 2]:::access
-        
-        %% Dispositivos finales debajo de cada switch
-        PC0[PC 0]:::device
-        SRV[Server 0]:::device
-        PC1[PC 1]:::device
-    end
-    class Access layerBox
-
-    %% === CONEXIONES ENTRE CAPAS (La magia de la simetría) ===
-    
-    %% Conexión Malla Completa (Full Mesh)
-    %% "MS1 y MS2 se conectan ambos a SW0, SW1 y SW2"
-    MS1 & MS2 --> SW0 & SW1 & SW2
-
-    %% === CONEXIONES FINALES ===
-    SW0 --> PC0
-    SW1 --> SRV
-    SW2 --> PC1
-```
+![[2 capas.png]]
 ## Arquitectura Spine-Leaf
 
 > [!info]
@@ -203,50 +150,6 @@ Largest Column: standard
 
 --- end-multi-column
 El **Spine-Leaf (Data Center)** esta Diseñado para tráfico **East-West** (Este-Oeste). Los servidores (virtualización/contenedores) hablan mucho entre ellos. El tráfico se mueve lateralmente.
-```mermaid
-flowchart TD
-    %% === ESTILOS ===
-    classDef spine fill:#283593,stroke:#fff,stroke-width:2px,color:#fff,shape:rect
-    classDef leaf fill:#1e88e5,stroke:#fff,stroke-width:2px,color:#fff,shape:rect
-    classDef server fill:#e3f2fd,stroke:#1565c0,stroke-width:1px,color:#0d47a1,shape:cyl
-
-    %% === CAPA SPINE ===
-    %% CORRECCIÓN: He añadido comillas ["..."] al título
-    subgraph SpineLayer ["Capa Spine (Backbone)"]
-        direction LR
-        S1[Spine SW 1]:::spine
-        S2[Spine SW 2]:::spine
-    end
-
-    %% === CAPA LEAF ===
-    %% CORRECCIÓN: He añadido comillas aquí también
-    subgraph LeafLayer ["Capa Leaf (Top of Rack)"]
-        direction LR
-        L1[Leaf 1]:::leaf
-        L2[Leaf 2]:::leaf
-        L3[Leaf 3]:::leaf
-        L4[Leaf 4]:::leaf
-    end
-
-    %% === SERVIDORES ===
-    subgraph RackLayer ["Clusters de Servidores"]
-        direction LR
-        R1[Rack Srv 1]:::server
-        R2[Rack Srv 2]:::server
-        R3[Rack Srv 3]:::server
-        R4[Rack Srv 4]:::server
-    end
-
-    %% === CONEXIONES ===
-    %% Malla Completa (Full Mesh)
-    S1 & S2 --> L1 & L2 & L3 & L4
-
-    %% Conexiones a Servidores
-    L1 --- R1
-    L2 --- R2
-    L3 --- R3
-    L4 --- R4
-```
 [![Arquitectura Leaf Spine vs Arquitectura Tradicional | Blogs La Salle |  Campus Barcelona](https://blogs.salleurl.edu/sites/default/files/content/paragraphs/imatge-gran-peu/image/38096/136226/articulo3foto2.jpg)
 ## **Resumen final**
 
