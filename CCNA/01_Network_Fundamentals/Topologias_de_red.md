@@ -120,9 +120,60 @@ Utilizado en:
 >[!tip] Evolución
 >Incialmente el modelo en 3 capas era muy utilizado, pero a medida que los equipos se volvieron más potentes, las capas se "fusionaron" dando lugar a redes mas planas, redes mas planas, menos necesidad de un core dedicado.
 
-![[Pasted image 20251127185419.png]]
 ```mermaid
+flowchart TD
+    %% === ESTILOS VISUALES (Colores Cisco Modernos) ===
+    classDef router fill:#ef5350,stroke:#b71c1c,stroke-width:2px,color:#fff,rx:5,ry:5
+    classDef multi fill:#66bb6a,stroke:#1b5e20,stroke-width:2px,color:#fff,shape:rect
+    classDef access fill:#42a5f5,stroke:#0d47a1,stroke-width:2px,color:#fff,shape:rect
+    classDef device fill:#ffa726,stroke:#e65100,stroke-width:2px,color:#fff,shape:rect
+    
+    %% Estilo para las cajas de las capas (amarillo suave como tu imagen)
+    classDef layerBox fill:#fffde7,stroke:#fbc02d,stroke-width:2px,stroke-dasharray: 5 5
 
+    %% === CAPA DE DISTRIBUCIÓN ===
+    subgraph Dist [Capa de Distribución]
+        direction TB
+        %% Definimos los nodos primero
+        R1(Router 0):::router
+        R2(Router 1):::router
+        MS1[MultiSwitch 0]:::multi
+        MS2[MultiSwitch 1]:::multi
+        
+        %% Conexiones internas de la capa
+        %% 1. Los Routers bajan cruzados a los MultiSwitches
+        R1 & R2 --> MS1 & MS2
+        
+        %% 2. Los MultiSwitches se conectan entre sí
+        MS1 <--> MS2
+    end
+    class Dist layerBox
+
+    %% === CAPA DE ACCESO ===
+    subgraph Access [Capa de Acceso]
+        direction TB
+        %% Definimos los nodos
+        SW0[Switch 0]:::access
+        SW1[Switch 1]:::access
+        SW2[Switch 2]:::access
+        
+        %% Dispositivos finales debajo de cada switch
+        PC0[PC 0]:::device
+        SRV[Server 0]:::device
+        PC1[PC 1]:::device
+    end
+    class Access layerBox
+
+    %% === CONEXIONES ENTRE CAPAS (La magia de la simetría) ===
+    
+    %% Conexión Malla Completa (Full Mesh)
+    %% "MS1 y MS2 se conectan ambos a SW0, SW1 y SW2"
+    MS1 & MS2 --> SW0 & SW1 & SW2
+
+    %% === CONEXIONES FINALES ===
+    SW0 --> PC0
+    SW1 --> SRV
+    SW2 --> PC1
 ```
 ## Arquitectura Spine-Leaf
 
