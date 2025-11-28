@@ -104,3 +104,4 @@ Largest Column: standard
 | **Sedes Dispersas (Retail)** | **Cloud (Meraki) / SD-WAN** | Gestión centralizada remota sin ir al sitio. |
 
 ---
+**Tags:** #CCNA/Fundamentos #Terminología #Introducción 
