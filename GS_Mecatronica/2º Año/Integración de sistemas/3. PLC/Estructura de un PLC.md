@@ -62,3 +62,4 @@ Tipos de salidas:
 - **Relé** (AC): para cargas grandes  
 - **Transistor** (DC): rápida conmutación  
 - **Analógicas**: tensión o corriente
+---

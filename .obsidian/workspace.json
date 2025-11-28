@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicios"
+              "title": "Sin título"
             }
           }
         ]
@@ -198,7 +198,9 @@
   "active": "df64a7386351818d",
   "lastOpenFiles": [
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Sin título.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna",
     "CCNA/Cheats.Binario y hexadecimal.md",
@@ -222,7 +224,6 @@
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio5.svg",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Pasted image 20251124111910.png",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 4.svg",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/carpeta sin título",
     "GS_Mecatronica/2º Año/Integración de sistemas/carpeta sin título",
@@ -241,7 +242,6 @@
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.4.Sensores de posición.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.3.Salidas PNP_NPN.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.2.Detectores de proximidad.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.1.Características.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.0.Sensores industriales.md"
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/2.1.Características.md"
   ]
 }
