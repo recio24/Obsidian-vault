@@ -46,60 +46,48 @@ Largest Column: standard
 
 --- end-multi-column
 El **Modelo 3 Capas (Tradicional)** esta diseñado para tráfico **North-South** (Norte-Sur). El usuario (Acceso) quiere salir a Internet (Core/Edge). El tráfico sube y baja.
-![[Pasted image 20251127185227.png]]
 ```mermaid
-graph TD
-    %% Definición de estilos para los nodos
+flowchart TD
+    %% Estilos
     classDef core fill:#ffcccc,stroke:#333,stroke-width:2px;
     classDef dist fill:#ccffcc,stroke:#333,stroke-width:2px;
     classDef access fill:#ccccff,stroke:#333,stroke-width:2px;
     classDef pc fill:#eee,stroke:#333,stroke-width:1px;
 
-    %% Capa de Núcleo (Core Layer)
-    subgraph "Core Layer"
-        C1[Core Switch 1]:::core
-        C2[Core Switch 2]:::core
+    subgraph Core["Capa Core"]
+        direction LR
+        C1[Core SW 1]:::core
+        C2[Core SW 2]:::core
     end
 
-    %% Capa de Distribución (Distribution Layer)
-    subgraph "Distribution Layer"
-        D1[Dist Switch 1]:::dist
-        D2[Dist Switch 2]:::dist
-        D3[Dist Switch 3]:::dist
-        D4[Dist Switch 4]:::dist
+    subgraph Dist["Capa Distribución"]
+        direction TB
+        D1[Dist SW 1]:::dist
+        D2[Dist SW 2]:::dist
+        D3[Dist SW 3]:::dist
     end
 
-    %% Capa de Acceso (Access Layer)
-    subgraph "Access Layer"
-        A1[Access Switch 1]:::access
-        A2[Access Switch 2]:::access
-        A3[Access Switch 3]:::access
-        A4[Access Switch 4]:::access
+    subgraph Access["Capa Acceso"]
+        direction TB
+        A1[Access SW 1]:::access
+        A2[Access SW 2]:::access
+        A3[Access SW 3]:::access
     end
 
-    %% Capa de Usuarios (PC)
-    subgraph "Users"
-        PC1[PC User 1]:::pc
-        PC2[PC User 2]:::pc
-        PC3[PC User 3]:::pc
-        PC4[PC User 4]:::pc
+    subgraph Users["Usuarios"]
+        U1[PC 1]:::pc
+        U2[PC 2]:::pc
+        U3[PC 3]:::pc
     end
 
-    %% Conexiones Core -> Distribución (Full Mesh entre capas)
-    C1 --- D1 & D2 & D3 & D4
-    C2 --- D1 & D2 & D3 & D4
-
-    %% Conexiones Distribución -> Acceso (Redundancia)
-    D1 --- A1
-    D2 --- A1 & A2
-    D3 --- A3
-    D4 --- A3 & A4
-
-    %% Conexiones Acceso -> PC
-    A1 --- PC1
-    A2 --- PC2
-    A3 --- PC3
-    A4 --- PC4
+    %% Conexiones (Simplificadas para limpieza visual)
+    C1 & C2 --> D1 & D2 & D3
+    D1 --> A1
+    D2 --> A2
+    D3 --> A3
+    A1 --> U1
+    A2 --> U2
+    A3 --> U3
 ```
 
 ### Modelo de 2 capas (Collapsed core)
@@ -133,6 +121,9 @@ Utilizado en:
 >Incialmente el modelo en 3 capas era muy utilizado, pero a medida que los equipos se volvieron más potentes, las capas se "fusionaron" dando lugar a redes mas planas, redes mas planas, menos necesidad de un core dedicado.
 
 ![[Pasted image 20251127185419.png]]
+```mermaid
+
+```
 ## Arquitectura Spine-Leaf
 
 > [!info]
