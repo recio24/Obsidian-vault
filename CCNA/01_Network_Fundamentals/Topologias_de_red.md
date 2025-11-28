@@ -123,72 +123,63 @@ Utilizado en:
 ![[Pasted image 20251127185419.png]]
 ```mermaid
 flowchart TD
-    %% === ESTILOS ===
-    linkStyle default interpolate basis
-    %% Estilo especial para la "columna vertebral" (invisible)
-    classDef invisible stroke:none,fill:none,color:none;
-    linkStyle 0,1,2,3,4,5 stroke-width:0px; 
+    %% === ESTILOS BÁSICOS ===
+    classDef router fill:#d32f2f,stroke:#fff,stroke-width:2px,color:#fff,rx:5,ry:5;
+    classDef multi fill:#2e7d32,stroke:#fff,stroke-width:2px,color:#fff,shape:rect;
+    classDef access fill:#1565c0,stroke:#fff,stroke-width:2px,color:#fff,shape:rect;
+    classDef pc fill:#f57c00,stroke:#fff,stroke-width:1px,color:#fff,shape:rect;
 
-    %% Definición de Nodos con formas específicas
-    classDef router fill:#d32f2f,stroke:#333,stroke-width:2px,color:#fff,rx:5,ry:5;
-    classDef multi fill:#2e7d32,stroke:#333,stroke-width:2px,color:#fff,shape:rect;
-    classDef access fill:#1565c0,stroke:#333,stroke-width:2px,color:#fff,shape:rect;
-    classDef pc fill:#f57c00,stroke:#333,stroke-width:1px,color:#fff,shape:rect;
-
-    %% === CAPA 1: DISTRIBUCIÓN (Core) ===
-    subgraph Dist [Capa de Distribución]
+    %% === PISO 1: ROUTERS ===
+    %% Usamos un subgraph invisible para forzar la fila
+    subgraph Row1 [ ]
         direction LR
+        style Row1 fill:none,stroke:none;
         R1(Router 1):::router
         R2(Router 2):::router
-        MS1[MultiSwitch 1]:::multi
-        MS2[MultiSwitch 2]:::multi
-        
-        %% [TRUCO] Conexiones horizontales para fijar la fila
-        %% Estas líneas serán invisibles gracias al linkStyle de arriba
-        R1 --- R2
-        MS1 --- MS2
     end
 
-    %% === CAPA 2: ACCESO ===
-    subgraph Acc [Capa de Acceso]
+    %% === PISO 2: MULTISWITCHES ===
+    subgraph Row2 [ ]
         direction LR
+        style Row2 fill:none,stroke:none;
+        MS1[MultiSwitch 1]:::multi
+        MS2[MultiSwitch 2]:::multi
+    end
+
+    %% === PISO 3: ACCESO ===
+    subgraph Row3 [ ]
+        direction LR
+        style Row3 fill:none,stroke:none;
         SW1[Switch 1]:::access
         SW2[Switch 2]:::access
         SW3[Switch 3]:::access
-
-        %% [TRUCO] Fijar la fila horizontalmente
-        SW1 --- SW2 --- SW3
     end
 
-    %% === CAPA 3: USUARIOS ===
-    subgraph Users [Dispositivos Finales]
+    %% === PISO 4: USUARIOS ===
+    subgraph Row4 [ ]
         direction LR
+        style Row4 fill:none,stroke:none;
         PCA(PC A):::pc
         SRV(Server):::pc
         PCB(PC B):::pc
-
-        %% [TRUCO] Fijar la fila horizontalmente
-        PCA --- SRV --- PCB
     end
 
-    %% === CONEXIONES VERTICALES (Cables reales) ===
-    %% Router a MultiSwitch
-    R1 --> MS1 & MS2
-    R2 --> MS1 & MS2
-
-    %% MultiSwitch a Acceso
-    MS1 --> SW1 & SW2 & SW3
-    MS2 --> SW1 & SW2 & SW3
-
-    %% Acceso a Usuarios
+    %% === CONEXIONES ===
+    %% Aquí conectamos los pisos entre sí
+    R1 & R2 --> MS1 & MS2
+    MS1 & MS2 --> SW1 & SW2 & SW3
     SW1 --> PCA
     SW2 --> SRV
     SW3 --> PCB
+
+    %% Conexiones laterales opcionales (si las quieres)
+    MS1 -.- MS2
 ```
 ## Arquitectura Spine-Leaf
 
 > [!info]
 > Arquitectura moderna usada principalmente en centros de datos. Ofrece caminos de igual coste, baja latencia y gran escalabilidad.
+
 --- start-multi-column: ID_zii6
 ```column-settings
 Number of Columns: 2
