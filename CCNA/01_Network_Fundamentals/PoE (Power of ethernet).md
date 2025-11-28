@@ -42,3 +42,7 @@ El PSE envía un voltaje muy bajo para buscar una resistencia concreta en el dis
 El dispositivo (PD) le dice al Switch cuánta energía necesita exactamente (Clase 0 a Clase 8). Esto ayuda al switch a gestionar su presupuesto de energía total (*Power Budget*).
 
 **3. Envio de energía**
+Una vez acordado, el PSE envía el voltaje completo (habitualmente 48V DC).
+
+---
+**Tags:** #CCNA/Fundamentos #Hardware/PoE #Estandares/IEEE #Capa_Fisica
