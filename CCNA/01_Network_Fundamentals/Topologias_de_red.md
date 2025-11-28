@@ -122,7 +122,64 @@ Utilizado en:
 
 ![[Pasted image 20251127185419.png]]
 ```mermaid
+flowchart TD
+    %% === ESTILOS ===
+    %% Usamos "step" para líneas rectas tipo circuito
+    linkStyle default interpolate step
 
+    classDef router fill:#cc0000,stroke:#333,stroke-width:2px,color:#fff,shape:rect,rx:5,ry:5;
+    classDef multi fill:#4caf50,stroke:#333,stroke-width:2px,color:#fff,shape:rect;
+    classDef access fill:#1976d2,stroke:#333,stroke-width:2px,color:#fff,shape:rect;
+    classDef endDev fill:#ed6c02,stroke:#333,stroke-width:1px,color:#fff,shape:rect;
+    classDef invisible stroke:none,fill:none,color:none;
+
+    %% === CAPA DE DISTRIBUCIÓN ===
+    subgraph DistLayer["Distribution Layer"]
+        direction TB
+        %% Definición de Nodos
+        R1[Router0 1]:::router
+        R2[Router0]:::router
+        MSW1[MultiSwitch 1]:::multi
+        MSW2[MultiSwitch 0]:::multi
+
+        %% TRUCO: Enlaces invisibles para forzar alineación horizontal
+        R1 ~~~ R2
+        MSW1 ~~~ MSW2
+    end
+
+    %% === CAPA DE ACCESO ===
+    subgraph AccessLayer["Access Layer"]
+        direction TB
+        %% Definición de Nodos
+        SW0[Switch0]:::access
+        SW1[Switch1]:::access
+        SW2[Switch2]:::access
+
+        %% TRUCO: Enlaces invisibles para alineación
+        SW0 ~~~ SW1 ~~~ SW2
+
+        %% Dispositivos Finales
+        PC0[PC0]:::endDev
+        SRV[Server0]:::endDev
+        PC1[PC1]:::endDev
+    end
+
+    %% === CONEXIONES ===
+    %% Routers a MultiSwitches (Cruzados)
+    R1 --x MSW1 & MSW2
+    R2 --x MSW1 & MSW2
+
+    %% MultiSwitches entre sí
+    MSW1 --- MSW2
+
+    %% MultiSwitches a Access (Redundancia)
+    MSW1 --- SW0 & SW1 & SW2
+    MSW2 --- SW0 & SW1 & SW2
+
+    %% Access a PCs
+    SW0 --- PC0
+    SW1 --- SRV
+    SW2 --- PC1
 ```
 ## Arquitectura Spine-Leaf
 

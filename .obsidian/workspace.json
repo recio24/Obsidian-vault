@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -192,7 +193,8 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "df64a7386351818d",
