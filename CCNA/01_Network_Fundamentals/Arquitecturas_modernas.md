@@ -49,7 +49,7 @@ Todos los dispositivos están **físicamente dentro** del edificio o campus.
 **Características**
 - Control total sobre la red
 - Servidores y switches locales
-- Gestión On-Premise con funciones Cloud: [[Network_conceptos#^3bc134|Cisco DNA Center (Appliance físico)]].
+- Gestión On-Premise con funciones Cloud: **[[Network_conceptos#^CiscoDNA|Cisco DNA Center (Appliance físico)]]**.
 - Mayor responsabilidad de mantenimiento
 - Mayor coste inicial
 - Ideal para empresas con requisitos de privacidad
