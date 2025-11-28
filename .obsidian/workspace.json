@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00df128d959225ca",
+        "id": "eb4ae8f74bf6b760",
         "type": "tabs",
         "children": [
           {
-            "id": "3fe37b3223168287",
+            "id": "df64a7386351818d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
                 "mode": "source",
                 "source": false
               },
@@ -196,7 +196,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3fe37b3223168287",
+  "active": "df64a7386351818d",
   "lastOpenFiles": [
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna",
