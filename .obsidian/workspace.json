@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -157,8 +158,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
