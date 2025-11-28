@@ -18,4 +18,5 @@
 	- Ejemplo: Teléfonos IP, cámaras IP, puntos de acceso. 
 
 ---
-## Estandares PoE
+## Estándares PoE
+
