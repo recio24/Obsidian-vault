@@ -123,63 +123,64 @@ Utilizado en:
 ![[Pasted image 20251127185419.png]]
 ```mermaid
 flowchart TD
-    %% === ESTILOS ===
-    %% Usamos "step" para líneas rectas tipo circuito
-    linkStyle default interpolate step
+    %% Hacemos las líneas curvas suaves para que no parezca una telaraña
+    linkStyle default interpolate basis
 
-    classDef router fill:#cc0000,stroke:#333,stroke-width:2px,color:#fff,shape:rect,rx:5,ry:5;
-    classDef multi fill:#4caf50,stroke:#333,stroke-width:2px,color:#fff,shape:rect;
-    classDef access fill:#1976d2,stroke:#333,stroke-width:2px,color:#fff,shape:rect;
-    classDef endDev fill:#ed6c02,stroke:#333,stroke-width:1px,color:#fff,shape:rect;
-    classDef invisible stroke:none,fill:none,color:none;
+    %% Definición de estilos compactos
+    classDef router fill:#d32f2f,stroke:#fff,color:#fff,rx:5,ry:5;
+    classDef multi fill:#388e3c,stroke:#fff,color:#fff,rx:0,ry:0;
+    classDef access fill:#1976d2,stroke:#fff,color:#fff,rx:0,ry:0;
+    classDef pc fill:#f57c00,stroke:#fff,color:#fff,rx:2,ry:2;
 
-    %% === CAPA DE DISTRIBUCIÓN ===
-    subgraph DistLayer["Distribution Layer"]
-        direction TB
-        %% Definición de Nodos
-        R1[Router0 1]:::router
-        R2[Router0]:::router
-        MSW1[MultiSwitch 1]:::multi
-        MSW2[MultiSwitch 0]:::multi
-
-        %% TRUCO: Enlaces invisibles para forzar alineación horizontal
+    %% --- CAPA DISTRIBUCIÓN ---
+    subgraph Dist [Distribución]
+        direction LR %% <--- ESTO ES LA CLAVE: Fuerza horizontalidad
+        R1(R-1):::router
+        R2(R-2):::router
+        
+        %% Conexión invisible para mantenerlos alineados
         R1 ~~~ R2
-        MSW1 ~~~ MSW2
+        
+        %% Salto de línea forzado para los MultiSwitches
+        MS1[MSW-1]:::multi
+        MS2[MSW-2]:::multi
+        
+        %% Alineación de MultiSwitches
+        MS1 --- MS2
     end
 
-    %% === CAPA DE ACCESO ===
-    subgraph AccessLayer["Access Layer"]
-        direction TB
-        %% Definición de Nodos
-        SW0[Switch0]:::access
-        SW1[Switch1]:::access
-        SW2[Switch2]:::access
-
-        %% TRUCO: Enlaces invisibles para alineación
-        SW0 ~~~ SW1 ~~~ SW2
-
-        %% Dispositivos Finales
-        PC0[PC0]:::endDev
-        SRV[Server0]:::endDev
-        PC1[PC1]:::endDev
+    %% --- CAPA ACCESO ---
+    subgraph Acc [Acceso]
+        direction LR %% <--- Fuerza horizontalidad
+        SW1[SW-1]:::access
+        SW2[SW-2]:::access
+        SW3[SW-3]:::access
+        
+        %% Alineación
+        SW1 ~~~ SW2 ~~~ SW3
     end
 
-    %% === CONEXIONES ===
-    %% Routers a MultiSwitches (Cruzados)
-    R1 --x MSW1 & MSW2
-    R2 --x MSW1 & MSW2
+    %% --- USUARIOS ---
+    subgraph Users [Usuarios]
+        direction LR
+        PC1(PC-A):::pc
+        SRV(Srv):::pc
+        PC2(PC-B):::pc
+    end
 
-    %% MultiSwitches entre sí
-    MSW1 --- MSW2
+    %% --- CONEXIONES ---
+    %% Router a Multiswitch (Cruzados)
+    R1 --- MS1 & MS2
+    R2 --- MS1 & MS2
 
-    %% MultiSwitches a Access (Redundancia)
-    MSW1 --- SW0 & SW1 & SW2
-    MSW2 --- SW0 & SW1 & SW2
+    %% Multiswitch a Acceso (Simplificado para claridad)
+    MS1 --- SW1 & SW2 & SW3
+    MS2 --- SW1 & SW2 & SW3
 
-    %% Access a PCs
-    SW0 --- PC0
-    SW1 --- SRV
-    SW2 --- PC1
+    %% Acceso a PCs
+    SW1 --- PC1
+    SW2 --- SRV
+    SW3 --- PC2
 ```
 ## Arquitectura Spine-Leaf
 
