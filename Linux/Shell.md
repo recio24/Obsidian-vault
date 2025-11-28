@@ -38,7 +38,7 @@ comando -?
 man comando
 ```
 ### Busqueda comandos (apropos)
-```bash
+```zsh
 apropos palabra_comando
 ```
 ### Cambiar fondo
