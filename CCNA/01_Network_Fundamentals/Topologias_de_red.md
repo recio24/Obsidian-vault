@@ -43,6 +43,7 @@ Largest Column: standard
 - Funciones como VLANs, PoE...
 
 --- end-multi-column
+El **Modelo 3 Capas (Tradicional)** esta diseñado para tráfico **North-South** (Norte-Sur). El usuario (Acceso) quiere salir a Internet (Core/Edge). El tráfico sube y baja.
 ![[Pasted image 20251127185227.png]]
 ### Modelo de 2 capas (Collapsed core)
 El core (núcleo) y la distribución se combinan en un único nivel.
@@ -79,7 +80,6 @@ Utilizado en:
 
 > [!info]
 > Arquitectura moderna usada principalmente en centros de datos. Ofrece caminos de igual coste, baja latencia y gran escalabilidad.
-
 --- start-multi-column: ID_zii6
 ```column-settings
 Number of Columns: 2
