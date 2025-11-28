@@ -34,6 +34,11 @@ Largest Column: standard
 - No permite segmentación avanzada
 
 --- end-multi-column
+Un router doméstico realiza 4 funciones lógicas distintas que en una empresa estarían separadas:
+- **Router:** Enruta paquetes entre tu red e Internet (Puerto WAN).
+- **Switch:** Los 4 puertos traseros (LAN) para conectar PCs.
+- **Access Point:** La antena Wi-Fi.
+- **Firewall:** NAT y bloqueo básico de conexiones entrantes.
 ![[Pasted image 20251127185049.png]]
 ---
 ## On-Premise
@@ -91,9 +96,11 @@ Largest Column: standard
 ---
 ## ¿Dónde usar cada arquitectura?
 
-- **Centros de datos modernos** → Spine–Leaf
-- **PYMES o campus pequeños** → Modelo de 2 capas
-- **Empresas medianas/grandes** → On-Premise tradicional o híbrido
-- **Sedes pequeñas / casas** → SOHO
-- **Empresas distribuidas por muchas sedes** → Cloud Networking + SD-WAN
+| Escenario | Arquitectura Recomendada | ¿Por qué? |
+| :--- | :--- | :--- |
+| **Casa / Oficina Pequeña** | **SOHO** | Coste mínimo, gestión nula. |
+| **Edificio de Oficinas** | **3-Tier / 2-Tier** | Soporta tráfico Norte-Sur (Usuarios -> Internet). |
+| **Data Center / Servidores** | **Spine-Leaf** | Soporta tráfico Este-Oeste (Server -> Server) y virtualización. |
+| **Sedes Dispersas (Retail)** | **Cloud (Meraki) / SD-WAN** | Gestión centralizada remota sin ir al sitio. |
+
 ---
