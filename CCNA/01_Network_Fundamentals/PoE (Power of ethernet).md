@@ -18,7 +18,7 @@
 	- Ejemplo: Teléfonos IP, cámaras IP, puntos de acceso. 
 
 ---
-## Estándares PoE
+## Estándares IEEE PoE
 
 | Estándar IEEE | Nombre Común | Tipo   | Potencia PSE (Salida Switch) | Potencia PD (Llegada Disp.) | Uso Típico                  |
 | :------------ | :----------- | :----- | :--------------------------- | :-------------------------- | :-------------------------- |
@@ -29,4 +29,6 @@
 >[!warning] Ojo con la perdida
 >La potencia que llega al dispositivo (PD) siempre es menor que la que sale del switch (PSE) debido a la resistencia del cable de cobre y perdidas en calor, etc.
 
-
+---
+## Funcionamiento
+El switch no envía 
