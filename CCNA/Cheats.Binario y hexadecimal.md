@@ -63,7 +63,10 @@ El método "8421" extendido.
 | **Máscara Acumulada** | 128 | 192 | 224 | 240 | 248 | 252 | 254 | 255 |
 
 ### Hexadecimal (Para IPv6, MAC y Hacking)
-Tabla completa de los 4 bits (Nibble).
+
+| Posición (desde derecha) | 4ª (4096) | 3ª (256) | 2ª (16) | 1ª (1) | 
+| :--- | :---: | :---: | :---: | :---: | 
+| **Potencia ($16^n$)** | $16^3$ | $16^2$ | $16^1$ | $16^0$ | | **Valor Decimal** | **4096** | **256** | **16** | **1** |
 
 | Decimal |  Hex  | Binario (8421) |
 | :-----: | :---: | :------------: |
