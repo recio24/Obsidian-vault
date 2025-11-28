@@ -10,4 +10,9 @@
 - Seguridad: Utiliza voltajes bajos y mecanismos de protección para suministrar la energía necesaria para cada dispositivo.
 
 **Dispositivos que lo conforman**
-- **PSE (Power Sourcing Equipment**
+- **PSE (Power Sourcing Equipment** 
+	- Es el equipo que suministra energía.
+	- Ejemplos: Switch, Inyector de energía...
+- **PD (Powered Device)**
+	- Es el equipo que recibe la energía.
+	- Ejemplo: Teléfonos IP, cámaras IP, puntos de acceso. 
