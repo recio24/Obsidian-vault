@@ -6,7 +6,9 @@ $X_L (25Hz) = \omega \cdot L = 2\pi \cdot 25 \cdot 3,18 = 499,51\ohm$
 
 ---
 **Ejercicio.2** Un condensador esta conectado a una tensión sinusoidal de 100V y 50Hz y absorbe una corriente de 20A
-¿Calcula la reactancia capacitiva de este condensador?
 $20 \begin{array}{|l} 90º \\ \hline  \end{array}$
 $100 \begin{array}{|l} 0º \\ \hline  \end{array}$
-a)
+a)¿Calcula la reactancia capacitiva de este condensador?
+$X_c = \frac {100\begin{array}{|l} 0º \\ \hline  \end{array}}{20\begin{array}{|l} 90º \\ \hline  \end{array}} = 5\begin{array}{|l} -90º \\ \hline  \end{array} \ohm$
+b) ¿ Cual sera el valor se esta reactancia al duplicar la frecuencia?
+$X_c = 
