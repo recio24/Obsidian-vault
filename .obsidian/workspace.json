@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
+                "file": "CCNA/01_Network_Fundamentals/Network_conceptos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topologias_de_red"
+              "title": "Network_conceptos"
             }
           },
           {
@@ -225,9 +225,9 @@
   },
   "active": "fadaec0581b56c80",
   "lastOpenFiles": [
+    "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
     "CCNA/01_Network_Fundamentals/Network_conceptos.md",
-    "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251127185419.png",
     "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251127185227.png",
     "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251127185049.png",
