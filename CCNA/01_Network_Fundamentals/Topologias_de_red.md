@@ -150,7 +150,7 @@ Largest Column: standard
 
 --- end-multi-column
 El **Spine-Leaf (Data Center)** esta Diseñado para tráfico **East-West** (Este-Oeste). Los servidores (virtualización/contenedores) hablan mucho entre ellos. El tráfico se mueve lateralmente.
-[![Arquitectura Leaf Spine vs Arquitectura Tradicional | Blogs La Salle |  Campus Barcelona](https://blogs.salleurl.edu/sites/default/files/content/paragraphs/imatge-gran-peu/image/38096/136226/articulo3foto2.jpg)
+![[server spine-leaf.png]]
 ## **Resumen final**
 
 > [!info]

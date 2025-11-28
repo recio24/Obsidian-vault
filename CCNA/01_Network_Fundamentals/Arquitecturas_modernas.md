@@ -6,7 +6,7 @@
 
 ![[Topologias_de_red#Arquitectura Spine-Leaf]]
 
-![[Pasted image 20251127183521.png]]
+![[server spine-leaf.png]]
 
 ---
 ## **Arquitectura SOHO (Small Office / Home Office)**
@@ -39,7 +39,7 @@ Un router doméstico realiza 4 funciones lógicas distintas que en una empresa e
 - **Switch:** Los 4 puertos traseros (LAN) para conectar PCs.
 - **Access Point:** La antena Wi-Fi.
 - **Firewall:** NAT y bloqueo básico de conexiones entrantes.
-![[Pasted image 20251127185049.png]]
+![[SOHo.png]]
 ---
 ## On-Premise
 

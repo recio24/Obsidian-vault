@@ -11,12 +11,14 @@
             "id": "df64a7386351818d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251127183521.png"
+                "file": "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251127183521"
+              "icon": "lucide-file",
+              "title": "Topologias_de_red"
             }
           }
         ]
@@ -196,23 +198,23 @@
   },
   "active": "df64a7386351818d",
   "lastOpenFiles": [
+    "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
+    "CCNA/01_Network_Fundamentals/Network_conceptos.md",
+    "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md",
+    "CCNA/01_Network_Fundamentals/Anexos/PoE.png",
+    "CCNA/01_Network_Fundamentals/Anexos/SOHo.png",
+    "CCNA/01_Network_Fundamentals/Anexos/server spine-leaf.png",
     "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "CCNA/01_Network_Fundamentals/Anexos/3 capas.png",
     "CCNA/01_Network_Fundamentals/Anexos/2 capas.png",
-    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251127185049.png",
-    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251127183521.png",
     "Pasted image 20251128143737.png",
     "CCNA/Cheats.Binario y hexadecimal.md",
-    "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md",
-    "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
-    "CCNA/01_Network_Fundamentals/Network_conceptos.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Bloques y contactos.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna",
-    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251128085154.png",
     "Linux/Shell.md",
     "Programación/0102 - Lenguajes/Markdown/Markdown.md",
     "Pasted image 20251127183542.png",
