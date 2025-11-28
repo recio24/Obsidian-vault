@@ -1,12 +1,12 @@
 # Cheat Sheet: Binario y Hexadecimal
 
 > [!tip] Uso Práctico
-> No estudiar teoría. Usar esta hoja solo para **Subnetting (IPv4)** y **IPv6/MAC Addresses**.
+> No estudiar teoría. Usar esta hoja solo para **Subnetting (IPv4)**, **IPv6** y entender cómo filtra tráfico un router.
 
-## ⚡ Números que reconocer "Al Vuelo" (Flash-Card Mental)
+## Números que reconocer "Al Vuelo" (Flash-Card Mental)
 
-### Números indispensables
-En una Máscara de Subred (Subnet Mask), **SOLO** pueden existir estos números. Si ves un 173 o un 200 en una máscara, es un error.
+### Números básicos en subredes
+En una Máscara de Subred (Subnet Mask), **SOLO** pueden existir estos números.
 
 | Valor Decimal | En Binario | CIDR (en ese octeto) | Tamaño de Bloque (Saltos) |
 | :---: | :---: | :---: | :---: |
@@ -21,50 +21,72 @@ En una Máscara de Subred (Subnet Mask), **SOLO** pueden existir estos números.
 | **255** | `11111111` | /32 | 1 IP (Host único) |
 
 > [!tip] El Truco del "Magic Number"
-> Memoriza la columna **"Tamaño de Bloque"**. Es lo que usarás para calcular rangos mentalmente.
-> *Ejemplo:* Si la máscara termina en **.224**, el tamaño de grupo es **32**. Los rangos van de 0, 32, 64, 96...
+> Memoriza la columna **"Tamaño de Bloque"**.
+> *Ejemplo:* Si la máscara es **.240**, el tamaño de bloque es **16**. Los rangos van de 0, 16, 32, 48...
 
-### 2. IPs Privadas (RFC 1918)
-Si ves una IP que empieza por estos números, **NO** puede salir a Internet directamente (necesita NAT).
+### 2. La Lógica del Router (Operación AND)
+Así es como un router sabe si una IP pertenece a una red.
+* **1 + 1 = 1** (Se mantiene el bit)
+* **1 + 0 = 0** (Se borra el bit)
+* **0 + 0 = 0** (Se borra el bit)
 
-* **10.x.x.x** (Cualquier cosa que empiece por 10).
-* **172.16.0.0 - 172.31.255.255** (Cuidado aquí, 172.32.x.x SÍ es pública).
-* **192.168.x.x** (La clásica de casa).
-
-### 3. IPs Especiales (Peligro / Diagnóstico)
-Si te encuentras esto en un `show ip interface brief`, debes saber qué pasa al instante.
-
-| Dirección / Rango | Nombre | Qué significa |
-| :--- | :--- | :--- |
-| **127.0.0.1** (Rango 127.x.x.x) | **Loopback** | "Yo mismo". Se usa para probar si tu tarjeta de red funciona. |
-| **169.254.x.x** | **APIPA** (Link-Local) | **¡ERROR!** El DHCP ha fallado y Windows se ha inventado una IP. No tendrás internet. |
-| **224.0.0.x** | **Multicast** | Tráfico de protocolos (OSPF, EIGRP). No es un usuario. |
-| **255.255.255.255** | **Broadcast** | "Gritar a todos en mi red local". |
-
-### 4. Valores Hexadecimales Clave (Cisco)
-* **0x2102:** Registro de configuración normal (el router arranca y carga la configuración).
-* **0x2142:** Registro para **romper contraseñas** (ignora la configuración al arranque).
-
-
-## Binario (IPv4)
-Memorizar las posiciones de los bits para calcular máscaras rápido.
-
-| Bit (Posición)            |    8    |   7    |   6    |   5    |   4   |   3   |   2   |   1   |
-| :------------------------ | :-----: | :----: | :----: | :----: | :---: | :---: | :---: | :---: |
-| **Valor Decimal ($2^n$)** | **128** | **64** | **32** | **16** | **8** | **4** | **2** | **1** |
-| **Máscara Acumulada**     |   128   |  192   |  224   |  240   |  248  |  252  |  254  |  255  |
-| **CIDR (en el octeto)**   |   /25   |  /26   |  /27   |  /28   |  /29  |  /30  |  /31  |  /32  |
+> **Regla de oro:** La máscara actúa como un colador. Donde hay un **1**, la IP pasa. Donde hay un **0**, la IP se convierte en 0 (Red).
 
 ---
 
-## Hexadecimal (Para IPv6 y MAC)
-Vital para leer direcciones MAC y encabezados en Wireshark.
+## Tablas de Referencia Rápida
 
-| Decimal | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | **10** | **11** | **12** | **13** | **14** | **15** |
-| :--- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Hex** | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | **A** | **B** | **C** | **D** | **E** | **F** |
-| **Binario**| 0000 | ... | ... | ... | ... | ... | ... | ... | 1000 | ... | 1010 | 1011 | 1100 | 1101 | 1110 | 1111 |
+### IPs Especiales (Peligro / Diagnóstico)
 
+| Dirección / Rango | Nombre | Qué significa |
+| :--- | :--- | :--- |
+| **127.0.0.1** | **Loopback** | "Yo mismo". Para probar la tarjeta de red. |
+| **169.254.x.x** | **APIPA** | **¡ERROR!** Sin DHCP. Windows se autoconfigura. No hay internet. |
+| **10.x.x.x** | **Privada A** | Redes grandes (Enterprise). |
+| **172.16.x - 172.31.x**| **Privada B** | Redes medianas (AWS/Azure usan mucho esto). |
+| **192.168.x.x** | **Privada C** | Redes domésticas (SOHO). |
+| **224.0.0.x** | **Multicast** | Tráfico de protocolos (OSPF, EIGRP). |
+
+### Valores Hexadecimales Clave (Cisco)
+* **0x2102:** Registro normal (arranque estándar).
+* **0x2142:** Registro de recuperación (ignora la startup-config para resetear pass).
+
+---
+
+## Tablas de Conversión (Completas)
+
+### Binario (Posiciones para IPv4)
+El método "8421" extendido.
+
+| Bit (Posición) | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Valor Decimal** | **128** | **64** | **32** | **16** | **8** | **4** | **2** | **1** |
+| **Máscara Acumulada** | 128 | 192 | 224 | 240 | 248 | 252 | 254 | 255 |
+
+### Hexadecimal (Para IPv6, MAC y Hacking)
+Tabla completa de los 4 bits (Nibble).
+
+| Decimal | Hex | Binario (8421) |
+| :---: | :---: | :---: |
+| 0 | **0** | 0000 |
+| 1 | **1** | 0001 |
+| 2 | **2** | 0010 |
+| 3 | **3** | 0011 |
+| 4 | **4** | 0100 |
+| 5 | **5** | 0101 |
+| 6 | **6** | 0110 |
+| 7 | **7** | 0111 |
+| 8 | **8** | 1000 |
+| 9 | **9** | 1001 |
+| 10 | **A** | 1010 |
+| 11 | **B** | 1011 |
+| 12 | **C** | 1100 |
+| 13 | **D** | 1101 |
+| 14 | **E** | 1110 |
+| 15 | **F** | 1111 |
+
+> [!example] Ejemplo de lectura MAC
+> `00:0C:29...` -> `0` (0000) `C` (1100).
 
 ---
 **Tags:**
