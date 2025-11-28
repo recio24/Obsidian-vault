@@ -111,3 +111,4 @@ El modelo jerárquico LAN permite crear redes más rápidas, estables y fáciles
 Según la escala, se aplica 2 capas, 3 capas o topologías modernas como spine–leaf.
 
 ---
+**Tags:** #CCNA/Fundamentos #Diseño/LAN #Arquitectura/Tier-3 #Arquitectura/Spine-Leaf

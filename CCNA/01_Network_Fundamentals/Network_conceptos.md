@@ -11,3 +11,6 @@
 - DNA center: Digital Network Architecture punto de gestión centralizado para todos los dispositivos que conforma una red. Proporciona una plataforma para automatizar y analizar tu red basada en la intención. Tiene la capacidad de gestionar gran cantidad de switches desde un único punto. Ademas, puedes actualizar todos los dispositivos de la red desde un único punto. DNA Center es el "cerebro" en una red definida por software (SDN) para entornos empresariales (Campus). No solo configura, sino que _vigila_ la salud de la red usando IA/Machine Learning.
 
 - ACL: Acces Control List. Lista de reglas que permiten o bloquean trafico en un router o switch segun varios criterios (IPs, Protocolo, Puerto...). Funciona como un colador. Mira el paquete, mira la lista, y decide. **Implicit Deny (Denegación Implícita):** Al final de todas las listas ACL hay una regla invisible que dice "Denegar todo lo demás". Si no permites algo explícitamente, la ACL lo mata al final. ^4dadad
+
+---
+**Tags:** #CCNA/Fundamentos #Terminología #Introducción 
