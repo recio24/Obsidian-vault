@@ -20,3 +20,13 @@
 ---
 ## Estándares PoE
 
+| Estándar IEEE | Nombre Común | Tipo   | Potencia PSE (Salida Switch) | Potencia PD (Llegada Disp.) | Uso Típico                  |
+| :------------ | :----------- | :----- | :--------------------------- | :-------------------------- | :-------------------------- |
+| **802.3af**   | PoE          | Tipo 1 | **15.4 W**                   | ~12.95 W                    | Teléfonos IP, Cámaras fijas |
+| **802.3at**   | PoE+         | Tipo 2 | **30 W**                     | ~25.5 W                     | APs WiFi 6, Cámaras PTZ     |
+| **802.3bt**   | UPoE / 4PPoE | Tipo 3 | **60 W**                     | ~51 W                       | Iluminación, Portátiles     |
+| **802.3bt**   | 4PPoE        | Tipo 4 | **90 W**                     | ~71 W                       | Pantallas grandes           |
+>[!warning] Ojo con la perdida
+>La potencia que llega al dispositivo (PD) siempre es menor que la que sale del switch (PSE) debido a la resistencia del cable de cobre y perdidas en calor, etc.
+
+
