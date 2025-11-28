@@ -5413,24 +5413,24 @@
         "newlineCount": 0
       }
     },
-    "CCNA/01_Network_Fundamentals/Binario y hexadecimal.md": {
+    "CCNA/Cheats.Binario y hexadecimal.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 178,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.5933333333333334,
+      "characterCount": 1483,
+      "nonWhitespaceCharacterCount": 1130,
+      "newlineCount": 34,
+      "readingTimeInMinutes": 0.6716981132075471,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1764319099998,
-      "modifiedDate": 1764319099998,
-      "sizeInBytes": 0,
+      "modifiedDate": 1764319112332,
+      "sizeInBytes": 1492,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
