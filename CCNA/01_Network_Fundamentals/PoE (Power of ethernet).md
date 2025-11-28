@@ -16,3 +16,6 @@
 - **PD (Powered Device)**
 	- Es el equipo que recibe la energía.
 	- Ejemplo: Teléfonos IP, cámaras IP, puntos de acceso. 
+
+---
+## Estandares PoE
