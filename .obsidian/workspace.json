@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb4ae8f74bf6b760",
+        "id": "22bbeb03f29add70",
         "type": "tabs",
         "children": [
           {
-            "id": "df64a7386351818d",
+            "id": "20db7369b8e90384",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Topologias_de_red"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -191,20 +187,20 @@
       "bases:Crear nueva base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "df64a7386351818d",
+  "active": "20db7369b8e90384",
   "lastOpenFiles": [
+    "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
     "CCNA/01_Network_Fundamentals/Network_conceptos.md",
     "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md",
     "CCNA/01_Network_Fundamentals/Anexos/PoE.png",
     "CCNA/01_Network_Fundamentals/Anexos/SOHo.png",
     "CCNA/01_Network_Fundamentals/Anexos/server spine-leaf.png",
-    "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "CCNA/01_Network_Fundamentals/Anexos/3 capas.png",
     "CCNA/01_Network_Fundamentals/Anexos/2 capas.png",
     "Pasted image 20251128143737.png",
