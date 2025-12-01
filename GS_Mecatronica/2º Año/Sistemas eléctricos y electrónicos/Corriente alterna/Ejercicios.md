@@ -20,6 +20,6 @@ $C = 3\micro F = 3\cdot 10^{-6}F$
 $V= 63V$
 $W= 2\cdot n \cdot f = 2 n100$
 a) La reactancia capacitiva de este condensador
-$\huge Xc=\frac{1}{j\cdot w \cdot C} = \frac{1}{j \cdot (2\pi 100)\\cdot 3\cdot 10^{-6}}=530,51\ohm$
+$\huge Xc=\frac{1}{j\cdot w \cdot C} = \frac{1}{j \cdot (2\pi 100)\\cdot 3\cdot 10^{-6}}=530,51\ohm -90º$
 b) La corriente que absorbe la línea
-$\huge Ic = \frac{Vc}{Xc}=
+$\huge Ic = \frac{Vc}{Xc}= \frac{63 0º}{530,51 -90º}= 0,119A_{RMS} 90º$
