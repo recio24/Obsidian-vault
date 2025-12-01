@@ -28,4 +28,5 @@ $\huge Ic = \frac{Vc}{Xc}= \frac{63 0º}{530,51 -90º}= 0,119A_{RMS} 90º$
 **Ejercicio. 4** Una bobina de 2H sin resistencia está conectada a una linea de 100V 50Hz.
 $L = 2H (Henrio)$
 $V = 110 V_{RMS} (50Hz)$
-$X_L = j\cdot \omega \cdot L = (2\pi 50)\cdot 2 90º= 628,31 90º 
+$X_L = j\cdot \omega \cdot L = (2\pi 50)\cdot 2 90º= 628,31 /90º$
+$I_L = \frac{V_L}{X_L}=\frac{110/0º}{628,31/90º}= 0,17A/90º$
