@@ -2,4 +2,5 @@
 ---
 >[!info] Que es una interfaz
 >Es un conector que proporciona energía o señal a un dispositivo.
->**Ejemplos cotidianos:** 
+>**Ejemplos cotidianos:** HDMI (Video), Jack (Audio).
+>**En Networking:** Nos centramos en interfaces de **datos**, aunque algun
