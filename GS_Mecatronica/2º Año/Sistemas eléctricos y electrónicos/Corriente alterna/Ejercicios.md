@@ -44,4 +44,8 @@ $Z_T = R + Xc = 10000 + (-17687j)=20318,22\begin{array}{|l} -60,52º \\ \hline  
 a) Corriente de la fuente de tensión
 $I_Z= \frac{100}{20318,22\begin{array}{|l} -60,52º \\ \hline  \end{array}} = 4,92\begin{array}{|l} +60,52º \\ \hline  \end{array} mA_{RMS}$
 ---
-**Ejercicio. 8** Una resistencia de $10\ohm$, un condensador d
+**Ejercicio. 8** Una resistencia de $10\ohm$, un condensador de $100\micro F$ y un inductor de 200mH estan conectados en serie a una linea de 220V a 50Hz.
+$R= 10\ohm$
+$C = 100\micro F$
+$L = 200mH$
+$Xc= \frac
