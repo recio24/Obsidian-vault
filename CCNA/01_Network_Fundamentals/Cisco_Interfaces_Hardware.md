@@ -11,4 +11,5 @@ Las interfaces variarán en tamaño y forma según:
 3. **Medio de transmisión**: Luz (Fibra), Electricidad (Cobre), RF (Wireless).
 ## Ubicación
 Los puertos en cisco los podemos encontrar:
-- **Integrados**:
+- **Integrados**: En el chasis, no son extraibles.
+- **Modulares**: Tarjetas que se p
