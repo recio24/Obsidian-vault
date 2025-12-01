@@ -34,4 +34,6 @@ $I_L = \frac{V_L}{X_L}=\frac{110/0º}{628,31/90º}= 0,17A/90º$
 ---
 **Ejercicio. 6** Una resistencia de 50$\ohm$ y una bobina de 250$mH$ están conectadas en serie a una línea de 220V 50Hz. Calcula:
 a) Calcula la impedancia de todo el sistema:
-$Z_T = R + X_L = 50 + 78,54j
+$Z_T = R + X_L = 50 + 78,54j= 93,1/57,51º$
+b) La corriente que circula por la resistencia
+$
