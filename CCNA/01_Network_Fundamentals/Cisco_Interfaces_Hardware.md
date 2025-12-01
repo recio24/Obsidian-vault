@@ -38,6 +38,7 @@ Podemos identificar una interfaz por su tamaño, forma, conectores y el número 
 		- ![[Pasted image 20251201112140.png]]
 
 ### Interfaces de stacking (Apilamiento)
-Sirven para unir 
-
+Sirven para unir varios switches y administrarlos como un único equipo lógico. 
+- **StackWise Catalyst3750**: Conecta ek plan o posterior entre sí.
+- **FlexStack Catalysr 2960**
 
