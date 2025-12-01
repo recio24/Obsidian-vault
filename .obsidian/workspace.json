@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "22bbeb03f29add70",
+        "id": "7361a2aa874a141d",
         "type": "tabs",
         "children": [
           {
-            "id": "da9e6b09a3e068ad",
+            "id": "d32565411aa2ae20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cisco_Interfaces_Hardware"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -197,11 +193,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "da9e6b09a3e068ad",
+  "active": "d32565411aa2ae20",
   "lastOpenFiles": [
+    "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
     "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md",
-    "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
     "CCNA/01_Network_Fundamentals/Network_conceptos.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110846.png",
