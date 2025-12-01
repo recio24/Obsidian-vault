@@ -15,4 +15,4 @@ $X_c 50Hz= \frac{1}{jwc}\rightarrow C= \frac{1}{j\cdot \omega \cdot X_c}=\frac{1
 $Xc= \frac{1}{2\pi \cdot 100 \cdot 636,61\micro F}= 2,5\ohm$
 
 ---
-**Ejercicio.3** 
+**Ejercicio.3** Un condensador de 3$\micro F$ esta conectado a una tensión alterna de 63V 100Hz.
