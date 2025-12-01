@@ -14,3 +14,6 @@ Los puertos en cisco los podemos encontrar:
 - **Integrados**: En el chasis, no son extraíbles.
 - **Modulares**: Tarjetas que se pueden inesrtar/cambiar.
 	- **NMs**: Network modules.
+	 ![[Pasted image 20251201110441.png]]
+- **HWICs**: Wan Interface Cards (High speed).
+  
