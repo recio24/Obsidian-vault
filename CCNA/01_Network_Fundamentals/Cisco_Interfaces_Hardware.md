@@ -54,4 +54,6 @@ Fuente de alimentación redundante.
 - **Ethernet (Shared)**: A veces muchos dispositivos usan el mismo medio. Solo puede hablar uno a la vez. Si uno habla más, el reparto del ancho de banda no es justo. 
 - **TDM (Time-Division Multiplexing):** Divide cada segundo de manera dedicada a cada usuario. 
 	Ventaja: Cada usuario solo puede hablar en su sección dedicada. Soluciona el problema del reparto injusto.
-	
+### Conectores seriales
+- **DB-60**: Conector grande *5 en 1* ya que el puerto del router soporta 5 estándares diferentes de cableado dependiendo de que cable conectes.
+- **Conector de 68 pines**: Factor de forma de alta densidad 
