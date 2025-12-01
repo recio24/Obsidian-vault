@@ -51,3 +51,7 @@ Fuente de alimentación redundante.
 > [!fail] El problema de Ethernet en WAN > Ethernet tiene una distancia máxima de **100 metros**. Para conectar redes lejanas, se inventaron las interfaces seriales.
 
 ### Ethernet vs TDM
+- **Ethernet (Shared)**: A veces muchos dispositivos usan el mismo medio. Solo puede hablar uno a la vez. Si uno habla más, el reparto del ancho de banda no es justo. 
+- **TDM (Time-Division Multiplexing):** Divide cada segundo de manera dedicada a cada usuario. 
+	Ventaja: Cada usuario solo puede hablar en su sección dedicada. Soluciona el problema del reparto injusto.
+	
