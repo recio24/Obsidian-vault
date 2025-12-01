@@ -40,4 +40,4 @@ $I_Z = \frac{V_z}{Z_T}= \frac{220}{93,1/57,51º}= 2,36A_{RMS}/-57,31º$
 ---
 **Ejercicio. 7** Una resistencia de $10k\ohm$ y un condensador de $150nF$ están conectados en serie a una línea de CA de 100V 60Hz.
 $X_c = \frac{1}{j\omega C}= \frac{1}{j(2\pi 60)150\cdot 10^{-9}}= 17,687j$
-$Z_T = R + Xc = 10000 + (-17687j)=20318,22$
+$Z_T = R + Xc = 10000 + (-17687j)=20318,22\begin{array}{|l} -60,52º \\ \hline  \end{array}$
