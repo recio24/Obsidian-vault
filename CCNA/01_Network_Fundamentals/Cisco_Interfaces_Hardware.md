@@ -40,5 +40,14 @@ Podemos identificar una interfaz por su tamaño, forma, conectores y el número 
 ### Interfaces de stacking (Apilamiento)
 Sirven para unir varios switches y administrarlos como un único equipo lógico. 
 - **StackWise Catalyst3750**: Conecta ek plan o posterior entre sí.
-- **FlexStack Catalysr 2960**
+- **FlexStack Catalysr 2960**: Usa un módulo de pila flexible en la parte traera.
 
+### RPS
+Fuente de alimentación redundante.
+
+---
+
+## Interfaces seriales (WAN)
+> [!fail] El problema de Ethernet en WAN > Ethernet tiene una distancia máxima de **100 metros**. Para conectar redes lejanas, se inventaron las interfaces seriales.
+
+### Ethernet vs TDM
