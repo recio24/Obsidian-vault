@@ -2,7 +2,7 @@
 ---
 - LAN: Local Area Network (red local/personal en la que tienen control total). Tienes ancho de banda alto y barato. Tú eres el dueño de los cables. ^a80a01
 
-- WAN: Wide Area Network. El ancho de banda es más costoso y limitado. **Importante:** Usas la infraestructura de un **ISP (Proveedor de Servicios)**. No eres dueño del cable que cruza la ciudad.
+- WAN: Wide Area Network. El ancho de banda es más costoso y limitado. **Importante:** Usas la infraestructura de un **ISP (Proveedor de Servicios)**. No eres dueño del cable que cruza la ciudad. Históricamente, las conexiones WAN utilizaban **[[Cisco_Interfaces_Hardware#Interfaces Seriales (WAN)|Interfaces Seriales]]** con tecnología TDM, aunque hoy día se tiende a usar Ethernet (Fibra/MetroE).
 
 - Node: Cualquier "caja" en la red. Un Switch, un Router, un AP.
 
