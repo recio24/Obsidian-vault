@@ -38,4 +38,5 @@ $Z_T = R + X_L = 50 + 78,54j= 93,1/57,51º$
 b) La corriente que circula por la resistencia
 $I_Z = \frac{V_z}{Z_T}= \frac{220}{93,1/57,51º}= 2,36A_{RMS}/-57,31º$
 ---
-**Ejercicio. 7** Una resistencia de $10k\ohm$ y un condensador de 
+**Ejercicio. 7** Una resistencia de $10k\ohm$ y un condensador de $150nF$ están conectados en serie a una línea de CA de 100V 60Hz.
+$X_c = \frac{1}{j\omega C}= \frac{1}{j(2)}
