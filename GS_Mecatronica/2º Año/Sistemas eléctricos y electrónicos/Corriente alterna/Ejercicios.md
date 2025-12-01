@@ -48,4 +48,6 @@ $I_Z= \frac{100}{20318,22\begin{array}{|l} -60,52º \\ \hline  \end{array}} = 4,
 $R= 10\ohm$
 $C = 100\micro F$
 $L = 200mH$
-$Xc= \frac
+$Xc= \frac{1}{j\cdot (2\pi 50)\cdot 100\cdot 10^{-6}}= 31,83j\ohm$
+$X_L = j\omega \cdot L = j (2\pi 50)\cdot 200 \cdot 10^{-3}= 62,83j\ohm$
+$Z_T
