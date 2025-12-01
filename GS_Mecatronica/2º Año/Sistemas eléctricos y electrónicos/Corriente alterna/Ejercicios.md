@@ -37,3 +37,5 @@ a) Calcula la impedancia de todo el sistema:
 $Z_T = R + X_L = 50 + 78,54j= 93,1/57,51º$
 b) La corriente que circula por la resistencia
 $I_Z = \frac{V_z}{Z_T}= \frac{220}{93,1/57,51º}= 2,36A_{RMS}/-57,31º$
+---
+**Ejercicio. 7** Una resistencia de $10k\ohm$ y un condensador de 
