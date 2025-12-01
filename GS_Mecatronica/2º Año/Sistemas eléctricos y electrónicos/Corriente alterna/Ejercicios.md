@@ -18,4 +18,6 @@ $Xc= \frac{1}{2\pi \cdot 100 \cdot 636,61\micro F}= 2,5\ohm$
 **Ejercicio.3** Un condensador de 3$\micro F$ esta conectado a una tensión alterna de 63V 100Hz.
 $C = 3\micro F = 3\cdot 10^{-6}F$
 $V= 63V$
-$W= 2\cdot n \cdot f
+$W= 2\cdot n \cdot f = 2 n100$
+a) La reactancia capacitiva de este condensador
+$Xc=\frac{1}{j\cdot w \cdot C = \frac{1}{j \cdot (2\pi 100)}
