@@ -35,5 +35,9 @@ Podemos identificar una interfaz por su tamaño, forma, conectores y el número 
 	- **GBIC** Gigabit Interface Converter: Interfaz Gigabit, creada inicialmente para fibra. Es grande.
 		- ![[Pasted image 20251201111852.png]]
 	- **SFP** Small Form-Factor Pluggable: Interfaz convertidor de Gigabit. Es más pequeño que el GBIC.
+		- ![[Pasted image 20251201112140.png]]
+
+### Interfaces de stacking (Apilamiento)
+
 
 
