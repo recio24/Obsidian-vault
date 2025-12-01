@@ -30,3 +30,5 @@ $L = 2H (Henrio)$
 $V = 110 V_{RMS} (50Hz)$
 $X_L = j\cdot \omega \cdot L = (2\pi 50)\cdot 2 90º= 628,31 /90º$
 $I_L = \frac{V_L}{X_L}=\frac{110/0º}{628,31/90º}= 0,17A/90º$
+
+---
