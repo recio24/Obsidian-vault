@@ -25,4 +25,6 @@ b) La corriente que absorbe la línea
 $\huge Ic = \frac{Vc}{Xc}= \frac{63 0º}{530,51 -90º}= 0,119A_{RMS} 90º$
 
 ---
-Ejercici
+**Ejercicio. 4** Una bobina de 2H sin resistencia está conectada a una linea de 100V 50Hz.
+$L = 2H (Henrio)$
+$V = 110 V_{RMS} (50Hz)$
