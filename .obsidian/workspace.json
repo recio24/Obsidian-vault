@@ -34,9 +34,47 @@
               "icon": "lucide-file",
               "title": "Cisco_Interfaces_Hardware"
             }
+          },
+          {
+            "id": "16be342811591b91",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110817.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251201110817"
+            }
+          },
+          {
+            "id": "902e51b85c25cbc6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110846.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251201110846"
+            }
+          },
+          {
+            "id": "da9e6b09a3e068ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cisco_Interfaces_Hardware"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,25 +250,24 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "69a87971fb75fa6c",
+  "active": "da9e6b09a3e068ad",
   "lastOpenFiles": [
-    "Pasted image 20251201110846.png",
-    "Pasted image 20251201110817.png",
-    "Pasted image 20251201110734.png",
-    "Pasted image 20251201110638.png",
-    "Pasted image 20251201110441.png",
-    "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md",
     "CCNA/01_Network_Fundamentals/Network_conceptos.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201111350.png",
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110846.png",
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110817.png",
     "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110734.png",
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110638.png",
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110441.png",
+    "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
     "CCNA/01_Network_Fundamentals/Anexos/PoE.png",
     "CCNA/01_Network_Fundamentals/Anexos/SOHo.png",
     "CCNA/01_Network_Fundamentals/Anexos/server spine-leaf.png",
     "CCNA/01_Network_Fundamentals/Anexos/3 capas.png",
-    "CCNA/01_Network_Fundamentals/Anexos/2 capas.png",
-    "Pasted image 20251128143737.png",
     "CCNA/Cheats.Binario y hexadecimal.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Bloques y contactos.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",

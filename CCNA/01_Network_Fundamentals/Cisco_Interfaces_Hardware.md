@@ -28,5 +28,7 @@ Podemos identificar una interfaz por su tamaño, forma, conectores y el número 
 
 ---
 ## Interfaces comunes
-### Interfaces ethernet 
+### Interfaces ethernet (LAN)
+**RJ45** 
+![[Pasted image 20251201111350.png]]
 

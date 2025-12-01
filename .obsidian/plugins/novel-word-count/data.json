@@ -5471,20 +5471,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 157,
+      "wordCount": 166,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 1242,
-      "nonWhitespaceCharacterCount": 1063,
-      "newlineCount": 31,
-      "readingTimeInMinutes": 0.5924528301886792,
+      "pageCount": 0.5533333333333333,
+      "characterCount": 1341,
+      "nonWhitespaceCharacterCount": 1150,
+      "newlineCount": 35,
+      "readingTimeInMinutes": 0.6264150943396226,
       "linkCount": 0,
-      "embedCount": 4,
+      "embedCount": 5,
       "aliases": null,
       "createdDate": 1764578590115,
-      "modifiedDate": 1764583890928,
-      "sizeInBytes": 1259,
+      "modifiedDate": 1764584032693,
+      "sizeInBytes": 1358,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5494,7 +5494,7 @@
         "newlineCount": 0
       }
     },
-    "Pasted image 20251201110441.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110441.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5521,7 +5521,7 @@
         "newlineCount": 0
       }
     },
-    "Pasted image 20251201110638.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110638.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5548,7 +5548,7 @@
         "newlineCount": 0
       }
     },
-    "Pasted image 20251201110734.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110734.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5575,7 +5575,7 @@
         "newlineCount": 0
       }
     },
-    "Pasted image 20251201110817.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110817.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5602,7 +5602,7 @@
         "newlineCount": 0
       }
     },
-    "Pasted image 20251201110846.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110846.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5620,6 +5620,33 @@
       "createdDate": 1764583726912,
       "modifiedDate": 1764583726912,
       "sizeInBytes": 205021,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201111350.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764584030677,
+      "modifiedDate": 1764584030679,
+      "sizeInBytes": 142087,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
