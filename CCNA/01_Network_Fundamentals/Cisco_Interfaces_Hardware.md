@@ -56,4 +56,20 @@ Fuente de alimentación redundante.
 	Ventaja: Cada usuario solo puede hablar en su sección dedicada. Soluciona el problema del reparto injusto.
 ### Conectores seriales
 - **DB-60**: Conector grande *5 en 1* ya que el puerto del router soporta 5 estándares diferentes de cableado dependiendo de que cable conectes.
-- **Conector de 68 pines**: Factor de forma de alta densidad 
+- **Conector de 68 pines**: Factor de forma de alta densidad.
+- **Cisco Smart Serial**: La evolución moderna de 26 pines, exclusiva de cisco.
+--- 
+## Interfaces de Voz (Comunicación Analógica) 
+Permiten comunicaciones de voz utilizando el conector RJ11 (telefónico). 
+
+| Interfaz | Nombre | Función / Conexión | 
+| :--- | :--- | :--- | 
+| **FXS** | Foreign Exchange Subscriber | Para conectar teléfonos analógicos (da tono). | 
+| **FXO** | Foreign Exchange Office | Para conectarse a la red de telefonía conmutada (PSTN). | 
+
+---
+### Interfaces Legacy (Antiguas)
+* **Cisco 7300:** Tarjeta de línea T3 de 6 puertos. 
+* **ATM:** Adaptador de 1 puerto DS3 (`PA-A3-T3`).
+---
+**Tags:** #CCNA/Fundamentos #Hardware/Interfaces #WAN/Serial #Estado/Terminado
