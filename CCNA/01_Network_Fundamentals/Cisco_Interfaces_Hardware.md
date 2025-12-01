@@ -8,4 +8,4 @@
 Las interfaces variarán en tamaño y forma según:
 1. **LAN vs WAN**: En LAN los conectores suelen ser más pequeños al conexiones más cortas.
 2. **Pines**: Distinta cantidad según necesidad.
-3. **Medio de transmisión**: Luz (Fibra), Electricidad (Cobre), RF()
+3. **Medio de transmisión**: Luz (Fibra), Electricidad (Cobre), RF (Wireless).
