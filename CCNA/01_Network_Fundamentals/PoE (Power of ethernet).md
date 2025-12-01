@@ -13,7 +13,7 @@
 **Dispositivos que lo conforman**
 - **PSE (Power Sourcing Equipment** 
 	- Es el equipo que suministra energía.
-	- Ejemplos: Switch, Inyector de energía...
+	- Ejemplos: Inyector de energía, Switch PoE (suministra energía por sus puertos **[[Cisco_Interfaces_Hardware#Interfaces LAN (Ethernet)|RJ45 de cobre]]**, nunca por fibra)...
 - **PD (Powered Device)**
 	- Es el equipo que recibe la energía.
 	- Ejemplo: Teléfonos IP, cámaras IP, puntos de acceso. 

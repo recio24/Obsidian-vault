@@ -42,6 +42,7 @@ Largest Column: standard
 - Switches de acceso y APs
 - Funciones como VLANs, PoE...
 - Es en esta capa donde se suministra energía a los dispositivos finales (Teléfonos, APs) mediante **[[Power_over_Ethernet_PoE|PoE]]**.
+- En esta capa es común usar tecnologías de apilamiento como **[[Cisco_Interfaces_Hardware#Interfaces de Stacking (Apilamiento)|StackWise]]** para gestionar varios switches como uno solo.
 
 
 --- end-multi-column
