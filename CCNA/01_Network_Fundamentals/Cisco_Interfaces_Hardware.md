@@ -29,6 +29,8 @@ Podemos identificar una interfaz por su tamaño, forma, conectores y el número 
 ---
 ## Interfaces comunes
 ### Interfaces ethernet (LAN)
-**RJ45** 
+**RJ45**: Típico para interfaces ethernet de cobre.
 ![[Pasted image 20251201111350.png]]
+**Transceptores**:
+- 
 
