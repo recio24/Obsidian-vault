@@ -16,4 +16,8 @@ Los puertos en cisco los podemos encontrar:
 	- **NMs**: Network modules.
 	 ![[Pasted image 20251201110441.png]]
 - **HWICs**: Wan Interface Cards (High speed).
-  
+  ![[Pasted image 20251201110638.png]]
+- **PAs**: Adaptadores de puerto
+ ![[Pasted image 20251201110734.png]]
+ - **VWICs**: Voice/WAN Interface Cards.
+	
