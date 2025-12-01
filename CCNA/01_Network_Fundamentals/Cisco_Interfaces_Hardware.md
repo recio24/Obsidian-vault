@@ -20,4 +20,7 @@ Los puertos en cisco los podemos encontrar:
 - **PAs**: Adaptadores de puerto
  ![[Pasted image 20251201110734.png]]
  - **VWICs**: Voice/WAN Interface Cards.
+	![[Pasted image 20251201110846.png]]
+>[!info] Identificación visual
+Podemos identificar una interfaz por su tamaño, forma, conectores y el número de Part.
 	
