@@ -38,6 +38,6 @@ Podemos identificar una interfaz por su tamaño, forma, conectores y el número 
 		- ![[Pasted image 20251201112140.png]]
 
 ### Interfaces de stacking (Apilamiento)
-
+Sirven para unir 
 
 
