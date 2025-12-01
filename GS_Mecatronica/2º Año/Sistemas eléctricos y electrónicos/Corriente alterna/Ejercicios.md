@@ -50,4 +50,4 @@ $C = 100\micro F$
 $L = 200mH$
 $Xc= \frac{1}{j\cdot (2\pi 50)\cdot 100\cdot 10^{-6}}= 31,83j\ohm$
 $X_L = j\omega \cdot L = j (2\pi 50)\cdot 200 \cdot 10^{-3}= 62,83j\ohm$
-$Z_T
+$Z_T = 10 -31,63j + 62,83j= 33,67\begin{array}{|l} 72,72º \\ \hline  \end{array}\ohm$
