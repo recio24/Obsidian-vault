@@ -158,3 +158,5 @@ Según la escala, se aplica 2 capas, 3 capas o topologías modernas como spine�
 
 ---
 **Tags:** #CCNA/Fundamentos #Diseño/LAN #Arquitectura/Tier-3 #Arquitectura/Spine-Leaf
+
+
