@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.50312423706055
+    "width": 467.50312423706055,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -229,6 +230,8 @@
   },
   "active": "bf7eda745e2d91ef",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.svg",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.eddx",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Practica_Grafcet_maqueta.pdf",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
@@ -262,7 +265,6 @@
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/carpeta sin título",
     "GS_Mecatronica/2º Año/Integración de sistemas/carpeta sin título",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Sin nombre",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios sensores.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/Libro. 1-2.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
