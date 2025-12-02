@@ -11,10 +11,14 @@
             "id": "51faef06b52a7534",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Ejercicios"
             }
           }
         ]
@@ -194,11 +198,11 @@
   },
   "active": "51faef06b52a7534",
   "lastOpenFiles": [
-    "Pasted image 20251201112140.png",
-    "Reparaciones_de_Motores__1748357417.pdf",
-    "Pasted image 20251201111859.png",
-    "Pasted image 20251201111852.png",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201111852.png",
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201112140.png",
+    "Reparaciones_de_Motores__1748357417.pdf",
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201111859.png",
     "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
     "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md",

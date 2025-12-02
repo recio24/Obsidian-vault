@@ -36,3 +36,4 @@ Ejercicio5. Transcribe el programa que se te da a un Grafcet del mismo.
 - El ciclo se acabará quedando el cilindro atrás.
 ![[GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 6.svg]]
 ---
+### Ejercicio 
