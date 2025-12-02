@@ -39,3 +39,5 @@ Ejercicio5. Transcribe el programa que se te da a un Grafcet del mismo.
 ### Ejercicio Maqueta soplado de arena.
 ![[Practica_Grafcet_maqueta.pdf]]
 ![[Maqueta soplador arena.svg]]
+
+---
