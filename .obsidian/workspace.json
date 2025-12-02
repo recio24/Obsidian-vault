@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.50312423706055,
-    "collapsed": true
+    "width": 467.50312423706055
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -201,8 +200,9 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "3cc59b1886fb924f",
+  "active": "a3646f9a1c35bc65",
   "lastOpenFiles": [
+    "Cats.png",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.eddx.uIjhZN",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.svg",
