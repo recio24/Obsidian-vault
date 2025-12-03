@@ -8,7 +8,7 @@
 Para reconocer un cable de redes de Cisco necesitamos:
 - **Reconocer el tipo de cable diferente** según su aplicación
 - **Los cables contienen muchos tipos y factores de forma** que se deben reconocer
-- **Comprar o reemplazar un cable de fibra**, conociendo el tipo, conector, sección...
+- **Comprar o reemplazar un cable**, conociendo el tipo, conector, sección...
 
 ---
 ## Diferencia entre cobre y fibra óptica
@@ -47,7 +47,6 @@ Los tipos principales de cables que encontraremos en redes Cisco son:
 - **Seriales**
 - **Console**
 
----
 ## Cable de Cobre (Par Trenzado)
 
 Los cables de cobre tienen varias características importantes:
@@ -62,7 +61,7 @@ Los cables de cobre tienen varias características importantes:
 >**RJ45** por ejemplo acepta cable de cobre.
 >**SFP** por ejemplo acepta fibra óptica.
 
-
+![[SFP con RJ45.png]]
 
 ### Características del cable de cobre
 
@@ -96,11 +95,7 @@ Largest Column: standard
 ---
 ## Ethernet
 
-Los cables ethernet **originales eran coaxiales**. Con el tiempo existió evolución de cable a **fibra óptica**.
-
-Los cables de ethernet son normalmente de **pares trenzados**. Un par de hilos forman un loop completo. Los pares están retorcidos entre sí para cancelar el EMI (Interferencias electromagnéticas) en el cable para 10-100 metros máximo, con dos pares de cables.
-
-Ahora, un gigabit ethernet necesita **4-8 pares de cables**.
+Los cables ethernet **originales eran coaxiales**. Con el tiempo existió evolución  ha los que copnocemos ahpora. Los cables de ethernet son normalmente de **pares trenzados**. Un par de hilos forman un loop completo. Los pares están retorcidos entre sí para cancelar el EMI (Interferencias electromagnéticas). Un gigabit ethernet necesita **4-8 pares de cables**.
 
 >[!info] Transmisión de datos
 >Cada par de cables trabaja en conjunto para transmitir y recibir datos. En un cable ethernet estándar:
