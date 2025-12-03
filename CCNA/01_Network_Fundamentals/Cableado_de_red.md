@@ -183,62 +183,34 @@ Largest Column: standard
 
 --- end-multi-column
 
+
 >[!info] Diagrama de pinout Rollover
-
->En un cable rollover, el orden de los pines se invierte completamente:
-
->
-
->**Extremo 1:** 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8
-
->**Extremo 2:** 8 - 7 - 6 - 5 - 4 - 3 - 2 - 1
-
->
-
->Es como si miraras el cable en un espejo.
-
-  
+En un cable rollover, el orden de los pines se invierte completamente:
+**Extremo 1:** 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8
+**Extremo 2:** 8 - 7 - 6 - 5 - 4 - 3 - 2 - 1
+Es como si miraras el cable en un espejo.
 
 **Uso principal:**
-
 - **Conexión de consola** en dispositivos Cisco (routers, switches, firewalls)
-
 - **Configuración inicial** de equipos
-
 - **Recuperación de contraseñas** olvidadas
-
 - **Modo ROMMON** (recuperación de desastres)
-
 - **Acceso fuera de banda** (out-of-band management)
 
-  
-
 **Conectores típicos:**
-
 - Un extremo: **RJ45** (conecta al puerto Console del router/switch)
-
 - Otro extremo: **RJ45** (a adaptador) o **DB9** directo (puerto serie del PC)
-
 - Actualmente: **RJ45 a USB** (con drivers)
 
-  
-
 >[!warning] No confundir
-
->**NO uses un cable rollover** para conectar dispositivos de red entre sí. Solo sirve para gestión/consola. Si lo conectas a puertos ethernet normales, no funcionará.
-
-  
+**NO uses un cable rollover** para conectar dispositivos de red entre sí. Solo sirve para gestión/consola. Si lo conectas a puertos ethernet normales, no funcionará.
 
 **Cómo identificarlo:**
-
 1. **Color**: Cisco los fabrica en **azul claro/celeste**
-
 2. **Etiqueta**: Suele decir "Console" o "Rollover"
-
 3. **Probador de cables**: Al testearlo, todos los LEDs estarán en posición invertida
-
 4. **Inspección visual**: Si miras los conectores RJ45 con el clip hacia abajo, los colores están al revés
-
+### Categorías ethernet
 Además, también se dividen los cables por categorías. Cuanto mayor categoría, más pares de hilos por centímetro y más protección de la vaina. Las categorías son diseños para distinguir unos de otros. A mayor categoría, mayor capacidad de velocidad en el cable.
 ![[Cats.png]]
 
