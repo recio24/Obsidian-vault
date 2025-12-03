@@ -387,16 +387,16 @@ Largest Column: standard
 ---
 ## Resumen de tipos de cable
 
-| Tipo de Cable | Medio | Distancia Máxima | Velocidad Típica | Uso Principal | Conector Común |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **UTP Cat 5e** | Cobre | 100m | 1 Gbps | LAN doméstica/[[Arquitecturas_modernas#Arquitectura SOHO (Small Office / Home Office)|SOHO]] | RJ45 |
-| **UTP Cat 6/6a** | Cobre | 100m | 1-10 Gbps | LAN empresarial | RJ45 |
-| **STP** | Cobre | 100m | 1-10 Gbps | Entornos con EMI | RJ45 |
-| **Coaxial** | Cobre | Variable | Variable | Cable TV, antiguo | BNC |
-| **Serial** | Cobre | Variable | Variable | Conexiones [[Network_conceptos#WAN|WAN]] | DB-60, Smart Serial |
-| **Console** | Cobre | Corta | N/A | Gestión de equipos | RJ45 a DB9/USB |
-| **MMF** | Fibra | ~2 km | 1-100 Gbps | Campus, edificios | LC, SC, ST |
-| **SMF** | Fibra | ~100 km | 1-100 Gbps | WAN, larga distancia | LC, SC |
+| Tipo de Cable    | Medio | Distancia Máxima | Velocidad Típica | Uso Principal                                                                         | Conector Común |
+| :--------------- | :---- | :--------------- | :--------------- | :------------------------------------------------------------------------------------ | :------------- |
+| **UTP Cat 5e**   | Cobre | 100m             | 1 Gbps           | LAN doméstica/[[Arquitecturas_modernas#Arquitectura SOHO (Small Office / Home Office) | SOHO]]         |
+| **UTP Cat 6/6a** | Cobre | 100m             | 1-10 Gbps        | LAN empresarial                                                                       | RJ45           |
+| **STP**          | Cobre | 100m             | 1-10 Gbps        | Entornos con EMI                                                                      | RJ45           |
+| **Coaxial**      | Cobre | Variable         | Variable         | Cable TV, antiguo                                                                     | BNC            |
+| **Serial**       | Cobre | Variable         | Variable         | Conexiones [[Network_conceptos#WAN                                                    | WAN]]          |
+| **Console**      | Cobre | Corta            | N/A              | Gestión de equipos                                                                    | RJ45 a DB9/USB |
+| **MMF**          | Fibra | ~2 km            | 1-100 Gbps       | Campus, edificios                                                                     | LC, SC, ST     |
+| **SMF**          | Fibra | ~100 km          | 1-100 Gbps       | WAN, larga distancia                                                                  | LC, SC         |
 
 ---
 ## Relación con Interfaces Cisco
