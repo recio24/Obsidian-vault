@@ -47,14 +47,13 @@ Los tipos principales de cables que encontraremos en redes Cisco son:
 - **Seriales**
 - **Console**
 
-## Cable de Cobre (Par Trenzado)
+### Cable de Cobre 
 
 Los cables de cobre tienen varias características importantes:
 - **Más barato** que el cable de fibra
 - **Se usa para transmitir cargas eléctricas** mediante hilos de cobre (como un carril)
 - **Múltiples hilos trenzados**: Los pares están trenzados entre sí para evitar interferencias electromagnéticas (EMI)
 - Se utiliza en redes [[Network_conceptos#^a80a01|LAN]] para distancias de hasta 100 metros
-- Un gigabit ethernet necesita **4-8 pares de cables** (8 hilos = 4 pares)
 
 >[!tip] Vista del receptor
 >Viendo el receptáculo o puerto al que debe ir el cable, NO dará una pista sobre qué tipo de cable debe usarse. 
@@ -62,8 +61,6 @@ Los cables de cobre tienen varias características importantes:
 >**SFP** por ejemplo acepta fibra óptica.
 
 ![[SFP con RJ45.png]]
-
-### Características del cable de cobre
 
 --- start-multi-column: ID_caracteristicas_cobre
 ```column-settings
@@ -138,17 +135,9 @@ Largest Column: standard
 >[!tip] MDI-X (Auto-detect)
 >Existen dispositivos con interfaces automáticas **MDI-X**, esto detecta el tipo de cable y lo tiene en cuenta automáticamente. Por ejemplo, dos switches modernos conectados con cable directo funcionarán sin problemas.
 
----
-## Categorías de cables
 
 Además, también se dividen los cables por categorías. Cuanto mayor categoría, más pares de hilos por centímetro y más protección de la vaina. Las categorías son diseños para distinguir unos de otros. A mayor categoría, mayor capacidad de velocidad en el cable.
-
-| Categoría | Velocidad Máxima | Frecuencia | Distancia para 10G | Uso Típico |
-| :--- | :--- | :--- | :--- | :--- |
-| **Cat 5** | 100 Mbps | 100 MHz | N/A | Obsoleto |
-| **Cat 5e** | 1 Gbps | 100 MHz | N/A | Redes domésticas/[[Arquitecturas_modernas#Arquitectura SOHO (Small Office / Home Office)|SOHO]] |
-| **Cat 6** | 1 Gbps | 250 MHz | 55m | Empresas estándar |
-| **Cat 6a** | 10 Gbps | 500 MHz | 100m | Data centers, backbone |
+![[Cats.png]]
 
 >[!warning] Ojo con la distancia
 >Aunque Cat 6 soporta 10 Gbps, solo lo hace hasta **55 metros**. Para los 100 metros completos a 10 Gbps necesitas **Cat 6a** o superior.
@@ -180,8 +169,6 @@ Largest Column: standard
 	- Entornos con mucha interferencia
 
 --- end-multi-column
-
-<!-- IMAGEN RECOMENDADA: Corte transversal de cable UTP vs STP mostrando el blindaje -->
 
 ---
 ## Cable Coaxial

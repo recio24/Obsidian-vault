@@ -5306,33 +5306,6 @@
         "newlineCount": 45
       }
     },
-    "Cats.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764680656402,
-      "modifiedDate": 1764680656402,
-      "sizeInBytes": 873151,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Cable enrrollado.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5526,20 +5499,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2030,
+      "wordCount": 1959,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.766666666666667,
-      "characterCount": 15816,
-      "nonWhitespaceCharacterCount": 13233,
-      "newlineCount": 468,
-      "readingTimeInMinutes": 7.660377358490566,
+      "pageCount": 6.53,
+      "characterCount": 15240,
+      "nonWhitespaceCharacterCount": 12776,
+      "newlineCount": 457,
+      "readingTimeInMinutes": 7.392452830188679,
       "linkCount": 15,
-      "embedCount": 2,
+      "embedCount": 3,
       "aliases": null,
       "createdDate": 1764775870000,
-      "modifiedDate": 1764780014122,
-      "sizeInBytes": 16050,
+      "modifiedDate": 1764780100282,
+      "sizeInBytes": 15467,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 6.923333333333333,
@@ -6008,7 +5981,7 @@
         "newlineCount": 0
       }
     },
-    "Cable de pares trenzados.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/Cable de pares trenzados.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6026,6 +5999,33 @@
       "createdDate": 1764780001986,
       "modifiedDate": 1764780001987,
       "sizeInBytes": 150493,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CCNA/01_Network_Fundamentals/Anexos/Cats.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764680656402,
+      "modifiedDate": 1764680656402,
+      "sizeInBytes": 873151,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
