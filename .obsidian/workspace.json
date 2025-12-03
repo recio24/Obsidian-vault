@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.50312423706055,
-    "collapsed": true
+    "width": 467.50312423706055
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -201,14 +200,14 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "6280d549e6af9147",
+  "active": "a3646f9a1c35bc65",
   "lastOpenFiles": [
     "Reparaciones_de_Motores__1748357417.pdf",
     "CCNA/01_Network_Fundamentals/Cableado_de_red.md",
     "GS_Mecatronica/2º Año/Conectores fibra.png",
     "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
     "CCNA/01_Network_Fundamentals/IMAGENES_RECOMENDADAS.md",
-    "Cable enrrollado.png",
+    "CCNA/01_Network_Fundamentals/Anexos/Cable enrrollado.png",
     "CCNA/01_Network_Fundamentals/Anexos/capas de cable de fibra.png",
     "0100 - Fundamentos.md",
     "CCNA/01_Network_Fundamentals/Anexos/Cable konsola.png",

@@ -182,8 +182,7 @@ Largest Column: standard
   
 
 --- end-multi-column
-
-
+![[Cable enrrollado.png]]
 >[!info] Diagrama de pinout Rollover
 En un cable rollover, el orden de los pines se invierte completamente:
 **Extremo 1:** 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8
