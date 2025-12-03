@@ -98,7 +98,7 @@ Los cables ethernet **originales eran coaxiales**. Con el tiempo existió evoluc
 >- **Par 2 (Wire 2, Par 1)**: Transmisor ↔ Receptor
 
 ![[Cable de pares trenzados.png]]
-### Tipos de cables según conexión
+### Clasificación de cables ethernet
 
 Los cables de pares trenzados pueden venir en dos variantes:
 
@@ -140,7 +140,6 @@ Además, también se dividen los cables por categorías. Cuanto mayor categoría
 >[!warning] Ojo con la distancia
 >Aunque Cat 6 soporta 10 Gbps, solo lo hace hasta **55 metros**. Para los 100 metros completos a 10 Gbps necesitas **Cat 6a** o superior.
 
-### UTP vs STP
 
 Por otro lado, podemos encontrar cables **sin blindar (UTP)** o **blindados (STP)**.
 
@@ -171,7 +170,7 @@ Largest Column: standard
 ---
 ## Cable Coaxial
 
-Formado por un único hilo de cable, parecido al cable de televisión. Es mejor previniendo interferencias electromagnéticas al contar con un aislamiento muy grueso.
+Formado por un único hilo de cobre, parecido al cable de televisión. Es mejor previniendo interferencias electromagnéticas al contar con un aislamiento muy grueso.
 
 **Estructura del cable coaxial:**
 1. **Hilo de cobre** (centro) - Conductor principal
@@ -179,7 +178,7 @@ Formado por un único hilo de cable, parecido al cable de televisión. Es mejor 
 3. **Malla de cobre** - Blindaje
 4. **Cubierta exterior** - Protección
 
-<!-- IMAGEN RECOMENDADA: Diagrama de las capas de un cable coaxial -->
+![[capas coaxial.png]]
 
 Siendo mucho más grueso que el cable de pares trenzados. También tiene la posibilidad de transmitir señal mucho más lejos que el par trenzado. Utiliza conectores **BNC** (se puede conectar en conexiones de modem).
 
@@ -188,8 +187,6 @@ Siendo mucho más grueso que el cable de pares trenzados. También tiene la posi
 >- Televisión por cable
 >- Internet por cable (DOCSIS)
 >- Conexiones de módem antiguas
-
-<!-- IMAGEN RECOMENDADA: Foto de un conector BNC -->
 
 ---
 ## Cables de consola y puertos auxiliares
