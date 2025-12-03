@@ -47,7 +47,7 @@ Los tipos principales de cables que encontraremos en redes Cisco son:
 - **Seriales**
 - **Console**
 
-### Cable de Cobre 
+### Cable de Cobre par tenzado
 
 Los cables de cobre tienen varias características importantes:
 - **Más barato** que el cable de fibra
@@ -88,9 +88,7 @@ Largest Column: standard
 - **Coaxiales**: Redes antiguas y televisión
 - **Ethernet**: Conexiones [[Network_conceptos#^a80a01|LAN]]
 - **Cables seriales**: Conexiones [[Network_conceptos#WAN|WAN]] (múltiples pines)
-
----
-## Ethernet
+### Ethernet
 
 Los cables ethernet **originales eran coaxiales**. Con el tiempo existió evolución  ha los que conocemos ahora. Los cables de ethernet son normalmente de **pares trenzados**. Un par de hilos forman un loop completo. Los pares están retorcidos entre sí para cancelar el EMI (Interferencias electromagnéticas). Un gigabit ethernet necesita **4-8 pares de cables**.
 
@@ -130,7 +128,7 @@ Largest Column: standard
 
 --- end-multi-column
 
-<!-- IMAGEN RECOMENDADA: Diagrama de pinout T568A y T568B mostrando cable directo vs cruzado -->
+![[Cable ethernet normal vs cruzado.png]]
 
 >[!tip] MDI-X (Auto-detect)
 >Existen dispositivos con interfaces automáticas **MDI-X**, esto detecta el tipo de cable y lo tiene en cuenta automáticamente. Por ejemplo, dos switches modernos conectados con cable directo funcionarán sin problemas.
