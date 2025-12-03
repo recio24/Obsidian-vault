@@ -280,10 +280,9 @@ Largest Column: standard
 - No puede transportar energía ([[PoE (Power of ethernet)|PoE]])
 
 --- end-multi-column
-
-Hay dos clasificaciones principales de fibra óptica:
-
-### MMF vs SMF - Comparación
+![[capas de cable de fibra.png]]
+### Clasificación
+Hay dos clasificaciones principales de fibra óptica **MMF vs SMF**:
 
 --- start-multi-column: ID_mmf_smf
 ```column-settings
@@ -321,16 +320,10 @@ Núcleo **muy estrecho** que permite un **solo modo** de propagación de luz. Re
 
 --- end-multi-column
 
-<!-- IMAGEN RECOMENDADA: Diagrama comparativo del núcleo MMF vs SMF mostrando la diferencia de diámetro y propagación de luz -->
-
 >[!tip] Identificación de cables de fibra
 >Para diferenciarlos se puede hacer por el **código en el módulo** del cable. También hay una **tabla de colores** para diferenciar los distintos cables de fibra:
 >- Los cables **multimodales** suelen ser **naranjas**
 >- Los cables **single-mode** suelen ser **amarillos**
-
-<!-- IMAGEN RECOMENDADA: Cables de fibra naranja (MMF) y amarillo (SMF) -->
-
-### Tabla comparativa completa
 
 | Característica | MMF (Multi-Mode) | SMF (Single-Mode) |
 | :--- | :--- | :--- |
@@ -383,7 +376,7 @@ Largest Column: standard
 
 --- end-multi-column
 
-<!-- IMAGEN RECOMENDADA: Comparación visual de conectores LC, SC, ST y MPO -->
+
 
 >[!warning] Limpieza de conectores
 >Los conectores de fibra óptica deben mantenerse **extremadamente limpios**. Una mota de polvo microscópica puede bloquear completamente la señal de luz. Siempre usa:
