@@ -133,6 +133,111 @@ Largest Column: standard
 >[!tip] MDI-X (Auto-detect)
 >Existen dispositivos con interfaces automáticas **MDI-X**, esto detecta el tipo de cable y lo tiene en cuenta automáticamente. Por ejemplo, dos switches modernos conectados con cable directo funcionarán sin problemas.
 
+### Cable Rollover (Enrollado/En Espejo)
+El **cable rollover**, también conocido como **cable enrollado** o **cable en espejo**, es un tipo especial de cable de par trenzado donde el cableado está **completamente invertido** de un extremo al otro.
+--- start-multi-column: ID_rollover
+
+```column-settings
+
+Number of Columns: 2
+
+Largest Column: standard
+
+```
+
+  
+
+**Características del Rollover**
+
+- **Pin 1 ↔ Pin 8**
+
+- **Pin 2 ↔ Pin 7**
+
+- **Pin 3 ↔ Pin 6**
+
+- **Pin 4 ↔ Pin 5**
+
+- Totalmente simétrico (espejo)
+
+- Color típico: **Azul claro** (Cisco)
+
+  
+
+--- column-break ---
+
+  
+
+**Diferencias con otros cables**
+
+- **Directo**: 1→1, 2→2, 3→3... (igual)
+
+- **Cruzado**: Solo cruza 1↔3 y 2↔6
+
+- **Rollover**: TODOS los pines invertidos
+
+- NO se usa para transmisión de datos
+
+- Solo para gestión/consola
+
+  
+
+--- end-multi-column
+
+>[!info] Diagrama de pinout Rollover
+
+>En un cable rollover, el orden de los pines se invierte completamente:
+
+>
+
+>**Extremo 1:** 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8
+
+>**Extremo 2:** 8 - 7 - 6 - 5 - 4 - 3 - 2 - 1
+
+>
+
+>Es como si miraras el cable en un espejo.
+
+  
+
+**Uso principal:**
+
+- **Conexión de consola** en dispositivos Cisco (routers, switches, firewalls)
+
+- **Configuración inicial** de equipos
+
+- **Recuperación de contraseñas** olvidadas
+
+- **Modo ROMMON** (recuperación de desastres)
+
+- **Acceso fuera de banda** (out-of-band management)
+
+  
+
+**Conectores típicos:**
+
+- Un extremo: **RJ45** (conecta al puerto Console del router/switch)
+
+- Otro extremo: **RJ45** (a adaptador) o **DB9** directo (puerto serie del PC)
+
+- Actualmente: **RJ45 a USB** (con drivers)
+
+  
+
+>[!warning] No confundir
+
+>**NO uses un cable rollover** para conectar dispositivos de red entre sí. Solo sirve para gestión/consola. Si lo conectas a puertos ethernet normales, no funcionará.
+
+  
+
+**Cómo identificarlo:**
+
+1. **Color**: Cisco los fabrica en **azul claro/celeste**
+
+2. **Etiqueta**: Suele decir "Console" o "Rollover"
+
+3. **Probador de cables**: Al testearlo, todos los LEDs estarán en posición invertida
+
+4. **Inspección visual**: Si miras los conectores RJ45 con el clip hacia abajo, los colores están al revés
 
 Además, también se dividen los cables por categorías. Cuanto mayor categoría, más pares de hilos por centímetro y más protección de la vaina. Las categorías son diseños para distinguir unos de otros. A mayor categoría, mayor capacidad de velocidad en el cable.
 ![[Cats.png]]

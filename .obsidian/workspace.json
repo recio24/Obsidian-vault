@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.50312423706055
+    "width": 467.50312423706055,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -200,7 +201,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "6280d549e6af9147",
   "lastOpenFiles": [
     "Reparaciones_de_Motores__1748357417.pdf",
     "CCNA/01_Network_Fundamentals/Cableado_de_red.md",
