@@ -62,7 +62,7 @@ Los cables de cobre tienen varias características importantes:
 >**RJ45** por ejemplo acepta cable de cobre.
 >**SFP** por ejemplo acepta fibra óptica.
 
-<!-- IMAGEN RECOMENDADA: Foto de un conector RJ45 y un módulo SFP -->
+
 
 ### Características del cable de cobre
 
