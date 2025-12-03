@@ -95,18 +95,14 @@ Largest Column: standard
 ---
 ## Ethernet
 
-Los cables ethernet **originales eran coaxiales**. Con el tiempo existió evolución  ha los que copnocemos ahpora. Los cables de ethernet son normalmente de **pares trenzados**. Un par de hilos forman un loop completo. Los pares están retorcidos entre sí para cancelar el EMI (Interferencias electromagnéticas). Un gigabit ethernet necesita **4-8 pares de cables**.
+Los cables ethernet **originales eran coaxiales**. Con el tiempo existió evolución  ha los que conocemos ahora. Los cables de ethernet son normalmente de **pares trenzados**. Un par de hilos forman un loop completo. Los pares están retorcidos entre sí para cancelar el EMI (Interferencias electromagnéticas). Un gigabit ethernet necesita **4-8 pares de cables**.
 
 >[!info] Transmisión de datos
 >Cada par de cables trabaja en conjunto para transmitir y recibir datos. En un cable ethernet estándar:
 >- **Par 1 (Wire 1, Par 1)**: Transmisor ↔ Receptor
 >- **Par 2 (Wire 2, Par 1)**: Transmisor ↔ Receptor
->
->Los cables de 10-100 Mbps usan solo 2 pares.
->Los cables Gigabit usan los 4 pares simultáneamente.
 
-<!-- IMAGEN RECOMENDADA: Diagrama de pares trenzados dentro de un cable ethernet -->
-
+![[Cable de pares trenzados.png]]
 ### Tipos de cables según conexión
 
 Los cables de pares trenzados pueden venir en dos variantes:
