@@ -376,7 +376,7 @@ Largest Column: standard
 
 --- end-multi-column
 
-
+![[Conectores fibra.png]]
 
 >[!warning] Limpieza de conectores
 >Los conectores de fibra óptica deben mantenerse **extremadamente limpios**. Una mota de polvo microscópica puede bloquear completamente la señal de luz. Siempre usa:
