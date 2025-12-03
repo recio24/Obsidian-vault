@@ -197,8 +197,7 @@ Estos conectores necesitan adicionar cables entrelazados los cuales se conectan 
 
 >[!tip] Cable Rollover
 >El cable de consola es un tipo especial llamado "rollover" o "rolled cable". El pin 1 se conecta al pin 8, el pin 2 al pin 7, y así sucesivamente. Es fácil de reconocer por su **color azul claro**.
-
-<!-- IMAGEN RECOMENDADA: Cable de consola Cisco azul con conectores RJ45 y DB9/USB -->
+![[Cable konsola.png]]
 
 **Uso principal:**
 - Configuración inicial de routers y switches
