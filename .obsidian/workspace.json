@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
+                "file": "CCNA/01_Network_Fundamentals/Cableado_de_red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topologias_de_red"
+              "title": "Cableado_de_red"
             }
           }
         ]
@@ -200,8 +200,12 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "6280d549e6af9147",
   "lastOpenFiles": [
+    "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
+    "CCNA/01_Network_Fundamentals/Network_conceptos.md",
+    "CCNA/01_Network_Fundamentals/IMAGENES_RECOMENDADAS.md",
+    "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "Pasted image 20251202184043 1.png",
     "capas de cable de fibra.png",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
@@ -217,12 +221,8 @@
     "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201112140.png",
     "Reparaciones_de_Motores__1748357417.pdf",
     "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201111859.png",
-    "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
-    "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md",
-    "CCNA/01_Network_Fundamentals/Network_conceptos.md",
     "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110846.png",
-    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201111350.png",
     "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
     "CCNA/Cheats.Binario y hexadecimal.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Bloques y contactos.md",
