@@ -244,18 +244,13 @@ Equipo como un **módem** que proporciona **reloj** al equipo DTE. Este conecta 
 >- **Macho:** se ven los pines
 >- **Hembra:** se ven los huecos para los pines
 
-<!-- IMAGEN RECOMENDADA: Conectores seriales macho vs hembra -->
 
-### Estándares de señalización
-
-Los estándares de señalización definen cómo se organizan los pines y las señales en el cable:
+Los **estándares de señalización** definen cómo se organizan los pines y las señales en el cable:
 
 **Algunos estándares son:**
 - **EIA/TIA-232 DTE** (RS-232)
 - **V.35 DTE**
 - **HSSI** (High-Speed Serial Interface)
-
-<!-- IMAGEN RECOMENDADA: Conectores seriales DB-60, Smart Serial, V.35 -->
 
 ---
 ## Cables de Fibra Óptica
