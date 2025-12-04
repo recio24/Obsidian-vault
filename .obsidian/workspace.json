@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb35b5603b54c966",
+        "id": "8a0538dee38450c3",
         "type": "tabs",
         "children": [
           {
-            "id": "6280d549e6af9147",
+            "id": "e37b861d2be96f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01_Network_Fundamentals/Cableado_de_red.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cableado_de_red"
+              "title": "Ejercicios"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.50312423706055
+    "width": 467.50312423706055,
+    "collapsed": true
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -200,11 +201,12 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "e37b861d2be96f80",
   "lastOpenFiles": [
-    "Reparaciones_de_Motores__1748357417.pdf",
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
+    "CCNA/01_Network_Fundamentals/Anexos/Conectores fibra.png",
     "CCNA/01_Network_Fundamentals/Cableado_de_red.md",
-    "GS_Mecatronica/2º Año/Conectores fibra.png",
+    "Reparaciones_de_Motores__1748357417.pdf",
     "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
     "CCNA/01_Network_Fundamentals/IMAGENES_RECOMENDADAS.md",
     "CCNA/01_Network_Fundamentals/Anexos/Cable enrrollado.png",
@@ -219,7 +221,6 @@
     "CCNA/01_Network_Fundamentals/Network_conceptos.md",
     "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "Pasted image 20251202184043 1.png",
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.eddx.uIjhZN",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.eddx",
