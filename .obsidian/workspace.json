@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +210,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "68dfcb6198732799",
+  "active": "ac845eb383c30bf1",
   "lastOpenFiles": [
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
