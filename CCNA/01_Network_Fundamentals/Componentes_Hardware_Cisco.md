@@ -93,7 +93,7 @@ Largest Column: standard
 ## Módulos de Servicio
 
 > [!info]
-> Módulo encargado de una función particular, siempre que no sea temporalmente de medios. Ofrecen un servicio a nuestro sistema.
+> Módulo encargado de una función particular, siempre que no sea transporte de medios. Ofrecen un servicio a nuestro sistema.
 
 **Ejemplos:**
 - **FWSM:** Módulo de servicios de Firewall
