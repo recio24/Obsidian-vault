@@ -77,10 +77,6 @@ Largest Column: standard
 - Varios tipos según el proyecto
 - Tamaños: pequeño, mediano, grande
 
---- end-multi-column
-
-### Ejemplos por Modelo
-
 **Cisco 7200**
 - Espacios pequeños: Adaptadores de puerto
 - Espacio grande: Controlador de entrada y salida
@@ -93,8 +89,7 @@ Largest Column: standard
 - Ranuras pequeñas: **[[Cisco_Interfaces_Hardware#Ubicación|WICs]]**
 - Ranura grande: Módulo de red
 
----
-
+--- end-multi-column
 ## Módulos de Servicio
 
 > [!info]
