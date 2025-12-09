@@ -1,5 +1,4 @@
 # Componentes Hardware Cisco
-
 ---
 
 > [!info] 
