@@ -24,7 +24,7 @@ Cerebro del equipo. Procesador que ejecuta el sistema operativo.
 Interfaces de red insertables en el chasis.
 
 --- end-multi-column
-## Módulos de Supervisión (Switches)
+### Módulos de Supervisión (Switches)
 
 > [!info]
 > Son el cerebro del switch. Gestionan el funcionamiento general del equipo.
@@ -36,19 +36,16 @@ Interfaces de red insertables en el chasis.
 
 > [!warning] 
 > Los supervisores suelen contar con puerto de consola, esto ayuda a reconocer el supervisor en nuestro equipo.
-## Motores (Routers)
 
-**Tipos de motores:**
-- **Módulos supervisores**
-- **NPE (Network Processing Engine):** Sistema de procesamiento de red
-- **SPE (Service Performance Engine):** Sistema de rendimiento de servicio
 
-Estos son el cerebro de la máquina y existen varios tipos. Algunos ejemplos:
-- Módulo supervisor
-- Motor de consola: **NPE (Módulo de procesamiento de red)**
-- **SPE (Motor de rendimiento de servicio)**
+> [!info] Un equipo puede contar con uno o más. Estos son el cerebro de la máquina.
 
-> [!fail] Sin motor nuestro enrutador no funcionará
+**Otro motor también cuenta con puerto de consola:**
+
+- **NPE (Sistema de procesamiento de red)**
+- **SPE (Sistema de rendimiento de servicio)**
+
+> [!fail] Sin motor, nuestro enrutador no funcionará
 
 ---
 
