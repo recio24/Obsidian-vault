@@ -36,9 +36,6 @@ Interfaces de red insertables en el chasis.
 
 > [!warning] 
 > Los supervisores suelen contar con puerto de consola, esto ayuda a reconocer el supervisor en nuestro equipo.
-
----
-
 ## Motores (Routers)
 
 **Tipos de motores:**
