@@ -32,7 +32,6 @@ Interfaces de red insertables en el chasis.
 
 **Características:**
 - Utilizan ranuras distintas según modelo
-- Hay varios tipos según el equipo (Nexus 7K, Catalyst 6500...)
 - La instalación cambia de un equipo a otro
 
 > [!warning] 
@@ -41,7 +40,6 @@ Interfaces de red insertables en el chasis.
 > [!info] Un equipo puede contar con uno o más. Estos son el cerebro de la máquina.
 
 **Otro motor también cuenta con puerto de consola:**
-
 - **NPE (Sistema de procesamiento de red)**
 - **SPE (Sistema de rendimiento de servicio)**
 
