@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.50312423706055,
-    "collapsed": true
+    "width": 467.50312423706055
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -171,14 +170,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "68dfcb6198732799",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +209,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "ac845eb383c30bf1",
+  "active": "68dfcb6198732799",
   "lastOpenFiles": [
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
