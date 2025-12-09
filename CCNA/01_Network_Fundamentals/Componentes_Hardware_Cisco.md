@@ -38,7 +38,6 @@ Interfaces de red insertables en el chasis.
 > [!warning] 
 > Los supervisores suelen contar con puerto de consola, esto ayuda a reconocer el supervisor en nuestro equipo.
 
-
 > [!info] Un equipo puede contar con uno o más. Estos son el cerebro de la máquina.
 
 **Otro motor también cuenta con puerto de consola:**
@@ -47,9 +46,6 @@ Interfaces de red insertables en el chasis.
 - **SPE (Sistema de rendimiento de servicio)**
 
 > [!fail] Sin motor, nuestro enrutador no funcionará
-
----
-
 ## Tarjetas de Línea, Módulos y Adaptadores
 
 > [!tip]
