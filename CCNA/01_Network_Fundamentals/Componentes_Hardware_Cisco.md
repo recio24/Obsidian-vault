@@ -24,7 +24,8 @@ Cerebro del equipo. Procesador que ejecuta el sistema operativo.
 Interfaces de red insertables en el chasis.
 
 --- end-multi-column
-### Módulos de Supervisión (Switches)
+## Motores (Engines)
+### Supervisores (Switches)
 
 > [!info]
 > Son el cerebro del switch. Gestionan el funcionamiento general del equipo.
