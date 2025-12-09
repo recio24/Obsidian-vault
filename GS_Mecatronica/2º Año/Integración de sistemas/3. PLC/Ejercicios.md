@@ -27,7 +27,7 @@
 ![[GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 4.svg]]
 
 ---
-Ejercicio5. Transcribe el programa que se te da a un Grafcet del mismo.
+### Ejercicio5. Transcribe el programa que se te da a un Grafcet del mismo.
 ![[Pasted image 20251124111910.png]]![[Ejercicio5.svg]]
 
 ---
