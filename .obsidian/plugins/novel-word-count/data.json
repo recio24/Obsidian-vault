@@ -6088,6 +6088,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "CCNA/01_Network_Fundamentals/Componentes_Hardware_Cisco.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 411,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.37,
+      "characterCount": 3369,
+      "nonWhitespaceCharacterCount": 2824,
+      "newlineCount": 131,
+      "readingTimeInMinutes": 1.5509433962264152,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1765303769700,
+      "modifiedDate": 1765303769710,
+      "sizeInBytes": 3413,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }

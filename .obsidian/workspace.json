@@ -11,10 +11,14 @@
             "id": "2f0e9d073800c6da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/01_Network_Fundamentals/Componentes_Hardware_Cisco.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Componentes_Hardware_Cisco"
             }
           }
         ]
@@ -206,10 +210,11 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "a3646f9a1c35bc65",
+  "active": "2f0e9d073800c6da",
   "lastOpenFiles": [
-    "Metodos predictivos/Ultrasonidos",
     "Metodos predictivos/Sin título.md",
+    "CCNA/01_Network_Fundamentals/Componentes_Hardware_Cisco.md",
+    "Metodos predictivos/Ultrasonidos",
     "Metodos predictivos",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
@@ -246,7 +251,6 @@
     "CCNA/Introduction.md",
     "CCNA/01_Network_Fundamentals",
     "CCNA",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios sensores.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/Libro. 1-2.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
