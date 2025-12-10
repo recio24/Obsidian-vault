@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitecturas_modernas"
+              "title": "Ejercicios"
             }
           }
         ]
@@ -212,13 +212,15 @@
   },
   "active": "2f0e9d073800c6da",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Practica_Grafcet_maqueta.pdf",
+    "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
     "CCNA/01_Network_Fundamentals/Cableado_de_red.md",
     "CCNA/01_Network_Fundamentals/Componentes_Hardware_Cisco.md",
     "Metodos predictivos/Sin título.md",
     "Metodos predictivos/Ultrasonidos",
     "Metodos predictivos",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
     "CCNA/01_Network_Fundamentals/Anexos/Conectores fibra.png",
     "Reparaciones_de_Motores__1748357417.pdf",
@@ -238,9 +240,7 @@
     "Pasted image 20251202184043 1.png",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.eddx.uIjhZN",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.eddx",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Practica_Grafcet_maqueta.pdf",
     "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md",
-    "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
     "CCNA/Cheats.Binario y hexadecimal.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Bloques y contactos.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/S7-1500/Direccionamiento digital.md",
@@ -256,7 +256,6 @@
     "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Ejercicios/Ejercicios. Sensorica.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/0.Practicas.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.3.Control de lazo cerrado.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.2.Control de lazo abierto.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.1.Noción del sistema.md"
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.2.Control de lazo abierto.md"
   ]
 }
