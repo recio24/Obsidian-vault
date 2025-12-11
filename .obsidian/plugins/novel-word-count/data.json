@@ -176,6 +176,33 @@
         "newlineCount": 0
       }
     },
+    "Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710224548.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012260,
+      "modifiedDate": 1761907012260,
+      "sizeInBytes": 266820,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230711060640.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -248,33 +275,6 @@
       "createdDate": 1761907012260,
       "modifiedDate": 1761907012261,
       "sizeInBytes": 261748,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Programación/0102 - Lenguajes/Python/ANEXOS/Pasted image 20230710224548.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012260,
-      "modifiedDate": 1761907012260,
-      "sizeInBytes": 266820,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -473,6 +473,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/8.Resolución de ciruitos.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1762502861719,
+      "modifiedDate": 1763624232273,
+      "sizeInBytes": 2981,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/Untitled Diagram.svg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -491,33 +518,6 @@
       "createdDate": 1762265710848,
       "modifiedDate": 1762266074494,
       "sizeInBytes": 21414,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/Untitled Diagram 1.svg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1762335724413,
-      "modifiedDate": 1762336006243,
-      "sizeInBytes": 16445,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -554,6 +554,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/Anexos/Untitled Diagram 1.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1762335724413,
+      "modifiedDate": 1762336006243,
+      "sizeInBytes": 16445,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/Ejercicios/2.Ejercicios.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -581,7 +608,7 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/8.Resolución de ciruitos.md": {
+    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/4.Potencia eléctrica.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -596,9 +623,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1762502861719,
-      "modifiedDate": 1763624232273,
-      "sizeInBytes": 2981,
+      "createdDate": 1762499918270,
+      "modifiedDate": 1763624232265,
+      "sizeInBytes": 1500,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -680,33 +707,6 @@
       "createdDate": 1762500097601,
       "modifiedDate": 1763624232267,
       "sizeInBytes": 1788,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente continua/4.Potencia eléctrica.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1762499918270,
-      "modifiedDate": 1763624232265,
-      "sizeInBytes": 1500,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -878,139 +878,31 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Practica_Grafcet_maqueta.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764666815352,
-      "modifiedDate": 1764666815352,
-      "sizeInBytes": 855510,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Bloques y contactos.md": {
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 396,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 1.32,
+      "characterCount": 2763,
+      "nonWhitespaceCharacterCount": 2332,
+      "newlineCount": 44,
+      "readingTimeInMinutes": 1.4943396226415093,
       "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764326980447,
-      "modifiedDate": 1764326997165,
-      "sizeInBytes": 26,
+      "embedCount": 9,
+      "aliases": null,
+      "createdDate": 1763624228874,
+      "modifiedDate": 1765264155258,
+      "sizeInBytes": 2811,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763374466712,
-      "modifiedDate": 1764326977152,
-      "sizeInBytes": 2203,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Maqueta soplador arena.svg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764666890159,
-      "modifiedDate": 1764860600183,
-      "sizeInBytes": 21861,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 4.svg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763979239761,
-      "modifiedDate": 1763979239764,
-      "sizeInBytes": 6820,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.32,
+        "wordCount": 396,
+        "characterCount": 2763,
+        "nonWhitespaceCharacterCount": 2332,
+        "newlineCount": 44
       }
     },
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 3.svg": {
@@ -1058,6 +950,33 @@
       "createdDate": 1763979550245,
       "modifiedDate": 1763979550245,
       "sizeInBytes": 721841,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Maqueta soplador arena.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764666890159,
+      "modifiedDate": 1764860600183,
+      "sizeInBytes": 21861,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1121,6 +1040,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 4.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763979239761,
+      "modifiedDate": 1763979239764,
+      "sizeInBytes": 6820,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/_ANEXOS_/Ejercicio 2.svg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1175,6 +1121,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Practica_Grafcet_maqueta.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764666815352,
+      "modifiedDate": 1764666815352,
+      "sizeInBytes": 855510,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.eddx": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1202,7 +1175,7 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md": {
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1217,9 +1190,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763624228874,
-      "modifiedDate": 1765264155258,
-      "sizeInBytes": 2811,
+      "createdDate": 1763374466712,
+      "modifiedDate": 1764326977152,
+      "sizeInBytes": 2203,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1229,8 +1202,8 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Untitled Diagram.svg": {
-      "isCountable": false,
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Bloques y contactos.md": {
+      "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
@@ -1244,9 +1217,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763324532865,
-      "modifiedDate": 1763324583133,
-      "sizeInBytes": 4232,
+      "createdDate": 1764326980447,
+      "modifiedDate": 1764326997165,
+      "sizeInBytes": 26,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1274,6 +1247,33 @@
       "createdDate": 1762695687503,
       "modifiedDate": 1762699075960,
       "sizeInBytes": 4558,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/2º Año/Integración de sistemas/2.Sensorica/Untitled Diagram.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763324532865,
+      "modifiedDate": 1763324583133,
+      "sizeInBytes": 4232,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1499,33 +1499,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.9.Control PID.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1762245529176,
-      "modifiedDate": 1762685131532,
-      "sizeInBytes": 1123,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.8.Control derivativo (D).md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1544,6 +1517,33 @@
       "createdDate": 1762245516523,
       "modifiedDate": 1762683724026,
       "sizeInBytes": 954,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.9.Control PID.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1762245529176,
+      "modifiedDate": 1762685131532,
+      "sizeInBytes": 1123,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1580,8 +1580,8 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/Untitled Diagram.svg": {
-      "isCountable": false,
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.4.Proceso continuo y secuencial.md": {
+      "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
@@ -1595,9 +1595,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763043260231,
-      "modifiedDate": 1763043260232,
-      "sizeInBytes": 453,
+      "createdDate": 1762242671355,
+      "modifiedDate": 1762699202072,
+      "sizeInBytes": 1149,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1661,33 +1661,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/Pasted image 20251112112726.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1762943246075,
-      "modifiedDate": 1762943246075,
-      "sizeInBytes": 12335,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/IMG_5461.jpeg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1715,7 +1688,61 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.4.Proceso continuo y secuencial.md": {
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/Untitled Diagram.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763043260231,
+      "modifiedDate": 1763043260232,
+      "sizeInBytes": 453,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/ANEXOS/Pasted image 20251112112726.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1762943246075,
+      "modifiedDate": 1762943246075,
+      "sizeInBytes": 12335,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.3.Control de lazo cerrado.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1730,9 +1757,36 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1762242671355,
-      "modifiedDate": 1762699202072,
-      "sizeInBytes": 1149,
+      "createdDate": 1762241497578,
+      "modifiedDate": 1762268235362,
+      "sizeInBytes": 1435,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.2.Control de lazo abierto.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761910162885,
+      "modifiedDate": 1762268206188,
+      "sizeInBytes": 1322,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1814,60 +1868,6 @@
       "createdDate": 1762245278347,
       "modifiedDate": 1762413363494,
       "sizeInBytes": 1495,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.3.Control de lazo cerrado.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1762241497578,
-      "modifiedDate": 1762268235362,
-      "sizeInBytes": 1435,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/2º Año/Integración de sistemas/1.Regulación/1.2.Control de lazo abierto.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761910162885,
-      "modifiedDate": 1762268206188,
-      "sizeInBytes": 1322,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2120,60 +2120,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Procesos de fabricación/Examen bloque 1/Pasted image 20250307094822.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012200,
-      "modifiedDate": 1761907012200,
-      "sizeInBytes": 288829,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Procesos de fabricación/Examen bloque 1/Examen correcciones.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012198,
-      "modifiedDate": 1761907012198,
-      "sizeInBytes": 2910,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Procesos de fabricación/Examen bloque 1/Pasted image 20250307094022.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2201,6 +2147,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/1º Año/Procesos de fabricación/Examen bloque 1/Pasted image 20250307094822.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012200,
+      "modifiedDate": 1761907012200,
+      "sizeInBytes": 288829,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "GS_Mecatronica/1º Año/Procesos de fabricación/Examen bloque 1/Figura 2..svg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2219,6 +2192,33 @@
       "createdDate": 1761907012198,
       "modifiedDate": 1761907012199,
       "sizeInBytes": 29129,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Procesos de fabricación/Examen bloque 1/Examen correcciones.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012198,
+      "modifiedDate": 1761907012198,
+      "sizeInBytes": 2910,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2417,6 +2417,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Estanqueidad dinámica. movimiento giratorio.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012161,
+      "modifiedDate": 1761907012161,
+      "sizeInBytes": 2134,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Estanqueidad estatica.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2462,33 +2489,6 @@
       "createdDate": 1761907012161,
       "modifiedDate": 1761907012161,
       "sizeInBytes": 1552,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/8. Estanqueidad/Estanqueidad dinámica. movimiento giratorio.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012161,
-      "modifiedDate": 1761907012161,
-      "sizeInBytes": 2134,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2552,7 +2552,7 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Cojinetes.md": {
+    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Rodamientos.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2567,9 +2567,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1761907012157,
-      "modifiedDate": 1761907012157,
-      "sizeInBytes": 1312,
+      "createdDate": 1761907012158,
+      "modifiedDate": 1761907012158,
+      "sizeInBytes": 3056,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2606,33 +2606,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Rodamientos.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012158,
-      "modifiedDate": 1761907012158,
-      "sizeInBytes": 3056,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Fijación rodamientos.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2651,33 +2624,6 @@
       "createdDate": 1761907012157,
       "modifiedDate": 1761907012157,
       "sizeInBytes": 2079,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/0.Deslizamiento_2425.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012145,
-      "modifiedDate": 1761907012153,
-      "sizeInBytes": 4070997,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2714,6 +2660,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Cojinetes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012157,
+      "modifiedDate": 1761907012157,
+      "sizeInBytes": 1312,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Clasificación.Elementos de deslizamiento.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2732,6 +2705,33 @@
       "createdDate": 1761907012157,
       "modifiedDate": 1761907012157,
       "sizeInBytes": 247,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/0.Deslizamiento_2425.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012145,
+      "modifiedDate": 1761907012153,
+      "sizeInBytes": 4070997,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2930,6 +2930,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Anexos/Cojinetes.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012153,
+      "modifiedDate": 1761907012153,
+      "sizeInBytes": 41009,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Anexos/Partes rodamiento.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2984,7 +3011,7 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/7. Deslizamientos/Anexos/Cojinetes.svg": {
+    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/Ejercicios estudio .pdf": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2999,9 +3026,63 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1761907012153,
-      "modifiedDate": 1761907012153,
-      "sizeInBytes": 41009,
+      "createdDate": 1761907012113,
+      "modifiedDate": 1761907012116,
+      "sizeInBytes": 2040316,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/Resumen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012144,
+      "modifiedDate": 1761907012144,
+      "sizeInBytes": 2434,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/Trabajo soldadura.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012144,
+      "modifiedDate": 1761907012144,
+      "sizeInBytes": 149,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3146,60 +3227,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/Trabajo soldadura.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012144,
-      "modifiedDate": 1761907012144,
-      "sizeInBytes": 149,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/Resumen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012144,
-      "modifiedDate": 1761907012144,
-      "sizeInBytes": 2434,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/Resumen uniones.pdf": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -3227,8 +3254,8 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/Ejercicios estudio .pdf": {
-      "isCountable": false,
+    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/2. Uniones atornilladas.md": {
+      "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
@@ -3242,9 +3269,36 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1761907012113,
-      "modifiedDate": 1761907012116,
-      "sizeInBytes": 2040316,
+      "createdDate": 1761907012112,
+      "modifiedDate": 1761907012112,
+      "sizeInBytes": 4153,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/1. Clasificación.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012112,
+      "modifiedDate": 1761907012112,
+      "sizeInBytes": 868,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3335,60 +3389,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/2. Uniones atornilladas.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012112,
-      "modifiedDate": 1761907012112,
-      "sizeInBytes": 4153,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/1. Clasificación.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012112,
-      "modifiedDate": 1761907012112,
-      "sizeInBytes": 868,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/6. Elementos de unión/0.Elementos de unión.pdf": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -3407,60 +3407,6 @@
       "createdDate": 1761907012099,
       "modifiedDate": 1761907012112,
       "sizeInBytes": 5103165,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/5. Resistencia de materiales/1. Introducción.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012096,
-      "modifiedDate": 1761907012096,
-      "sizeInBytes": 366,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/5. Resistencia de materiales/ResistenciaMateriales.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012097,
-      "modifiedDate": 1761907012099,
-      "sizeInBytes": 810943,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3497,8 +3443,8 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/5. Resistencia de materiales/3. Cortadura.md": {
-      "isCountable": true,
+    "GS_Mecatronica/1º Año/Elementos de maquinas/5. Resistencia de materiales/ResistenciaMateriales.pdf": {
+      "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
@@ -3512,9 +3458,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1761907012096,
-      "modifiedDate": 1761907012096,
-      "sizeInBytes": 0,
+      "createdDate": 1761907012097,
+      "modifiedDate": 1761907012099,
+      "sizeInBytes": 810943,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3578,7 +3524,7 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/4. Estática/2.1. Tipos de carga.md": {
+    "GS_Mecatronica/1º Año/Elementos de maquinas/5. Resistencia de materiales/3. Cortadura.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3593,9 +3539,63 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1761907012090,
-      "modifiedDate": 1761907012091,
-      "sizeInBytes": 296,
+      "createdDate": 1761907012096,
+      "modifiedDate": 1761907012096,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/5. Resistencia de materiales/1. Introducción.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012096,
+      "modifiedDate": 1761907012096,
+      "sizeInBytes": 366,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/4. Estática/4.Estatica.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012091,
+      "modifiedDate": 1761907012093,
+      "sizeInBytes": 872958,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3956,33 +3956,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/4. Estática/4.Estatica.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012091,
-      "modifiedDate": 1761907012093,
-      "sizeInBytes": 872958,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/4. Estática/2.1.1. Fuerzas puntuales.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4001,6 +3974,33 @@
       "createdDate": 1761907012091,
       "modifiedDate": 1761907012091,
       "sizeInBytes": 264,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/4. Estática/2.1. Tipos de carga.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012090,
+      "modifiedDate": 1761907012091,
+      "sizeInBytes": 296,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4091,33 +4091,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/2.3. Ensayo de charpy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012089,
-      "modifiedDate": 1761907012089,
-      "sizeInBytes": 472,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/2.2.3. Vickers.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4136,6 +4109,33 @@
       "createdDate": 1761907012089,
       "modifiedDate": 1761907012089,
       "sizeInBytes": 238,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/2.3. Ensayo de charpy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012089,
+      "modifiedDate": 1761907012089,
+      "sizeInBytes": 472,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4226,33 +4226,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/1. Ensayos.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012089,
-      "modifiedDate": 1761907012089,
-      "sizeInBytes": 590,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/2.1. Resistencia mecánica.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4271,6 +4244,33 @@
       "createdDate": 1761907012089,
       "modifiedDate": 1761907012089,
       "sizeInBytes": 229,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/3. Ensayos/1. Ensayos.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012089,
+      "modifiedDate": 1761907012089,
+      "sizeInBytes": 590,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4496,33 +4496,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/2. Tratamientos/2.3. Recocido.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012084,
-      "modifiedDate": 1761907012084,
-      "sizeInBytes": 458,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/2. Tratamientos/2.2. Revenido.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4577,6 +4550,33 @@
         "newlineCount": 0
       }
     },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/2. Tratamientos/2.3. Recocido.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012084,
+      "modifiedDate": 1761907012084,
+      "sizeInBytes": 458,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/2. Tratamientos/2.0. Tratamientos térmicos.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4622,6 +4622,114 @@
       "createdDate": 1761907012084,
       "modifiedDate": 1761907012084,
       "sizeInBytes": 772,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/3.2. Aleaciones de cobre.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012076,
+      "modifiedDate": 1761907012076,
+      "sizeInBytes": 1407,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/3.2.2. Latón.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012076,
+      "modifiedDate": 1761907012076,
+      "sizeInBytes": 1268,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/PDF/01_Materiales_2425.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012077,
+      "modifiedDate": 1761907012082,
+      "sizeInBytes": 2572861,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/PDF/0.Tema materiales resumido.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012076,
+      "modifiedDate": 1761907012077,
+      "sizeInBytes": 937018,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4847,87 +4955,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/PDF/01_Materiales_2425.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012077,
-      "modifiedDate": 1761907012082,
-      "sizeInBytes": 2572861,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/PDF/0.Tema materiales resumido.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012076,
-      "modifiedDate": 1761907012077,
-      "sizeInBytes": 937018,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/3.2.2. Latón.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012076,
-      "modifiedDate": 1761907012076,
-      "sizeInBytes": 1268,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/3.2.1 Bronce.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4946,6 +4973,33 @@
       "createdDate": 1761907012076,
       "modifiedDate": 1761907012076,
       "sizeInBytes": 387,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/2.1.2. Aceros aleados.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761907012075,
+      "modifiedDate": 1761907012075,
+      "sizeInBytes": 2812,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4982,60 +5036,6 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/3.2. Aleaciones de cobre.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012076,
-      "modifiedDate": 1761907012076,
-      "sizeInBytes": 1407,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/2.2.2. Fundición de hierro nodular.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761907012075,
-      "modifiedDate": 1761907012075,
-      "sizeInBytes": 344,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/2.2.1. Fundición gris.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5063,7 +5063,7 @@
         "newlineCount": 0
       }
     },
-    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/2.1.2. Aceros aleados.md": {
+    "GS_Mecatronica/1º Año/Elementos de maquinas/1. Materiales/2.2.2. Fundición de hierro nodular.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5080,7 +5080,7 @@
       "aliases": [],
       "createdDate": 1761907012075,
       "modifiedDate": 1761907012075,
-      "sizeInBytes": 2812,
+      "sizeInBytes": 344,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5279,60 +5279,6 @@
         "newlineCount": 0
       }
     },
-    "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764314637928,
-      "modifiedDate": 1764585670651,
-      "sizeInBytes": 3230,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764578590115,
-      "modifiedDate": 1764585826103,
-      "sizeInBytes": 3578,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "CCNA/01_Network_Fundamentals/Topologias_de_red.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5351,6 +5297,33 @@
       "createdDate": 1764239483203,
       "modifiedDate": 1764697248103,
       "sizeInBytes": 5191,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CCNA/01_Network_Fundamentals/PoE (Power of ethernet).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764314637928,
+      "modifiedDate": 1764585670651,
+      "sizeInBytes": 3230,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5390,28 +5363,55 @@
     "CCNA/01_Network_Fundamentals/Componentes_Hardware_Cisco.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 379,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2633333333333334,
-      "characterCount": 3074,
-      "nonWhitespaceCharacterCount": 2580,
-      "newlineCount": 111,
-      "readingTimeInMinutes": 1.430188679245283,
-      "linkCount": 2,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1765303769700,
       "modifiedDate": 1765307798376,
       "sizeInBytes": 3114,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.2633333333333334,
-        "wordCount": 379,
-        "characterCount": 3074,
-        "nonWhitespaceCharacterCount": 2580,
-        "newlineCount": 111
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764578590115,
+      "modifiedDate": 1764585826103,
+      "sizeInBytes": 3578,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "CCNA/01_Network_Fundamentals/Cableado_de_red.md": {
@@ -5441,8 +5441,8 @@
         "newlineCount": 0
       }
     },
-    "CCNA/01_Network_Fundamentals/Anexos/SOHo.png": {
-      "isCountable": false,
+    "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md": {
+      "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
@@ -5456,9 +5456,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1764265849397,
-      "modifiedDate": 1764265849397,
-      "sizeInBytes": 220676,
+      "createdDate": 1764264688764,
+      "modifiedDate": 1764337764150,
+      "sizeInBytes": 3212,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5468,7 +5468,7 @@
         "newlineCount": 0
       }
     },
-    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201111852.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/PoE.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5483,36 +5483,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1764584332216,
-      "modifiedDate": 1764584332216,
-      "sizeInBytes": 186691,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "CCNA/01_Network_Fundamentals/Anexos/server spine-leaf.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764264921799,
-      "modifiedDate": 1764264921800,
-      "sizeInBytes": 230716,
+      "createdDate": 1764316314184,
+      "modifiedDate": 1764316314184,
+      "sizeInBytes": 22869,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5549,7 +5522,7 @@
         "newlineCount": 0
       }
     },
-    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201111859.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/server spine-leaf.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5564,9 +5537,63 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1764584339916,
-      "modifiedDate": 1764584339917,
-      "sizeInBytes": 186691,
+      "createdDate": 1764264921799,
+      "modifiedDate": 1764264921800,
+      "sizeInBytes": 230716,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CCNA/01_Network_Fundamentals/Anexos/SFP con RJ45.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764779793765,
+      "modifiedDate": 1764779793765,
+      "sizeInBytes": 212380,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CCNA/01_Network_Fundamentals/Anexos/SOHo.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764265849397,
+      "modifiedDate": 1764265849397,
+      "sizeInBytes": 220676,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5630,7 +5657,7 @@
         "newlineCount": 0
       }
     },
-    "CCNA/01_Network_Fundamentals/Anexos/SFP con RJ45.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201111859.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5645,9 +5672,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1764779793765,
-      "modifiedDate": 1764779793765,
-      "sizeInBytes": 212380,
+      "createdDate": 1764584339916,
+      "modifiedDate": 1764584339917,
+      "sizeInBytes": 186691,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5657,7 +5684,7 @@
         "newlineCount": 0
       }
     },
-    "CCNA/01_Network_Fundamentals/Anexos/PoE.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201111852.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5672,9 +5699,63 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1764316314184,
-      "modifiedDate": 1764316314184,
-      "sizeInBytes": 22869,
+      "createdDate": 1764584332216,
+      "modifiedDate": 1764584332216,
+      "sizeInBytes": 186691,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110734.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764583654210,
+      "modifiedDate": 1764583654211,
+      "sizeInBytes": 389549,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110441.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764583481141,
+      "modifiedDate": 1764583481142,
+      "sizeInBytes": 180481,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5738,7 +5819,7 @@
         "newlineCount": 0
       }
     },
-    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110734.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110846.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5753,9 +5834,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1764583654210,
-      "modifiedDate": 1764583654211,
-      "sizeInBytes": 389549,
+      "createdDate": 1764583726912,
+      "modifiedDate": 1764583726912,
+      "sizeInBytes": 205021,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5792,114 +5873,6 @@
         "newlineCount": 0
       }
     },
-    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110846.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764583726912,
-      "modifiedDate": 1764583726912,
-      "sizeInBytes": 205021,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "CCNA/01_Network_Fundamentals/Anexos/Pasted image 20251201110441.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764583481141,
-      "modifiedDate": 1764583481142,
-      "sizeInBytes": 180481,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "CCNA/01_Network_Fundamentals/Anexos/Cats.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764680656402,
-      "modifiedDate": 1764680656402,
-      "sizeInBytes": 873151,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "CCNA/01_Network_Fundamentals/Anexos/Cable enrrollado.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764683705615,
-      "modifiedDate": 1764683705616,
-      "sizeInBytes": 271138,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "CCNA/01_Network_Fundamentals/Anexos/Conectores fibra.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5927,7 +5900,7 @@
         "newlineCount": 0
       }
     },
-    "CCNA/01_Network_Fundamentals/Anexos/Cable de pares trenzados.png": {
+    "CCNA/01_Network_Fundamentals/Anexos/Cats.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5942,9 +5915,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1764780001986,
-      "modifiedDate": 1764780001987,
-      "sizeInBytes": 150493,
+      "createdDate": 1764680656402,
+      "modifiedDate": 1764680656402,
+      "sizeInBytes": 873151,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6008,6 +5981,60 @@
         "newlineCount": 0
       }
     },
+    "CCNA/01_Network_Fundamentals/Anexos/Cable enrrollado.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764683705615,
+      "modifiedDate": 1764683705616,
+      "sizeInBytes": 271138,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CCNA/01_Network_Fundamentals/Anexos/Cable de pares trenzados.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764780001986,
+      "modifiedDate": 1764780001987,
+      "sizeInBytes": 150493,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "CCNA/01_Network_Fundamentals/Anexos/3 capas.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -6053,33 +6080,6 @@
       "createdDate": 1764266059705,
       "modifiedDate": 1764266059705,
       "sizeInBytes": 284008,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764264688764,
-      "modifiedDate": 1764337764150,
-      "sizeInBytes": 3212,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
