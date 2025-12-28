@@ -13,6 +13,7 @@
 
 > [!info]
 Modelo de red muy simple para pequeñas oficinas o casas. Suele tener un solo router “todo en uno”.
+
 --- start-multi-column: ID_xl1u
 ```column-settings
 Number of Columns: 2

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
+                "file": "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicios"
+              "title": "Topologias_de_red"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.50312423706055,
-    "collapsed": true
+    "width": 467.50312423706055
   },
   "right": {
     "id": "e0ac83ed8c080f72",
@@ -213,19 +212,19 @@
   },
   "active": "2f0e9d073800c6da",
   "lastOpenFiles": [
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Practica_Grafcet_maqueta.pdf",
     "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
     "CCNA/01_Network_Fundamentals/Cableado_de_red.md",
     "CCNA/01_Network_Fundamentals/Componentes_Hardware_Cisco.md",
+    "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Practica_Grafcet_maqueta.pdf",
     "Metodos predictivos/Sin título.md",
     "Metodos predictivos/Ultrasonidos",
     "Metodos predictivos",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Sistemas eléctricos y electrónicos/Corriente alterna/Ejercicios.md",
     "CCNA/01_Network_Fundamentals/Anexos/Conectores fibra.png",
     "Reparaciones_de_Motores__1748357417.pdf",
-    "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
     "CCNA/01_Network_Fundamentals/IMAGENES_RECOMENDADAS.md",
     "CCNA/01_Network_Fundamentals/Anexos/Cable enrrollado.png",
     "CCNA/01_Network_Fundamentals/Anexos/capas de cable de fibra.png",
