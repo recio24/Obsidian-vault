@@ -11,14 +11,16 @@
             "id": "2f0e9d073800c6da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
-                "mode": "source",
-                "source": false
+                "file": "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Practica_Grafcet_maqueta.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 326,
+                "zoom": 1.5117919774239066
               },
-              "icon": "lucide-file",
-              "title": "Topologias_de_red"
+              "icon": "lucide-file-text",
+              "title": "Practica_Grafcet_maqueta"
             }
           }
         ]
@@ -210,15 +212,16 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "2f0e9d073800c6da",
+  "active": "a3646f9a1c35bc65",
   "lastOpenFiles": [
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
+    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Practica_Grafcet_maqueta.pdf",
+    "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "CCNA/01_Network_Fundamentals/Arquitecturas_modernas.md",
     "CCNA/01_Network_Fundamentals/Cableado_de_red.md",
     "CCNA/01_Network_Fundamentals/Componentes_Hardware_Cisco.md",
     "CCNA/01_Network_Fundamentals/Cisco_Interfaces_Hardware.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Ejercicios.md",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Estructura de un PLC.md",
-    "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Practica_Grafcet_maqueta.pdf",
     "Metodos predictivos/Sin título.md",
     "Metodos predictivos/Ultrasonidos",
     "Metodos predictivos",
@@ -236,7 +239,6 @@
     "CCNA/01_Network_Fundamentals/Anexos/SFP con RJ45.png",
     "CCNA/01_Network_Fundamentals/Anexos/Cats.png",
     "CCNA/01_Network_Fundamentals/Network_conceptos.md",
-    "CCNA/01_Network_Fundamentals/Topologias_de_red.md",
     "Pasted image 20251202184043 1.png",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.eddx.uIjhZN",
     "GS_Mecatronica/2º Año/Integración de sistemas/3. PLC/Maqueta soplador arena.eddx",
